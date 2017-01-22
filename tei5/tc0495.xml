@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/toolbox/master/tei/cligs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Don juan ou le festin de pierre</title>
+            <title type="sub">Don juan ou le festin de pierre</title>
+            <title type="short">Don juan ou le festin de pierre</title>
+            <title type="idno">
+               <idno type="viaf"/>
+            </title>
+            <author>
+               <name type="full">LE TELLIER, Jean-François</name>
+               <name type="short">Le tellier</name>
+               <idno type="viaf"/>
+            </author>
+            <principal>Texte saisi par Isabelle Martin d'après le manuscrit ff. 9251 de la Bibliothèque Nationale de France.</principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>CLiGS</publisher>
+            <idno type="cligs"/>
+            <date>2016</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digital-source">
+               <date>2014</date>, <idno>LETELLIER_DOMJUAN</idno>, <ref target="http://theatre-classique-fr/"/>. Publié par Paul Fièvre.</bibl>
+            <bibl type="print-source">
+               <date>1713</date>, <idno/>, <ref target="#"/>. .</bibl>
+            <bibl type="edition-first">
+               <date/>, <idno/>, <ref target="#"/>.</bibl>
+            <bibl type="performance-first">
+               <date>1713</date>, <idno/>, <ref target="#"/>. Représentée pour la première fois à la Foire Saint-Laurent et 1713.</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <textClass>
+            <keywords scheme="keywords.csv">
+               <term type="supergenre">drama</term>
+               <term type="genre">Opéra comique</term>
+               <term type="structure">trois actes, un prologue</term>
+               <term type="form">vers</term>
+               <term type="period">1711-1720</term>
+               <term type="taille">0-250</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2016-04-29" who="cf">Initial TEI version.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <castList>
+            <head>ACTEURS.</head>
+            <castItem>
+               <role xml:id="tc0495-DONJUAN">DON JUAN</role>
+            </castItem>
+            <castItem>
+               <role xml:id="tc0495-ARLEQUIN">ARLEQUIN</role>
+            </castItem>
+            <castItem>
+               <role xml:id="tc0495-LECOMMANDEUR">LE COMMANDEUR</role>
+            </castItem>
+            <castItem>
+               <role xml:id="tc0495-PIERROT">PIERROT</role>
+            </castItem>
+            <castItem>
+               <role xml:id="tc0495-FANCHON">FANCHON</role>
+            </castItem>
+            <castItem>
+               <role xml:id="tc0495-ISABELLE">ISABELLE</role>
+            </castItem>
+            <castItem>
+               <role xml:id="tc0495-COLOMBINE">COLOMBINE</role>
+            </castItem>
+            <castItem>
+               <role xml:id="tc0495-UNBERGER">UN BERGER</role>
+            </castItem>
+            <castItem>
+               <role xml:id="tc0495-UNEBERGERE">UNE BERGÈRE</role>
+            </castItem>
+         </castList>
+         <set>
+            <p/>
+         </set>
+      </front>
+      <body>
+         <div type="prologue" n="1">
+            <head>PROLOGUE.</head>
+            <div type="scene" n="1">
+               <head>SCÈNE PREMIÈRE. Pierrot, Fanchon.</head>
+               <stage>Pierrot tient du fromage dans ses mains et Fanchon un panier d'oeufs. Pierrot après avoir mis son fromage a terre présente un écriteau.</stage>
+               <sp who="tc0495-PIERROT">
+                  <speaker>PIERROT.</speaker>
+	                 <l n="1">Dis-moi, ma petite Fanchon</l>
+	                 <l n="2">Que portes-tu dans ton giron</l>
+	                 <l n="3">Ô reguingué.</l>
+                  <stage>Air.</stage>
+	                 <l n="4">Prends bien garde à ta marchandise</l>
+	                 <l n="5">Car aujourd'hui tout est de prise.</l>
+               </sp>
+               <sp who="tc0495-FANCHON">
+                  <speaker>FANCHON.</speaker>
+	                 <l n="6">Ne touches point à mes oeufs frais</l>
+	                 <l n="7">Pourquoi tant les mirer de près</l>
+	                 <l n="8">Ô reguingué.</l>
+                  <stage>Air.</stage>
+	                 <l n="9">Veux-tu voir si dans la coquille</l>
+	                 <l n="10">Quelque petit poulet fourmille.</l>
+               </sp>
+            </div>
+            <div type="scene" n="1">
+               <head>SCÈNE I..</head>
+               <stage>Arlequin vient manger le fromage de Pierrot à la dérobée et Pierrot lui enfonce le reste dans le plat.</stage>
+               <sp who="tc0495-PIERROT">
+                  <speaker>PIERROT.</speaker>
+	                 <l n="11">Que faites-vous là cousin</l>
+	                 <l n="12">Vous mangez mon fromage</l>
+	                 <l n="13">Eh bien si vous avez faim</l>
+	                 <l n="14">Mangés en jusqu'à demain</l>
+	                 <l n="15">Courage, courage.</l>
+               </sp>
+            </div>
+            <div type="scene" n="3">
+               <head>SCÈNE III. Don Juan, Arlequin, Fanchon.</head>
+               <stage>Don Juan après quelques lazzis sur la gourmandise avec Arlequin s'approche de Fanchon.</stage>
+               <sp who="tc0495-DONJUAN">
+                  <speaker>DON JUAN.</speaker>
+	                 <l n="16">Que cet objet est charmant</l>
+	                 <l n="17">Me ravit et m'enchante</l>
+	                 <l n="18">Quel bonheur pour un amant</l>
+	                 <l n="19">Qui de sa beauté naissante</l>
+	                 <l n="20">Peut cultiver la plante</l>
+	                 <l n="21">Et l'arroser souvent.</l>
+               </sp>
+               <sp who="tc0495-PIERROT">
+                  <speaker>PIERROT.</speaker>
+	                 <l n="22">Laissés en repos</l>
+	                 <l n="23">Notre minagère</l>
+	                 <l n="24">Comme</l>
+	                 <l n="25">J'en avons affaire</l>
+	                 <l n="26">Morguienne de vous</l>
+	                 <l n="27">Quel homme, quel homme</l>
+	                 <l n="28">Morguienne de vous.</l>
+                  <stage>Air.</stage>
+               </sp>
+               <sp who="tc0495-FANCHON">
+                  <speaker>FANCHON, à Pierrot.</speaker>
+	                 <l n="29">Tu te mets en colère</l>
+	                 <l n="30">Petit mari</l>
+	                 <l n="31">Va, je n'ai point affaire</l>
+	                 <l n="32">D'un favori</l>
+	                 <l n="33">Tu seras toujours mon bouchon</l>
+	                 <l n="34">Mon joli mignon</l>
+	                 <l n="35">Et qui te plaira</l>
+	                 <l n="36">Ô gai lanla.</l>
+                  <note type="L">Colin-maillard : jeu d'enfants, où on bande les yeux à l'un de la troupe, qui est obligé d'attrapper quelqu'un des autres à tâtons pour le mettre en sa place.</note>
+                  <ab>
+s	</ab>
+                  <l n="37">Avant que de finir la scène</l>
+	                 <l n="38">Inventons quelque jeu gaillard</l>
+	                 <l n="39">Pierrot laisse bander ta veine</l>
+
+	                 <l n="40">Nous jouerons a colin-maillard.</l>
+                  <stage>On bande les yeux a Pierrot et Don Juan enlève Fanchon. Arlequin ôte le bandeau des yeux de Pierrot qui est fort affligé de ne plus trouver sa femme, Arlequin enlève a son tour Pierrot sur son dos et le prologue finit.</stage>
+               </sp>
+            </div>
+         </div>
+         <div type="acte" n="2">
+            <head>ACTE I</head>
+            <stage>Le théâtre représente le rivage de la mer.</stage>
+            <div type="scene" n="1">
+               <head>SCÈNE I.</head>
+               <stage>Isabelle et Colombine en Bergères viennent se promener au bord de la Mer.</stage>
+               <sp who="tc0495-ISABELLE">
+                  <speaker>ISABELLE.</speaker>
+	                 <l n="41">Nous jouissons au bord de ce rivage</l>
+	                 <l n="42">D'un sort heureux, d'un tranquille repos</l>
+	                 <l n="43">Et de l'amour nous fuyons le naufrage</l>
+	                 <l n="44">Plus dangereux que la mer et ses flots.</l>
+               </sp>
+            </div>
+            <div type="scene" n="2">
+               <head>SCÈNE II.</head>
+               <stage>On entend un grand bruit de tempête et les flots jettent Don Juan et Arlequin sur le rivage, en chemise, Isabelle et Colombine courent a leur secours.</stage>
+               <sp who="tc0495-ISABELLE">
+                  <speaker>ISABELLE.</speaker>
+                  <ab>Quel objet, j'en suis attendrie
+	</ab>
+                  <l n="45">En vain j'appelle ma fierté</l>
+	                 <l n="46">Ah faut-il lui sauver la vie</l>
+	                 <l n="47">Aux dépends de ma liberté.</l>
+               </sp>
+               <sp who="tc0495-COLOMBINE">
+                  <speaker>COLOMBINE.</speaker>
+	                 <l n="48">Tâchons avec cette eau de vie</l>
+	                 <l n="49">De sauver ces deux malheureux</l>
+	                 <l n="50">Ne trouverai-je point en eux</l>
+	                 <l n="51">Quelque signe de vie.</l>
+               </sp>
+               <sp who="tc0495-DONJUAN">
+                  <speaker>DON JUAN, revenant de son évanouissement.</speaker>
+	                 <l n="52">Échappé du naufrage</l>
+	                 <l n="53">Je rends grâce au sort</l>
+	                 <l n="54">D'avoir sur ce rivage</l>
+	                 <l n="55">Abordé votre port</l>
+	                 <l n="56">Et vogue la galère.</l>
+                  <stage>Air.</stage>
+               </sp>
+               <sp who="tc0495-ISABELLE">
+                  <speaker>ISABELLE.</speaker>
+	                 <l n="57">Sensible a votre malheur</l>
+	                 <l n="58">À votre triste aventure</l>
+	                 <l n="59">Je vous offre de bon cour</l>
+	                 <l n="60">Turelure</l>
+	                 <l n="61">Ma chambre et sa garniture</l>
+	                 <l n="62">Robin turelure...</l>
+                  <stage>Air.</stage>
+               </sp>
+               <sp who="tc0495-ARLEQUIN">
+                  <speaker>ARLEQUIN.</speaker>
+	                 <l n="63">Vous ne connaissez pas</l>
+	                 <l n="64">Ce dangereux corsaire</l>
+	                 <l n="65">Mais moi qui suis son frère</l>
+	                 <l n="66">Je vous le dis tout bas</l>
+	                 <l n="67">Ne vous y fiez pas.</l>
+               </sp>
+               <sp who="tc0495-ISABELLE">
+                  <speaker>ISABELLE.</speaker>
+	                 <l n="68">Quoi de ce beau seigneur</l>
+	                 <l n="69">Vous vous dites le frère</l>
+	                 <l n="70">L'amour le fit pour plaire</l>
+	                 <l n="71">Et vous faites horreur</l>
+	                 <l n="72">Vous n'êtes qu'un menteur.</l>
+               </sp>
+               <sp who="tc0495-ARLEQUIN">
+                  <speaker>ARLEQUIN.</speaker>
+	                 <l n="73">Savez-vous la raison pourquoi</l>
+	                 <l n="74">Mon cadet est plus blanc que moi</l>
+	                 <l n="75">Liron falarirette</l>
+	                 <l n="76">On l'a fait de jour, moi de nuit</l>
+	                 <l n="77">Liron falariri.</l>
+               </sp>
+               <sp who="tc0495-DONJUAN">
+                  <speaker>DON JUAN.</speaker>
+	                 <l n="78">Pour m'avoir sauvé du naufrage</l>
+	                 <l n="79">Ma chère enfant</l>
+	                 <l n="80">Je veux vous prendre en mariage</l>
+	                 <l n="81">Dès à présent.</l>
+	                 <l n="82">Menez moi dans votre logis</l>
+	                 <l n="83">J'ai besoin de changer d'habits.</l>
+               </sp>
+               <sp who="tc0495-ARLEQUIN">
+                  <speaker>ARLeQUIN, arrêtant Isabelle.</speaker>
+	                 <l n="84">Je vous le dis encor un coup</l>
+	                 <l n="85">Il est plus à craindre qu'un loup</l>
+	                 <l n="86">S'il met le pied dans la maison</l>
+	                 <l n="87">Croyez moi prenez bien garde</l>
+                  <note type="L">Cotillon : Cotte ou jupe du dessous. Jupon des paysannes. [L]</note>
+	                 <l n="88">À votre cotillon.</l>
+                  <stage>Ils rentrent.</stage>
+               </sp>
+            </div>
+            <div type="scene" n="3">
+               <head>SCÈNE III. Un Berger et deux Bergères viennent se réjouir au bord de la Mer.</head>
+               <sp who="tc0495-UNBERGER">
+                  <speaker>UN BERGER.</speaker>
+	                 <l n="89">Dans notre brillante jeunesse</l>
+	                 <l n="90">Livrons nos cours a la tendresse</l>
+	                 <l n="91">Laissons murmurer la vieillesse</l>
+	                 <l n="92">Qui languit sous le poids des ans</l>
+	                 <l n="93">Dans notre brillante jeunesse</l>
+	                 <l n="94">Ne songeons qu'a passer le temps</l>
+               </sp>
+               <sp who="tc0495-UNEBERGERE">
+                  <speaker>UNE BERGÈRE.</speaker>
+	                 <l n="95">Dans notre village</l>
+	                 <l n="96">Chacun vit content</l>
+	                 <l n="97">Fidèle et constant</l>
+	                 <l n="98">Même après le mariage</l>
+	                 <l n="99">Vivez-vous ainsi</l>
+	                 <l n="100">Bonnes gens d'ici.</l>
+               </sp>
+               <sp who="tc0495-UNEAUTREBERGERE">
+                  <speaker>UNE AUTRE BERGÈRE.</speaker>
+	                 <l n="101">Jamais une belle</l>
+	                 <l n="102">Dans notre hameau</l>
+	                 <l n="103">Ne descend sur l'eau</l>
+                  <note type="L">Javelle : Blé battu qu'on laisse qulques jours sur le terre en petits tas pour se sécher, avant qu'on mette en gerbe. Se dit aussi de petits fagots de sarments ou bottes d'échalats, ou de lattes. Les javelles doient contenir 50 échalats. On dit parmi le stonneliers, qu'un bariel est tombé en javelle, losque les douves, et les fonds se séparent. [F]</note>
+	                 <l n="104">Pour se trouver à javelle</l>
+	                 <l n="105">Vivez-vous ainsi</l>
+	                 <l n="106">Bonnes gens d'ici.</l>
+                  <stage>Les Bergers et Bergères voyant venir Arlequin se retirent.</stage>
+               </sp>
+            </div>
+            <div type="scene" n="4">
+               <head>SCÈNE IV.</head>
+               <sp who="tc0495-ARLEQUIN">
+                  <speaker>ARLEQUIN, chargé d'un tableau sur les épaules.</speaker>
+	                 <l n="107">Oh, écoutez petits et grands</l>
+	                 <l n="108">Mon histoire et mes ardeurs</l>
+	                 <l n="109">Depuis vingt ans je sers mon maître</l>
+	                 <l n="110">Un fourbe, un scélérat, un traître</l>
+	                 <l n="111">Dont je n'ai touché que dix sols</l>
+	                 <l n="112">Et qui m'a bien roué de coups.</l>
+	                 <l n="113">Je tremble à chaque instant de peur</l>
+	                 <l n="114">Il vient d'occire le Commandeur</l>
+	                 <l n="115">Il a débauché tant de filles</l>
+	                 <l n="116">Des plus honorables familles</l>
+	                 <l n="117">Que je crains qu'un Diable aujourd'hui</l>
+	                 <l n="118">N'emporte son valet et lui.</l>
+               </sp>
+            </div>
+            <div type="scene" n="5">
+               <head>SCÈNE V.</head>
+               <stage>Don Juan veut battre Arlequin et Arlequin fuit, la ferme s'ouvre et l'on voit la statue du Commandeur accompagnée d'autres figures.</stage>
+               <sp who="tc0495-ARLEQUIN">
+                  <speaker>ARLEQUIN.</speaker>
+	                 <l n="119">Ah, Messieurs sauvez-moi des coups</l>
+	                 <l n="120">De mon maître en courroux. </l>
+                  <stage>Bis.</stage>
+                  <note type="L">Pinte : Vaisseau qui sert à mesurer les liqueurs, et quelquefois des choses sèches. Une pinte de vin, d'eau, d'huile. La pinte contient deux chopines, ou la moitié d'une quarte. La pinte de Paris est environ la sixiéme partie du congé Romain, et contient le poids de deux livres d'eau commune. [F]</note>
+	                 <l n="121">Je vous payerai pinte a dix sols</l>
+	                 <l n="122">Pour vous enivrer tous.</l>
+                  <stage>Bis.</stage>
+                  <stage>Don Juan se moque d'Arlequin et après lui avoir pardonné dit :</stage>
+               </sp>
+               <sp who="tc0495-DONJUAN">
+                  <speaker>DON JUAN.</speaker>
+	                 <l n="123">J'admire d'un poltron la gloire</l>
+	                 <l n="124">Qui croit établie sa mémoire</l>
+	                 <l n="125">Par un superbe monument</l>
+	                 <l n="126">On le prendrait pour Alexandre</l>
+	                 <l n="127">Mais son histoire le dément</l>
+	                 <l n="128">Le lâche n'a pu se défendre.</l>
+               </sp>
+               <sp who="tc0495-ARLEQUIN">
+                  <speaker>ARLEQUIN.</speaker>
+	                 <l n="129">Quoi, c'est donc là ce Commandeur</l>
+	                 <l n="130">Que votre bras a mis parterre</l>
+	                 <l n="131">Pour vous faire épouser sa sour</l>
+	                 <l n="132">Veut-il vous faire encor la guerre</l>
+	                 <l n="133">Ah pour le coup il a grand tort</l>
+	                 <l n="134">Il mérite bien d'être mort.</l>
+                  <stage>Don Juan ordonne à Arlequin d'aller prier la statue a dîner, Arlequin après les lazzis convenables dit :</stage>
+               </sp>
+               <sp who="tc0495-ARLEQUIN">
+                  <speaker>ARLEQUIN.</speaker>
+	                 <l n="135">Veux-tu nous faire l'honneur</l>
+	                 <l n="136">Commandeur</l>
+	                 <l n="137">Dont la mine me fait peur</l>
+	                 <l n="138">De venir chez nous sans suite</l>
+	                 <l n="139">Manger une carpe frite.</l>
+                  <stage>La statue baisse la tête, et Arlequin tout effrayé dit a Don Juan :</stage>
+	                 <l n="140">Ô le Diable d'homme</l>
+	                 <l n="141">Je suis confondu</l>
+	                 <l n="142">Monsieur voila comme</l>
+	                 <l n="143">Il m'a répondu</l>
+	                 <l n="144">Il aime la carpe</l>
+                  <note type="L">Goulu : Goulistre, glouton, gourmand qui mange beaucoup et fort vite. [Aussi,] Animal sauvage fort noir et fort luisant, qu'on trouve en laponie et en moscovie, qui vit dans l'eau et sur terre. Il est gros comme un chien. [F]</note>
+	                 <l n="145">La peste soit du goulu</l>
+	                 <l n="146">Lanturelu lanturelu.</l>
+               </sp>
+               <sp who="tc0495-DONJUAN">
+                  <speaker>DON JUAN.</speaker>
+	                 <l n="147">Ainsi je commence a croire</l>
+	                 <l n="148">Qu'on aime à boire</l>
+	                 <l n="149">Chez les morts</l>
+	                 <l n="150">Ainsi je commence a croire</l>
+	                 <l n="151">Qu'on aime à boire</l>
+	                 <l n="152">Sur les sombres bords</l>
+                  <note type="L">Parques : divinités des Enfers chargées de filer la vie des hommes, étaient au nombre de trois, Clotho, Lachésis, Atropos : Chlotho préside à la naissance et tient le fuseau, Lachésis le tourne et file, Atropos coupe le fil. [B]</note>
+	                 <l n="153">Que cette parque inévitable</l>
+	                 <l n="154">Vienne aujourd'hui pousser mes jours à bout</l>
+	                 <l n="155">Je me moque de tout à table.</l>
+	                 <l n="156">Puisque Platon permet qu'on soit à table</l>
+	                 <l n="157">Lieu délectable</l>
+	                 <l n="158">Je verrai le trépas d'un oil serein</l>
+	                 <l n="159">Et là-bas comme ici je boirai du bon vin.</l>
+               </sp>
+            </div>
+         </div>
+         <div type="acte" n="3">
+            <head>ACTE II</head>
+            <div type="scene" n="1">
+               <head>SCÈNE PREMIÈRE.</head>
+               <stage>Arlequin voyant son maître revenu lui dit ;</stage>
+               <sp who="tc0495-ARLEQUIN">
+                  <speaker>ARLEQUIN.</speaker>
+	                 <l n="160">Voulez-vous savoir l'histoire</l>
+	                 <l n="161">Des femmes de mon temps</l>
+	                 <l n="162">On en voit mille à la foire</l>
+	                 <l n="163">Venir avec leurs galants</l>
+	                 <l n="164">L'époux tranquille</l>
+	                 <l n="165">Garde au logis les enfants</l>
+                  <note type="L">Gille : Personnage du théâtre de la foire, le niais. [L]</note>
+	                 <l n="166">Comme un bon Gille.</l>
+                  <stage>Don Juan demande a dîner, et en même-temps le buffet paraît, le couvert est mis et Don Juan se met a table. Arlequin s'ennuie de ne point manger.</stage>
+	                 <l n="167">D'une jeune brune</l>
+	                 <l n="168">Vous causez l'ardeur</l>
+	                 <l n="169">La fortune</l>
+	                 <l n="170">Et vous aurez son cour.</l>
+               </sp>
+               <sp who="tc0495-DONJUAN">
+                  <speaker>DON JUAN.</speaker>
+	                 <l n="171">Quelle est donc cette brune aimable</l>
+	                 <l n="172">Cher Arlequin, allons la voir</l>
+	                 <l n="173">Vite, qu'on ôte la table</l>
+	                 <l n="174">Je reviendrai souper ce soir.</l>
+               </sp>
+               <sp who="tc0495-ARLEQUIN">
+                  <speaker>ARLEQUIN.</speaker>
+	                 <l n="175">Si je ne suis de ce repas</l>
+	                 <l n="176">Ma foi je n'irai pas</l>
+	                 <l n="177">Faites-moi donner un couvert</l>
+	                 <l n="178">J'ai l'appétit ouvert.</l>
+                  <stage>Don Juan ordonne qu'on donne un couvert à Arlequin.</stage>
+               </sp>
+            </div>
+            <div type="scene" n="2">
+               <head>SCÈNE II.</head>
+               <stage>On entend frapper a la porte, Arlequin va voir et trouvant que c'est la statue revient fort épouvanté. Don Juan va voir à son tour et sans s'effrayer éclaire la statue et la fait mettre à table et après bien des lazzis que fait Arlequin.</stage>
+               <sp who="tc0495-LASTATUE">
+                  <speaker>LA STATUE.</speaker>
+	                 <l n="179">À venir souper je t'engage</l>
+	                 <l n="180">Je veux ce soir sur mon tombeau</l>
+	                 <l n="181">Te régaler d'un mets nouveau</l>
+	                 <l n="182">Auras-tu ce courage ?</l>
+                  <stage>Don Juan accepte la proposition et reconduit la statue, Arlequin fait des lazzis qui font comprendre qu'il ne veut point aller souper chez le Commandeur.</stage>
+               </sp>
+            </div>
+         </div>
+         <div type="acte" n="3">
+            <head>ACTE III</head>
+            <div type="scene" n="1">
+               <head>SCÈNE PREMIÈRE. Isabelle et Colombine trouvent Don Juan et Arlequin.</head>
+               <sp who="tc0495-ISABELLE">
+                  <speaker>ISABELLE.</speaker>
+	                 <l n="183">Vous n'êtes qu'un perfide amant</l>
+	                 <l n="184">Qui mérite un châtiment</l>
+	                 <l n="185">Quand on est si volage eh bien</l>
+	                 <l n="186">Doit-on prendre pour gage</l>
+	                 <l n="187">Vous m'entendez bien.</l>
+               </sp>
+               <sp who="tc0495-ARLEQUIN">
+                  <speaker>ARLEQUIN.</speaker>
+	                 <l n="188">Vous vous plaignez injustement</l>
+	                 <l n="189">Nous vous aimons fidèlement</l>
+	                 <l n="190">Par un contrat en forme eh bien</l>
+                  <note type="C">"Atendez moi sous l'orme" est une comédie de Régnard de 1697.On trouve aussi cette expression dans "l'Avocat savetier" de Rosimond (1683).</note>
+	                 <l n="191">Attendez nous sous l'orme</l>
+	                 <l n="192">Vous m'entendez bien.</l>
+                  <stage>Les bergères se retirent et la ferme s'ouvre, on voit le Commandeur sur son tombeau qui prépare à souper à Don Juan. Arlequin fait des lazzis qui marquent sa frayeur, mais Don Juan s'avance hardiment et dit : </stage>
+               </sp>
+               <sp who="tc0495-DONJUAN">
+                  <speaker>DON JUAN.</speaker>
+	                 <l n="193">Tout ceci n'est que vision</l>
+	                 <l n="194">Je donne peu dans la chimère</l>
+	                 <l n="195">Et poussons jusqu'au bout l'affaire</l>
+	                 <l n="196">Nous verrons peut-être a la fin</l>
+	                 <l n="197">Que c'est un tour à la Jobbin.</l>
+                  <stage>Don Juan, mange des serpents et poursuit.</stage>
+	                 <l n="198">Quel Repas et quels mets funestes</l>
+	                 <l n="199">Commandeur sont-ce là les restes</l>
+	                 <l n="200">De ton Infernale Maison</l>
+	                 <l n="201">Mais je veux passer mon envie</l>
+	                 <l n="202">J'en mangerai fut ce un poison</l>
+	                 <l n="203">Et dût il m'en coûter la vie.</l>
+               </sp>
+               <sp who="tc0495-LASTATUE">
+                  <speaker>LA STATUE.</speaker>
+	                 <l n="204">Viens ici que je te régale</l>
+	                 <l n="205">Don Juan donne-moi la main</l>
+	                 <l n="206">C'est ici ton heure fatale</l>
+	                 <l n="207">Et ton repentir sera vain</l>
+	                 <l n="208">Le Ciel se venge enfin</l>
+	                 <l n="209">Des maux dont tu l'outrages</l>
+	                 <l n="210">C'est ainsi qu'un libertin</l>
+	                 <l n="211">Voit terminer son destin.</l>
+               </sp>
+               <sp who="tc0495-ARLEQUIN">
+                  <speaker>ARLEQUIN.</speaker>
+	                 <l n="212">Mes gages, mes gages. Ven...</l>
+               </sp>
+               <stage>Le reste du manuscrit est illisible. [I.M.]</stage>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
