@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">L'opéra comique assiégé</title>
         <title type="sub">Comédie</title>
-        <title type="short">L'opéra comique assiégé</title>
+        <title type="short">Opéra-comique-assiégé</title> 
         <title type="idno">
           <idno type="viaf"/>
         </title>
@@ -351,7 +351,7 @@
             <l n="87">Pour éviter mon courroux.</l>
             <stage>Les deux Comédies prennent la fuite, [comme] en fait l'Envíe et la Fraude, L'Opéra courtise la Chicane.</stage>
             <ab>&gt;
-	</ab>
+    </ab>
             <l n="88">Et toi, Monstre fatal,</l>
             <l n="89">Affreux Animal,</l>
             <l n="90">Échappé du séjour infernal !</l>
@@ -412,7 +412,7 @@
             <speaker>LA COMÉDIE FRANÇAISE.</speaker>
             <ab>
 AIR Dans un Couvent bien-heureux.
-	</ab>
+    </ab>
             <l n="117">Ciel ! Qui l'aurait pu prévoir !</l>
           </sp>
           <sp who="tc0550-LACOMEDIEITALIENNE">

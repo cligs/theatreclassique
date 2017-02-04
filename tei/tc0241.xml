@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">L'école tragique</title>
         <title type="sub">Ou cadet roussel maitre de déclamation comédie</title>
-        <title type="short">L'école tragique</title>
+        <title type="short">École-tragique</title>
         <title type="idno">
           <idno type="viaf"/>
         </title>
@@ -50,7 +50,7 @@
   <text>
     <front>
       <castList>
-        <head>PERSONNAGES DU PROLOGUE. PERSONNAGES.	ACTEURS.</head>
+        <head>PERSONNAGES DU PROLOGUE. PERSONNAGES. ACTEURS.</head>
         <castItem>
           <role xml:id="tc0241-LINVAL">LINVAL</role>
         </castItem>
@@ -1648,7 +1648,7 @@
             <speaker>MADAME GRUGEOT.</speaker>
             <note type="C">Molière n'a pas écrit de tragédie.</note>
             <p n="17">
-              <s n="1">Dans une tragédie de Molière, que Cadet y a montré les gess'pendant 	quinze jours.</s>
+              <s n="1">Dans une tragédie de Molière, que Cadet y a montré les gess'pendant  quinze jours.</s>
             </p>
           </sp>
           <sp who="tc0241-LAMEREROUSSEL">

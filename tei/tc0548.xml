@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">L'école des cocus ou la précaution inutile</title>
         <title type="sub">Comédie</title>
-        <title type="short">L'école des cocus ou la précaution inutile</title>
+        <title type="short">École-cocus</title>  
         <title type="idno">
           <idno type="viaf"/>
         </title>
@@ -253,7 +253,7 @@
             <l n="85" part="I">Docteur, soyons amis.</l>
           </sp>
           <sp who="tc0548-LEDOCTEUR">
-            <speaker>LE DOCTEUR.	</speaker>
+            <speaker>LE DOCTEUR.    </speaker>
             <l n="85" part="F">Ô ! Le vaillant soldat.</l>
           </sp>
         </div>
@@ -534,7 +534,7 @@
           </sp>
           <sp who="tc0548-LEDOCTEUR">
             <speaker>LE DOCTEUR.</speaker>
-            <l n="204" part="F">Et c'est s'humaniser.	</l>
+            <l n="204" part="F">Et c'est s'humaniser.   </l>
           </sp>
           <sp who="tc0548-PHILIS">
             <speaker>PHILIS.</speaker>

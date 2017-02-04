@@ -24,8 +24,8 @@
       <sourceDesc>
         <bibl type="digital-source"><date>2015</date>, <idno/>, <ref target="http://theatre-classique-fr/"/>. Publié par Paul Fièvre.</bibl>
         <bibl type="print-source"><date>1682</date>, <idno/>, <ref target="#"/>. À PARIS, Chez Denis Thierry, 1682..</bibl>
-        <bibl type="edition-first"><date/>, <idno/>, <ref target="#"/>.</bibl>
-        <bibl type="performance-first"><date>(non représentée)</date>, <idno/>, <ref target="#"/>. Cette oeuvre n'a pas été représentée.</bibl>
+        <bibl type="edition-first"><date>1682</date>, <idno/>, <ref target="#"/>.</bibl>
+        <bibl type="performance-first"><date>N/A</date>, <idno/>, <ref target="#"/>. Cette oeuvre n'a pas été représentée.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

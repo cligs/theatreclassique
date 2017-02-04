@@ -3,9 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Est-il bon</title>
-        <title type="sub">Est-il méchant ? comédie</title>
-        <title type="short">Est-il bon</title>
+        <title type="main">Est-il bon ? Est-il méchant ?</title>
+        <title type="sub">comédie</title>
+        <title type="short">Est-il-bon</title>
         <title type="idno">
           <idno type="viaf"/>
         </title>
@@ -5619,8 +5619,8 @@ fixement, et dit.</speaker>
             <speaker>MONSIEUR POULTIER.</speaker>
             <p n="5">
 ************* Insurgents *******
-	<s n="1">Je n'en doute pas ; vous êtes surtout excellent, quand vous avez tort. </s>
-	                    <s n="2">Mais ces insurgents nous tracassent, et il faut que j'aille...</s>
+    <s n="1">Je n'en doute pas ; vous êtes surtout excellent, quand vous avez tort. </s>
+                        <s n="2">Mais ces insurgents nous tracassent, et il faut que j'aille...</s>
                   </p>
           </sp>
           <sp who="tc0194-MONSIEUR-HARDOUIN">

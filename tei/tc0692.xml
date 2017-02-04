@@ -4,8 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Farce nouvelle fort joyeuse du pont aux ânes</title>
-        <title type="sub">Farce nouvelle fort joyeuse du pont aux ânes</title>
-        <title type="short">Farce nouvelle fort joyeuse du pont aux ânes</title>
+        <title type="sub"></title>
+        <title type="short">Farce-nouvelle</title>     
         <title type="idno">
           <idno type="viaf"/>
         </title>
@@ -137,7 +137,7 @@
           <sp who="tc0692-LAFEMME">
             <speaker>LA FEMME.</speaker>
             <ab>
-****	</ab>
+****    </ab>
             <l n="20">Ce sera donc un vif esplaict,</l>
             <l n="21">Que je serve et vous vous servez.</l>
           </sp>

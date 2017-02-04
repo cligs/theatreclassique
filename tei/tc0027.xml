@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">Le droit du seigneur</title>
         <title type="sub">Comédie</title>
-        <title type="short">Le droit du seigneur</title>
+        <title type="short">Droit-seigneur</title>
         <title type="idno">
           <idno type="viaf"/>
         </title>
@@ -2786,7 +2786,7 @@
             <l n="1239">Tout uniment, comme cela se doit,</l>
             <l n="1240">À mon plaisir, sans qu'un autre eût le Droit</l>
             <l n="1241">De disposer de moi-même à mon âge,</l>
-            <l n="1242">Et de fourrer son nez dans mon ménage.	</l>
+            <l n="1242">Et de fourrer son nez dans mon ménage.  </l>
           </sp>
           <sp who="tc0027-LEBAILLIF">
             <speaker>LE BAILLIF.</speaker>
@@ -3717,7 +3717,7 @@
       <div type="act" n="5">
         <head>ACTE V</head>
         <div type="scene" n="1">
-          <head>SCÈNE I.	Le marquis, Le Chevalier.</head>
+          <head>SCÈNE I.    Le marquis, Le Chevalier.</head>
           <sp who="tc0027-LEMARQUIS">
             <speaker>LE MARQUIS.</speaker>
             <l n="1661">Faisons la paix, Chevalier, je confesse</l>

@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">L'appartement a louer</title>
         <title type="sub">Comédie</title>
-        <title type="short">L'appartement a louer</title>
+        <title type="short">Appartement-louer</title>
         <title type="idno">
           <idno type="viaf"/>
         </title>
@@ -50,7 +50,7 @@
   <text>
     <front>
       <castList>
-        <head>PERSONNAGES.	ARTISTES.</head>
+        <head>PERSONNAGES.  ARTISTES.</head>
         <castItem>
           <role xml:id="tc0901-THEODORE">THÉODORE</role>
         </castItem>

@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">L'enfer galant</title>
         <title type="sub">Parodie</title>
-        <title type="short">L'enfer galant</title>
+        <title type="short">Enfer-galant</title>
         <title type="idno">
           <idno type="viaf"/>
         </title>
@@ -671,7 +671,7 @@
           </sp>
           <sp who="tc0195-BACCHUS">
             <speaker>BACCHUS.</speaker>
-            <stage>L'amusement est digne du dieu de la guerre.	</stage>
+            <stage>L'amusement est digne du dieu de la guerre.  </stage>
             <stage>Même air.</stage>
             <l n="153">Mais Mars qu'est ce donc que ceci ?</l>
             <l n="154">Sans fanfare, arriver ici ?</l>
@@ -688,7 +688,7 @@
           </sp>
         </div>
         <div type="scene" n="8">
-          <head>SCÈNE VIII. Bacchus, Pluton.	</head>
+          <head>SCÈNE VIII. Bacchus, Pluton.    </head>
           <sp who="tc0195-BACCHUS">
             <speaker>BACCHUS.</speaker>
             <note type="L">Petit maître : Fig. et familièrement. Petit-maître, jeune homme qui a de la recherche dans sa parure, et un ton avantageux avec les femmes. [L]</note>
