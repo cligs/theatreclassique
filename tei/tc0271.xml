@@ -69,7 +69,7 @@
       <div type="act" n="1">
         <head/>
         <div type="scene" n="1">
-          <head/>
+          <head>[SCÈNE I.]</head>
           <sp who="tc0271-LEPARDONNEUR">
             <speaker>LE PARDONNEUR commence.</speaker>
             <l n="1">Saintes paroles pacifiques</l>
@@ -143,8 +143,7 @@
             <l n="59">Vierge Marie, Vierge Marie,</l>
             <note type="L">Cabusion : Fait de tromper. [DMF]</note>
             <l n="60">Croit-on en ta cabusion ?</l>
-            <stage>Adoncq il monstre une anguille au lieu d'une couleuvre,
-et dit</stage>
+            <stage>Adoncq il monstre une anguille au lieu d'une couleuvre, et dit</stage>
             <l n="61">Arrière, arrière, arrière, mesgnie !</l>
             <note type="L">Musequin : Jeune homme ou jeune femme à la mode. [DMF]</note>
             <l n="62">Sa, Margot, sa, se musequin,</l>

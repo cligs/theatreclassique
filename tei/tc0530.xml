@@ -79,7 +79,7 @@
     </front>
     <body>
       <div type="act" n="1">
-        <head/>
+        <head>[N/A]</head>
         <div type="scene" n="1">
           <head>SCÈNE PREMIÈRE. Lafleur.</head>
           <sp who="tc0530-LAFLEUR">
@@ -127,7 +127,7 @@
           </sp>
         </div>
         <div type="scene" n="1">
-          <head>SCÈNE I.I.</head>
+          <head>SCÈNE III.</head>
           <sp who="tc0530-DAMON">
             <speaker>DAMON.</speaker>
             <l n="9">Il est tard : et Julie ou doucement sommeille,</l>
@@ -137,7 +137,7 @@
           </sp>
         </div>
         <div type="scene" n="1">
-          <head>SCÈNE I.. Damon, Lafleur.</head>
+          <head>SCÈNE IV. Damon, Lafleur.</head>
           <sp who="tc0530-LAFLEUR">
             <speaker>LAFLEUR, dans la coulisse.</speaker>
             <l n="12" part="M">Monsieur, monsieur.</l>
@@ -602,11 +602,7 @@
             <speaker>DAMON.</speaker>
             <l n="139" part="F">Depuis plus d'une année ?</l>
           </sp>
-          <sp who="tc0530-JULIE">
-            <speaker>JULIE.</speaker>
-            <l/>
-            <!-- sp à retirer? -->
-          </sp>
+          <!-- sp erronée (vide) de "tc0530-JULIE retirée ici -->
           <sp who="tc0530-DAMON">
             <speaker>DAMON.</speaker>
             <l n="140">Par conséquent libre de m'épouser ?</l>

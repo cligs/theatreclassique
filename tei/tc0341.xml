@@ -114,7 +114,7 @@
       </set>
     </front>
     <body>
-      <div type="prologue" n="1">
+      <div type="act" n="0">
         <head>PROLOGUE</head>
         <div type="scene" n="1">
           <head>SCÈNE PREMIÈRE. Le Marquis, Le Chevalier.</head>
@@ -2570,7 +2570,7 @@
           </sp>
         </div>
       </div>
-      <div type="act" n="3">
+      <div type="act" n="2">
         <head>ACTE II</head>
         <div type="scene" n="1">
           <head>SCÈNE PREMIÈRE. Frontignac, Blaise, Spinette.</head>
@@ -4262,7 +4262,7 @@
           </sp>
         </div>
       </div>
-      <div type="act" n="4">
+      <div type="act" n="3">
         <head>ACTE III</head>
         <div type="scene" n="1">
           <head>SCÈNE PREMIÈRE. La Comtesse, Floris, Le Courtisan, Fontignac, Spinette, Blaise.</head>
@@ -5890,7 +5890,7 @@
             </p>
           </sp>
         </div>
-        <div type="divertissement" n="10">
+        <div type="scene" n="10">
           <head>DIVERTISSEMENT.</head>
           <stage>CHANT.</stage>
           <sp who="tc0341-LEGRAND">
