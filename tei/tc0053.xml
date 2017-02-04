@@ -1,0 +1,1333 @@
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Anaximandre</title>
+        <title type="sub">Comédie</title>
+        <title type="short">Anaximandre</title>
+        <title type="idno">
+          <idno type="viaf"/>
+        </title>
+        <author>
+          <name type="full">ANDRIEUX, François Guilaume Jean Stanislas</name>
+          <name type="short">Andrieux</name>
+          <idno type="viaf"/>
+        </author>
+        <principal/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>CLiGS</publisher>
+        <idno type="cligs">tc0053</idno>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digital-source"><date>2016</date>, <idno/>, <ref target="http://theatre-classique-fr/"/>. Publié par Paul Fièvre.</bibl>
+        <bibl type="print-source"><date>1784</date>, <idno/>, <ref target="#"/>. À PARIS, Chez la Veuve DUCHESNE, Libraire, rue Saint-Jacques, au Temple du Goût. .</bibl>
+        <bibl type="edition-first"><date/>, <idno/>, <ref target="#"/>.</bibl>
+        <bibl type="performance-first"><date>1782</date>, <idno/>, <ref target="#"/>. Représentée, pour la première fois, à Paris, par les Comédiens Italiens Ordinaires du Roi, le 20 Décembre 1782. </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p/>
+      </abstract>
+      <textClass>
+        <keywords scheme="keywords.csv">
+          <term type="supergenre">drama</term>
+          <term type="genre">Comédie</term>
+          <term type="structure">un acte</term>
+          <term type="form">vers</term>
+          <term type="period">1781-1790</term>
+          <term type="taille">500-750</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2017-02-03" who="cf">Initial TEI version.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>ACTEURS.</head>
+        <castItem>
+          <role xml:id="tc0053-PHROSINE">PHROSINE</role>
+        </castItem>
+        <castItem>
+          <role xml:id="tc0053-ASPASIE">ASPASIE</role>
+        </castItem>
+        <castItem>
+          <role xml:id="tc0053-MELIDORE">MÉLIDORE</role>
+        </castItem>
+        <castItem>
+          <role xml:id="tc0053-ANAXIMANDRE">ANAXIMANDRE</role>
+        </castItem>
+        <castItem>
+          <role xml:id="tc0053-UNEPRETRESSEDESGRACES">UNE PRÊTRESSE DES GRACES</role>
+        </castItem>
+        <castItem>
+          <role xml:id="tc0053-DEUXAUTRESPRETRESSES">DEUX AUTRES PRÊTRESSES</role>
+        </castItem>
+      </castList>
+      <set>
+        <p>La Scène est à Athènes. </p>
+      </set>
+    </front>
+    <body>
+      <div type="act" n="1">
+        <head/>
+        <div type="scene" n="1">
+          <head>SCÈNE PREMIÈRE.</head>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE, assis, des tablettes à la main. </speaker>
+            <stage>Le théâtre représente une allée d'arbres, servant d'avenue au Temple des Grâces, que l'on voit dans le fond. Sur l'un des côtés, on aperçoit la maison d'Anaximandre.</stage>
+            <l n="1">Cette enfant là me tourne la cervelle ; </l>
+            <l n="2">Je ne vois plus, je ne rêve plus qu'elle. </l>
+            <l n="3">Je meurs d'un mal que je veux renfermer... </l>
+            <l n="4">Anaximandre... Il te sied bien d'aimer ! </l>
+            <l n="5">Ne fais-tu pas qu'une vertu sévère, </l>
+            <l n="6">Un esprit droit, un coeur noble et sincère </l>
+            <l n="7">Sur tout ce sexe ont bien peu de pouvoir ? </l>
+            <l n="8">C'est par des riens qu'il se laisse émouvoir. </l>
+            <l n="9">Des jeunes gens volages et frivoles, </l>
+            <l n="10">Conteurs plaisants de quelques fariboles, </l>
+            <l n="11">Extravagants, indiscrets, étourdis, </l>
+            <l n="12">Belles, voilà vos amants favoris ; </l>
+            <l n="13">Et près de vous l'honnête-homme, le sage </l>
+            <l n="14">Fait bien souvent un fort sot personnage. </l>
+            <l n="15">Moi déclarer que je suis amoureux !</l>
+            <l n="16">Cachons plutôt ce penchant malheureux, </l>
+            <l n="17">Et s'il se peut... Mais je vois Aspasie ; </l>
+            <l n="18">À son aspect je sens ma frénésie </l>
+            <l n="19">S'accroître encore, et je ne puis la fuir.... </l>
+            <l n="20">Cruelle enfant !... que tu me fais souffrir ! </l>
+          </sp>
+        </div>
+        <div type="scene" n="2">
+          <head>SCÈNE II. Anaximandre, Aspasie.</head>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE, brusquement. </speaker>
+            <l n="21" part="I">Que voulez-vous ? </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="21" part="F">Je venais pour vous dire... </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="22" part="I">Quoi ? Parlez donc. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="22" part="F">Oh ! mais je me retire,</l>
+            <l n="23" part="I">Si vous grondez...</l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="23" part="F">Non, je ne gronde pas ; </l>
+            <l n="24">Mais vous pouviez tourner ailleurs vos pas. </l>
+            <l n="25">Vous savez bien que, lorsque je médite, </l>
+            <l n="26">Je n'aime pas qu'on me rende visite. </l>
+            <l n="27">Je m'occupais d'un point très important, </l>
+            <l n="28">D'où mon repos, d'où mon bonheur dépend, </l>
+            <l n="29">Et vous prenez ce temps pour me distraire ! </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="30">Mon cher Tuteur, si j'ai pu vous déplaire, </l>
+            <l n="31">J'en suis fâchée, et vous êtes si bon </l>
+            <l n="32">Que j'obtiendrai sans peine mon pardon. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="33">Appuyez moins sur ma bonté, de grâce. </l>
+            <l n="34">De compliments volontiers je me passe. </l>
+            <l n="35">Je suis sincère, et hais le ton flatteur. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="36">Moi vous flatter ? Jamais, mon cher tuteur. </l>
+            <l n="37">Vous, le soutien de ma timide enfance, </l>
+            <l n="38">Douteriez-vous de ma reconnaissance ? </l>
+            <l n="39">Ah ! Je suis loin de la bien exprimer. </l>
+            <l n="40">Vous révérer, vous servir, vous aimer, </l>
+            <l n="41">Voilà mes voeux et ma plus chère étude ; </l>
+            <l n="42">Je m'en suis fait une douce habitude. </l>
+            <l n="43">Depuis cinq ans je n'ai que de beaux jours, </l>
+            <l n="44">Et c'est à vous que j'en dois l'heureux cours. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE, à part. </speaker>
+            <l n="45">Comment tenir à sa voix de sirène,</l>
+            <l n="46">Et résister au charme qui m'entraîne ? </l>
+            <l n="47">Faut-il me voir à ce point asservi ? </l>
+            <stage>À Aspasie.</stage>
+            <l n="48">Mademoiselle, éloignez-vous d'ici ? </l>
+            <l n="49">Je ne saurais plus longtemps vous entendre. </l>
+            <l n="50">Vous affectez un son de voix si tendre </l>
+            <l n="51">Et des regards si touchants et si doux </l>
+            <l n="52">Je ne suis point tranquille auprès de vous. </l>
+            <l n="53">Oui, vous troublez le repos de ma vie.... </l>
+            <l n="54" part="I">Vous me quittez ? </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="54" part="M">J'obéis. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="54" part="F">Aspasie, </l>
+            <l n="55">Pourquoi me fuir ! Revenez, demeurez... </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="56" part="I">Pour me gronder encor ? </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="56" part="F">Quoi ! vous pleurez ! </l>
+            <stage>À part.</stage>
+            <l n="57">Ah ! sa douleur lui prête encor des charmes. </l>
+            <stage>Haut.</stage>
+            <l n="58">Est-ce donc moi qui fais couler vos larmes ? </l>
+            <l n="59">Venez ici, je veux vous consoler ; </l>
+            <l n="60">Venez, osez me voir et me parler. </l>
+            <l n="61">Je ne suis point un censeur inflexible. </l>
+            <l n="62">Je parais dur, et je suis trop sensible. </l>
+            <l n="63">Je veux entrer dans vos moindres secrets ; </l>
+            <l n="64">Qui plus que moi prendra vos intérêts ? </l>
+            <l n="65">Vous ignorez combien vous m'êtes chère ? </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="66">Non, je le vois ; vous m'aimez comme un père. </l>
+            <l n="67">Depuis longtemps vous m'en avez servi. </l>
+            <l n="68">Le mien ; hélas ! que la mort m'a ravi, </l>
+            <l n="69">Avait en vous l'ami le plus sincère. </l>
+            <l n="70">Il mourut pauvre ; et moi, dans la misère, </l>
+            <l n="71">Avec ma soeur, je restais sans secours ; </l>
+            <l n="72">Mais vos bontés furent notre recours. </l>
+            <l n="73">Puis-je oublier ce trait si mémorable, </l>
+            <l n="74">Ce testament à tous deux honorable </l>
+            <l n="75">Que fit mon père ?... Il vous connaissait bien. </l>
+            <l n="76">J'ai vécu pauvre, et je ne laisse rien : </l>
+            <l n="77">(Ce sont ses mots, il m'en souvient sans cesse. ) </l>
+            <l n="78">Heureusement, j'eus, au lieu de richesse, </l>
+            <l n="79">Un ami vrai. Pour m'acquitter vers lui </l>
+            <l n="80">Comme je dois, je lui lègue aujourd'hui </l>
+            <l n="81">Le noble soin d'élever mes deux filles, </l>
+            <l n="82">De les placer dans d'honnêtes familles,</l>
+            <l n="83">Et de fournir à leur dot de son bien. </l>
+            <l n="84">Voilà le legs que mon coeur fait au sien. </l>
+            <l n="85">Jusqu'à présent votre bonté confiante </l>
+            <l n="86">De notre père a surpassé l'attente. </l>
+            <l n="87">Ma soeur et moi, grâce à vos tendres soins, </l>
+            <l n="88">Avons toujours ignoré les besoins. </l>
+            <l n="89">Athènes admire et bénit le modèle </l>
+            <l n="90">D'une amitié rare autant que fidèle, </l>
+            <l n="91">Et l'on verra les siècles à venir </l>
+            <l n="92">D'un si beau trait garder le souvenir. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="93">Fille charmante ! Aimable créature ! </l>
+            <l n="94">Ah ! gardez bien cette âme honnête et pure. </l>
+            <l n="95">De votre bouche, il le faut avouer, </l>
+            <l n="96">J'ai du plaisir à m'entendre louer. </l>
+            <l n="97">Que vous avez de grâce et d'éloquence ! </l>
+            <l n="98">Votre amitié, voilà ma récompense ; </l>
+            <l n="99">Oui, j'ose ici vous imposer la loi </l>
+            <l n="100">De me chérir, de ne chérir que moi... </l>
+            <stage>Très tendrement.</stage>
+            <l n="101">Pardonne-moi, ma charmante Aspasie, </l>
+            <l n="102">Quelques chagrins répandus sur ta vie ; </l>
+            <l n="103">Tes pleurs coûtaient encore en ce moment ; </l>
+            <l n="104">Pardonne.....hélas ! Mon fol emportement </l>
+            <stage>Il lui prend la main. </stage>
+            <l n="105">Mérite plus de pitié que de blâme ; </l>
+            <l n="106">Si tu pouvais lire au fond de mon âme..... </l>
+            <stage>Il est prêt de saisir la main d'Aspasie, puis il la quitte brusquement.</stage>
+            <stage>À part.</stage>
+            <l n="107">Qu'allais-je faire ?.....Impérieux penchant ! </l>
+            <stage>À Aspasie.</stage>
+            <l n="108">Faible raison !..... Écoutez, mon enfant ; </l>
+            <l n="109">Je veux bientôt achever mon ouvrage, </l>
+            <l n="110">Vous établir ; je songe au mariage </l>
+            <l n="111" part="I">De votre soeur.... </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="111" part="F">Oui, vraiment ; songez-y ; </l>
+            <l n="112">Si vous saviez comme son cher ami, </l>
+            <l n="113">Son Mélidore et gémit et soupire ! </l>
+            <l n="114">Ma soeur aussi, qui fait semblant de rire, </l>
+            <l n="115">Ressent parfois de secrètes douleurs, </l>
+            <l n="116">Et dans ses yeux j'ai surpris quelques pleurs. </l>
+            <l n="117">Enfin tous deux par ma voix vous conjurent </l>
+            <l n="118">De mettre fin aux tourments qu'ils endurent, </l>
+            <l n="119">Et de leur part je venais vous presser.... </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="120">Mes chers enfants, qu'ai-je à vous refuser </l>
+            <l n="121">Je les unis, s'ils veulent, ce jour même. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="122">Ils en feront dans une joie extrême. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="123">Je dois aussi, dans peu, songer à vous..... </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="124" part="I">À moi ? </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="124" part="F">Sans doute, il vous faut un époux ; </l>
+            <l n="125">Je vous destine un homme de mon âge </l>
+            <l n="126">Que je connais et que j'estime, un sage, </l>
+            <l n="127" part="I">Un philosophe.... </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="127" part="F">Ah ! Ciel ! Vous m'effrayez ! </l>
+            <l n="128">Quoi ! Mon tuteur ! Vous me sacrifiez ! </l>
+            <l n="129">Ah ! Faites choix d'un autre, je vous prie ; </l>
+            <l n="130">Si vous aimez un peu votre Aspasie, </l>
+            <l n="131" part="I">Qu'il ne soit point Philosophe.... </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="131" part="F">Eh ! Pourquoi ? </l>
+            <l n="132">S'il vous aimait ?... S'il était... comme moi ? </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="133">Je le sens bien, il serait estimable, </l>
+            <l n="134" part="I">Mais...</l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="134" part="M">Achevez. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="134" part="F">Je le voudrais aimable. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE, à part. </speaker>
+            <l n="135">Elle m'accable, hélas, sans s'en douter. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="136">Ce que je dis semble vous agiter ! </l>
+            <l n="137">Vous pâlissez ! quel sujet vous altère ? </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE, avec éclat. </speaker>
+            <l n="138">Fatal objet, que le ciel en colère, </l>
+            <l n="139">Pour mon tourment a formé tout exprès, </l>
+            <l n="140">Je veux vous fuir, vous quitter à jamais ; </l>
+            <l n="141">Votre air naïf cache une âme perfide : </l>
+            <l n="142">Ce front novice, et ce regard timide, </l>
+            <l n="143">Promet la paix, la raison, la candeur ; </l>
+            <l n="144">Mais tout cela n'est pas dans votre coeur. </l>
+            <l n="145">Prenez un fat, un être méprisable, </l>
+            <l n="146">Qui, se couvrant d'un dehors agréable, </l>
+            <l n="147">Sera volage, et frivole et jaloux, </l>
+            <l n="148">Et vous aurez un mari fait pour vous. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="149">Mon cher tuteur !.... Mais il fuit ! il me quitte</l>
+          </sp>
+        </div>
+        <div type="scene" n="3">
+          <head>SCÈNE III.</head>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE, seule. </speaker>
+            <l n="150">Qu'ai-je donc fait ? Qu'ai-je dit qui l'irrite ? </l>
+            <l n="151">Ah ! Je ne puis supporter sa douleur ; </l>
+            <l n="152">Depuis un temps il est sombre et rêveur : </l>
+            <l n="153">En me parlant il s'emporte, il s'apaise ; </l>
+            <l n="154">Je suis la seule ici qui lui déplaise. </l>
+            <l n="155">Je le chagrine.... Apparemment hélas ! </l>
+            <l n="156">J'ai des défauts que je ne connais pas ! </l>
+            <l n="157">Mais quelle fille est parfaite à mon âge ? </l>
+            <l n="158">Avec le temps je deviendrai plus sage ; </l>
+            <l n="159">Je ferai tout pour le voir satisfait </l>
+            <l n="160">Et mériter qu'il m'aime.... tout-à-fait. </l>
+          </sp>
+        </div>
+        <div type="scene" n="4">
+          <head>SCÈNE IV. Aspasie, Phrosine entre en riant.</head>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="161">J'entends ma soeur.... toujours vive et légère ! </l>
+            <l n="162">Toujours riant ! quel heureux caractère ! </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="163">Ah, si je ris, ce n'est pas sans sujet : </l>
+            <l n="164">Je te mettrai bientôt dans le secret. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="165">Auparavant sachez une nouvelle </l>
+            <l n="166" part="I">Qui vous fera grand plaisir. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="166" part="F">Quelle est-elle ? </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="167" part="I">On vous marie aujourd'hui. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="167" part="F">Bon ! Tant mieux. </l>
+            <l n="168">Et Mélidore en sera bien joyeux. </l>
+            <l n="169">Le bon enfant que ce cher Mélidore ! </l>
+            <l n="170">Je l'aime tant ! et je sais qu'il m'adore ; </l>
+            <l n="171">Avec transport je vais former ces noeuds, </l>
+            <l n="172">Et bon bonheur est de le rendre heureux. </l>
+            <l n="173">Mais je m'oublie, et te parle sans cesse </l>
+            <l n="174" part="I">De mon amant... </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="174" part="F">Ce sujet m'intéresse.</l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="175">Je le crois bien : mais il faudrait aussi </l>
+            <l n="176" part="I">Parler un peu du tien.... </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="176" part="F">Moi ! Dieu merci,</l>
+            <l n="177" part="I">Je n'en ai point...</l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="177" part="F">Tu n'en as point ? Quel conte ! </l>
+            <l n="178">À le nier je te trouve un peu prompte : </l>
+            <l n="179">Mais c'est en vain ; je sais très bien, ma soeur, </l>
+            <l n="180">Que vous avez un humble adorateur, </l>
+            <l n="181">Un tendre amant qui cache dans son âme </l>
+            <l n="182">Une très vive et très discrète flamme... </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="183">Et quel est-il ? Me direz-vous son nom ? </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="184" part="I">Tu le connais ? </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="184" part="M">Point du tout. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="184" part="M">Si fait. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="184" part="F">Non. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="185">Eh bien ! c'est.... </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="185" part="F">Qui ? c'est trop me faire attendre. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="186" part="I">Un moment. C'est... </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="186" part="M">Qui donc ? </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="186" part="F">Anaximandre. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="187" part="I">Notre Tuteur ? </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="187" part="F">Oui, tu l'as su charmer. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="188">Lui ? vous croyez qu'un savant peut aimer ? </l>
+            <l n="189">Il a vraiment bien autre chose à faire ! </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="190">Non ; dès qu'on aime on n'a plus qu'une affaire. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="191">Mais tout-à-l'heure il vient de me gronder : </l>
+            <l n="192">Quand il me voit, il a l'air de bouder : </l>
+            <l n="193">J'ai grand besoin qu'un philosophe m'aime ! </l>
+            <l n="194">Je n'en veux point ; je l'ai dit à lui-même. </l>
+            <l n="195">Que dirait-on, si j'acceptais sa foi ?</l>
+            <l n="196">On ne serait que se moquer de moi. </l>
+            <l n="197">Ne croyez, pas que jamais j'y consente. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="198">De ce galant tu n'es donc pas contente ? </l>
+            <l n="199">Je conviendrai qu'il n'est pas fort joli ; </l>
+            <l n="200">Mais, hors ce point, c'est un homme accompli.... </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="201">Laissons cela ; vous ne cherchez qu'à rire </l>
+            <l n="202">À mes dépens : mais vous avez, beau dire, </l>
+            <l n="203">Je ne crois point mon tuteur amoureux, </l>
+            <l n="204">Et la sagesse a seule tous ses voeux. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="205">Tu ne crois point ? Mais c'est me faire injure </l>
+            <l n="206">Que de douter d'un fait que je t'assure : </l>
+            <l n="207">Pour te punir, je te le prouverai </l>
+            <l n="208">Très clairement, ou bien je ne pourrai.... </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="209">Prouvez-le donc ; je serai satisfaite. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="210" part="I">Tu le veux ? </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="210" part="F">Oui ; c'est ce que je souhaite. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="211">Ma foi, tu vas en avoir le plaisir : </l>
+            <l n="212">Car j'aperçois notre tuteur venir : </l>
+            <l n="213">Il semble exprès que le ciel nous l'adresse. </l>
+            <l n="214">Je veux ici, sans beaucoup de finesse, </l>
+            <l n="215">Tirer de lui l'aveu de son tourment, </l>
+            <l n="216">Et qu'il s'explique intelligiblement. </l>
+            <l n="217">Mais le voici : retire-toi, ma chère, </l>
+            <l n="218">Et ne dis mot ; le reste est mon affaire. </l>
+            <stage>Aspasie se cache tout-à-fait ; Phrosine se retire au fond du Théâtre, de manière qu'Anaximandre entre sans l'apercevoir.</stage>
+          </sp>
+        </div>
+        <div type="scene" n="5">
+          <head>SCÈNE V. Anaximandre, Phrosine, Aspasie, cachée.</head>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE, se croyant seul. </speaker>
+            <l n="219">C'en est donc fait ; ce funeste poison </l>
+            <l n="220">A triomphé de toute ma raison. </l>
+            <l n="221">J'ai beau combattre un amour ridicule, </l>
+            <l n="222">Son feu cuisant dans mes veines circule, </l>
+            <l n="223">Il me pénètre, il dévore mon sein, </l>
+            <l n="224">Et dans mes fers je me débats en vain.</l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE, à part. </speaker>
+            <l n="225">Dans sa douleur, il gronde, il s'apostrophe : </l>
+            <l n="226">Vous en tenez, Monsieur le philosophe ; </l>
+            <l n="227">Nous parviendrons à vous faire jaser : </l>
+            <l n="228">Jamais Amant sut-il se déguiser </l>
+            <l n="229">Et renfermer le feu qui le dévore ? </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE, toujours se croyant seul. </speaker>
+            <l n="230">Aimable enfant, ton coeur novice encore, </l>
+            <l n="231">Toujours paisible et pur comme un beau jour, </l>
+            <l n="232">Ne fut jamais agité par l'amour : </l>
+            <l n="233">Heureux cent fois le mortel fait pour plaire, </l>
+            <l n="234">Qui, t'inspirant un trouble involontaire, </l>
+            <l n="235">Et dans ton âme éveillant le désir, </l>
+            <l n="236">Sera l'objet de ton premier soupir ! </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE, à part. </speaker>
+            <l n="237">Fort bien, vraiment ; je m'aperçois qu'un sage </l>
+            <l n="238">Tient quelquefois un assez doux langage! </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE, à part. </speaker>
+            <l n="239">Si je pouvais !... Ô Ciel ! tout est perdu : </l>
+            <l n="240">Je vois Phrosine..... Aurait-elle entendu ? </l>
+            <l n="241">Cachons mon trouble et ma peine cruelle ; </l>
+            <stage>À Phrosine.</stage>
+            <l n="242">Remettons-nous... C'est vous, Mademoiselle ? </l>
+            <l n="243">Vous étiez-là, peut-être.... à m'écouter ? </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="244">Qui vous écoute est sûr de profiter : </l>
+            <l n="245">Tous vos discours dictés par la sagesse, </l>
+            <l n="246">Partent d'un coeur qui n'a point de faiblesse. </l>
+            <l n="247">Un moraliste, en ses réflexions, </l>
+            <l n="248">Voit le néant des folles passions : </l>
+            <l n="249">Il fuit l'orgueil, les soupçons, les querelles. </l>
+            <l n="250">Surtout l'amour et les appas des belles ; </l>
+            <l n="251">Car c'est le piège où le plus sage est pris ; </l>
+            <l n="252" part="I">Qu'en dites-vous ? </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="252" part="F">Je suis de votre avis : </l>
+            <l n="253">Oui, l'amour est un piège redoutable, </l>
+            <l n="254">Un piège affreux, peut-être inévitable : </l>
+            <l n="255">Trop rarement on fait s'en garantir. </l>
+            <l n="256">On le déteste, et l'on vient y périr. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="257">Ah ! c'est du moins une folie aimable ; </l>
+            <l n="258">C'est la plus douce et la plus excusable ; </l>
+            <l n="259">Et tel tout haut déclame avec rigueur </l>
+            <l n="260">Contre l'amour, qui brûle au fond du coeur. </l>
+            <l n="261">Je m'y connais : aisément je devine.... </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="262">Comment ? De qui parlez-vous là, Phrosine ? </l>
+            <l n="263" part="I">Ce ton railleur..., </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="263" part="F">Mon Dieu ! point de courroux : </l>
+            <l n="264">Eh ! qui vous dit que l'on parle de vous ? </l>
+            <l n="265" part="I">Seriez-vous donc amoureux ? </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE, à part. </speaker>
+            <l n="265" part="F">La traîtresse </l>
+            <l n="266">Sait mon secret, et rit de ma faiblesse. </l>
+            <stage>À Phrosine.</stage>
+            <l n="267">Je le vois trop. Phrosine, épargnez-moi : </l>
+            <l n="268">Vous plaisantez, je ne sais trop pourquoi. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="269">Vous ne savez ? Ah ! soyez plus sincère, </l>
+            <l n="270">Mon cher Tuteur ; laissez-là le mystère : </l>
+            <l n="271">Rien ne m'échappe ; on ne me trompe pas : </l>
+            <l n="272">Pour un amant, je vous le dis tout bas, </l>
+            <l n="273">Dissimuler est un effort extrême ; </l>
+            <l n="274">Presque toujours il se trahit lui-même. </l>
+            <l n="275">Un geste, un mot découvre son ardeur : </l>
+            <l n="276">Depuis longtemps votre air sombre et rêveur, </l>
+            <l n="277">Certains regards tendres et pathétiques. </l>
+            <l n="278">Et des discours... très peu philosophiques </l>
+            <l n="279" part="I">M'ont appris... </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="279" part="F">Quoi ! vous m'auriez soupçonné ?... </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="280">J'ai fait bien mieux, vraiment ; j'ai deviné, </l>
+            <l n="281">Et dans vos yeux malgré vous j'ai su lire </l>
+            <l n="282">Que vous aimez, que vous n'osez le dire, </l>
+            <l n="283">Et qu'en un mot, la sagesse et l'amour, </l>
+            <l n="284">Dans votre coeur, l'emportent tour-à-tour. </l>
+            <l n="285">Enfin l'objet donc votre âme est remplie, </l>
+            <l n="286" part="I">C'est.... </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="286" part="M">Taisez-vous. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="286" part="F">C'est ma soeur Aspasie... </l>
+            <l n="287">Vous vous troublez ; je suis sûre du fait. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="288">Phrosine !... Eh bien ! vous savez mon secret. </l>
+            <l n="289">Au nom des Dieux, si ma douleur vous touche, </l>
+            <l n="290">Sur ce secret n'ouvrez jamais la bouche ; </l>
+            <l n="291">À votre soeur surtout cachez-le bien ; </l>
+            <l n="292">Vous causeriez son malheur et le mien ; </l>
+            <l n="293">Il est trop vrai que je brûle, que j'aime, </l>
+            <l n="294">Que je voudrais le cacher à moi-même. </l>
+            <l n="295" part="I">Indigne aveu ! </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="295" part="F">Le grand mal que voilà ! </l>
+            <l n="296">Qu'avec regret vous avouez cela ! </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="297">Moi !.... moi ! que j'aime et que je cherche à plaire </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="298">Pourquoi donc pas ? Voyez, la belle affaire ! </l>
+            <l n="299">Vous lui plairez, c'est moi qui vous le dis : </l>
+            <l n="300">Mais écoutez et suivez mes avis. </l>
+            <l n="301">Défaites-vous de cette barbe énorme </l>
+            <l n="302">Qui vous déguise et qui vous rend difforme. </l>
+            <l n="303">Ce manteau brun vous vieillit de dix ans. </l>
+            <l n="304">Quittez cela. Voyez nos élégants : </l>
+            <l n="305">C'est un habit qu'il faudra qu'on vous brode ; </l>
+            <l n="306">Je vous dirai la couleur à la mode. </l>
+            <l n="307">Tous ces points-là chez vous autres savants, </l>
+            <l n="308">Semblent des riens : ces riens sont importants ! </l>
+            <l n="309">Ils font valoir la taille, la figure : </l>
+            <l n="310">Adonis même eut besoin de parure. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="311">Vous me donnez des conseils merveilleux ! </l>
+            <l n="312">Qui ? moi ? j'irais faire l'avantageux, </l>
+            <l n="313">D'un jeune fat copier la folie, </l>
+            <l n="314">Et posément jouer l'étourderie ? </l>
+            <l n="315">Je me ferais siffler, montrer au doigt. </l>
+            <l n="316">Mon air léger paraîtrait gauche et froid... </l>
+            <l n="317">Et cependant, jugez de ma faiblesse </l>
+            <l n="318">Et du pouvoir d'un aveugle tendresse, </l>
+            <l n="319">Si je voyais, pour plaire à votre soeur, </l>
+            <l n="320">Qu'il me fallut changer de ton, d'humeur, </l>
+            <l n="321">Devenir fat et galant malhabile, </l>
+            <l n="322">Me faire enfin chansonner par la ville, </l>
+            <l n="323">De mon amour tel est l'indigne excès, </l>
+            <l n="324">Je crois encor que je m'y résoudrais. </l>
+            <l n="325">Heureux, content, si me rendant justice </l>
+            <l n="326">Elle sentait le prix du sacrifice, </l>
+            <l n="327">Et si son coeur, comme le mien épris, </l>
+            <l n="328">M'aidait du moins à braver le mépris ! </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="329">Vous devenez déjà plus raisonnable : </l>
+            <l n="330">Sans être fat, on peut être agréable, </l>
+            <l n="331">Faire sa cour, prendre le ton galant, </l>
+            <l n="332">Et... par exemple, il vous manque un talent. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="333" part="I">Lequel ? </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="333" part="F">Je vais vous paraître un peu folle. </l>
+            <l n="334">Que voulez vous ? Notre sexe est frivole :</l>
+            <l n="335">Heureux qui sait sur nos goûts se régler ! </l>
+            <l n="336">Pour nous séduire, il faut nous ressembler. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="337">Phrosine, enfin, où tend ce préambule ? </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="338">Dût mon projet vous sembler ridicule, </l>
+            <l n="339">Mon avis es qu'il faudrait commencer.... </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="340" part="I">Eh bien, par où ? </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="340" part="F">Par apprendre à danser. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="341" part="I">Moi ! que je danse ? </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="341" part="F">Oui, si vous voulez plaire : </l>
+            <l n="342">C'est un talent important, nécessaire. </l>
+            <l n="343">Que voulez-vous qu'on fasse d'un amant </l>
+            <l n="344">Qui ne sait pas saluer seulement ? </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="345">À danser, moi, j'aurais fort bonne grâce ! </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="346">Bon ! est-ce là ce qui vous embarrasse ? </l>
+            <l n="347">Vous danserez.... Et tenez, sans façon, </l>
+            <l n="348">Nous sommes seuls, prenez une leçon. </l>
+            <l n="349">Sans me flatter, je puis servir de maître. </l>
+            <l n="350" part="I">Essayez-en. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="350" part="F">Cela ne saurait être : </l>
+            <l n="351">Grâces au Ciel, l'amour ne me fait point </l>
+            <l n="352">Extravaguer encor jusqu'à ce point. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="353">Ah ! vous voilà ! Toujours de la morale! </l>
+            <l n="354">Jadis Hercule a filé pour Omphale. </l>
+            <l n="355">Et ce héros, vaincu par deux beaux yeux, N</l>
+            <l n="356">'en est pas moins au rang des demi-Dieux. </l>
+            <l n="357">Consolez-vous : filer pour une belle </l>
+            <l n="358">Fait moins d'honneur que danser avec elle. </l>
+            <stage>En lui prenant la main.</stage>
+            <l n="359" part="I">Ça, commençons. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE, hésitant. </speaker>
+            <l n="359" part="F">Quoi ! sérieusement ?</l>
+            <l n="360" part="I">vous espérez...</l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="360" part="F">Quelques pas seulement. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="361" part="I">Non, point du tout. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="361" part="F">Rien qu'une révérence.</l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="362">C'est avoir bien de la complaisance. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="363">Allons, courage... avancez quelques pas.... </l>
+            <l n="364">Encor... encor... saluez... bas... plus bas... </l>
+          </sp>
+          <stage>En disant ces deux vers elle conduit Anaximandre jusqu'à la coulisse ou est cachée Aspasie ; pendant que le philosophe salue et demeure courbé, elle tire de force Aspasie de sa cachette, la place devant lui, et dit : </stage>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="365">Mademoiselle, agréez cet hommage ; </l>
+            <l n="366">Il est flatteur : car c'est celui d'un sage. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="367">Que vois-je ? Ô Ciel ! Quel tour !... Il est affreux ! </l>
+            <l n="368">Dans le complot vous étiez toutes deux, </l>
+            <l n="369">Enfants ingrats, et votre perfidie.... </l>
+            <l n="370">De mes regards ôtez-vous, je vous prie : </l>
+            <l n="371">Après un trait si méchant et si noir, </l>
+            <l n="372">Je ne veux plus vous parler, ni vous voir. </l>
+            <stage>Aspasie s'enfuit ; Phrosine ne fait que s'éloigner un peu.</stage>
+            <l n="373">Quoi ! me jouer ainsi, moi qui les aime, </l>
+            <l n="374" part="I">Qu'elles devraient aimer.... </l>
+          </sp>
+        </div>
+        <div type="scene" n="6">
+          <head>SCÈNE VI. Anaximandre, Phrosine, un peu éloignée, Mélidore.</head>
+          <sp who="tc0053-MELIDORE">
+            <speaker>MÉLIDORE, à Anaximandre.</speaker>
+            <l n="374" part="F">Ah ! c'est vous-même ! </l>
+            <l n="375">Je vous cherchais ; eh, bien ! quand daignez-vous </l>
+            <l n="376">Remplir mes voeux, mes désirs les plus doux ? </l>
+            <l n="377">Votre bonté dès longtemps me destine </l>
+            <l n="378">Le coeur, la main de l'aimable Phrosine : </l>
+            <l n="379">Mettez enfin le comble à vos bienfaits, </l>
+            <l n="380" part="I">Et que ce jour ... </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="380" part="F">Vous ne l'aurez jamais. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>MÉLIDORE.</speaker>
+            <l n="381">Jamais ! Ô Ciel ! Que dites-vous ? j'atteste.... </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="382">Je vous ferais un présent trop funeste ; </l>
+            <l n="383" part="I">N'y pensez plus. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>MÉLIDORE.</speaker>
+            <l n="383" part="F">Vous connaissez mon coeur.</l>
+            <l n="384" part="I">Et vous voulez...... </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="384" part="F">Je veux votre bonheur. </l>
+            <l n="385">Que la raison enfin vous détermine. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>MÉLIDORE.</speaker>
+            <l n="386">Ah ! mon bonheur est d'adorer Phrosine. </l>
+            <stage>À Phrosine. </stage>
+            <l n="387">Mais quel sujet l'irrite donc si fort ? </l>
+            <l n="388">Belle Phrosine, apprenez-moi mon sort ; </l>
+            <l n="389">D'où peut venir ce courroux qui m'accable ? </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="390">Hélas ! c'est moi qui suis seule coupable, </l>
+            <l n="391">Et c'est moi seule aussi qu'on veut punir </l>
+            <l n="392">Par ce refus qu'on fait de nous unir. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>MÉLIDORE.</speaker>
+            <l n="393">Coupable, vous ? de quoi, Mademoiselle ? </l>
+            <l n="394" part="I">Qu'est-ce ? </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="394" part="F">Ah ! vraiment, c'est une bagatelle, </l>
+            <l n="395" part="I">Un rien. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="395" part="F">Un rien ? Soyez de bonne foi ? </l>
+            <l n="396">Était-ce à vous de vous jouer de moi ? </l>
+            <l n="397">C'est pour mon coeur le tourment le plus rude </l>
+            <l n="398">Que d'être ainsi payé d'ingratitude, </l>
+            <l n="399">Vous me portez de trop sensibles coups ; </l>
+            <l n="400">Je veux vous fuir et vous oublier tous. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>MÉLIDORE.</speaker>
+            <l n="401">Que dites-vous ? Quel étrange système ! </l>
+            <l n="402">Pourquoi quitter des lieux où l'on vous aime ? </l>
+            <l n="403">Pourquoi nous fuir ? Ah ! restez parmi nous : </l>
+            <l n="404">Votre bonheur nous est si cher à tous ! </l>
+            <l n="405">Tout vous répond en ces lieux d'une vie </l>
+            <l n="406">Par l'amitié, par l'amour embellie ; </l>
+            <l n="407">Oui, par l'amour ; ce soir même je veux </l>
+            <l n="408">Voir s'accomplir les plus doux de vos voeux. </l>
+            <l n="409">Hier pour vous, à l'Amour, à sa mère, </l>
+            <l n="410">J'ai dans leur Temple adressé ma prière : </l>
+            <l n="411">Mes voeux ardents ont été bien reçus. </l>
+            <l n="412">Et mon encens a su plaire à Vénus. </l>
+            <l n="413">De la Prêtresse écoutez la réponse. </l>
+            <l n="414">Voici sur vous ce que Vénus prononce : </l>
+            <l n="415">Si ton ami veut être heureux amant, </l>
+            <l n="416">S'il veut toucher l'objet de son tourment, </l>
+            <l n="417">Fixer enfin les plaisirs sur ses traces, </l>
+            <l n="418">Qu'il aille offrir un sacrifice aux Grâces. </l>
+            <l n="419">Que cet Oracle a satisfait mon coeur ! </l>
+            <l n="420">Il est pour vous le signal du bonheur ;</l>
+            <l n="421">Osez compter sur ces douces promesses, </l>
+            <l n="422">Allez fléchir trois aimables Déesses, </l>
+            <l n="423">Et désormais prêt à suivre leurs lois, </l>
+            <l n="424">Implorez-les pour la première fois. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="425">En vérité, la méthode est très neuve ; </l>
+            <l n="426">Que dois-je attendre encor de cette épreuve ? </l>
+            <l n="427">N'importe : allons ; quel qu'en soit le succès, </l>
+            <l n="428">Vénus l'ordonne, et moi je m'y soumets : </l>
+            <l n="429">Mon coeur séduit saisit avec ivresse </l>
+            <l n="430">Tout ce qui sert à flatter sa tendresse...</l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>MÉLIDORE.</speaker>
+            <l n="431" part="I">Entrons au Temple. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="431" part="F">Allons, je m'y résous. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="432">C'est fort bien fait ; je vais parler pour vous. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="433">Vous pouvez tout sans doute auprès des Grâces ; </l>
+            <l n="434">Et moi j'en dois craindre quelques disgrâces. </l>
+            <l n="435">Malgré cela je vais, si vous voulez, </l>
+            <l n="436" part="I">Parler moi-même.... </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="436" part="F">Eh, bien ! Monsieur, parlez. </l>
+            <stage>Anaximandre et Mélidore s'avancent vers le Temple ; Mélidore frappe à la porte ; le Temple s'ouvre ; trois Prêtresses des Grâces viennent au-devant du Philosophe.</stage>
+          </sp>
+        </div>
+        <div type="scene" n="7">
+          <head>SCÈNE VII. Anaximandre, Phrosine, Mélidore, Trois Prêtresse des Grâces.</head>
+          <sp who="tc0053-PRETRESSE">
+            <speaker>UNE PRETRESSE. </speaker>
+            <l n="437">Qui vous amène aux pieds de nos Déesses ? </l>
+            <l n="438" part="I">Quels sont vos voeux ? Parlez. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="438" part="F">Belles Prêtresses, </l>
+            <l n="439">Anaximandre aux Grâces a recours, </l>
+            <l n="440">Et son bonheur dépend de leur secours. </l>
+            <l n="441">Vous les servez, rendez-les moi propices, </l>
+            <l n="442">Obtenez-moi leurs faveurs protectrices ; </l>
+            <l n="443">J'ai trop longtemps, hélas ! pour mon malheur, </l>
+            <l n="444">Fui leurs Autels et leur culte enchanteur. </l>
+            <l n="445">Sur leurs bontés pourtant je compte encore,</l>
+            <l n="446">Je veux toucher un objet que j'adore, </l>
+            <l n="447">Et je leur viens demander à genoux </l>
+            <l n="448">Le don de plaire à cet objet si doux. </l>
+          </sp>
+          <sp who="tc0053-PRETRESSE">
+            <speaker>LA PRETRESSE. </speaker>
+            <l n="449">Eh quoi !.... c'est vous, austère Anaximandre ? </l>
+            <l n="450">Vous amoureux !.... Je vous trouve un air tendre </l>
+            <l n="451">Un feu plus doux dans vos yeux, est entré, </l>
+            <l n="452">Ainsi l'amour change tout à son gré. </l>
+            <l n="453">Les Grâces vont achever le prodige. </l>
+            <l n="454">De leurs attraits l'invincible prestige </l>
+            <l n="455">Toujours senti, toujours mal imité, </l>
+            <l n="456">Fil plus touchant, plus beau que la beauté. </l>
+            <l n="457">À leur pouvoir on ne peut se soustraire ; </l>
+            <l n="458">Suivez-moi donc, venez apprendre à plaire : </l>
+            <l n="459">De nos leçons, initié discret, </l>
+            <l n="460">Profitez bien ; mais gardez le secret. </l>
+            <l n="461">Ne craignez point des épreuves pénibles, </l>
+            <l n="462">Vous connaîtrez des mystères paisibles, </l>
+            <l n="463">Doux, enchanteurs, réglés par les plaisirs, </l>
+            <l n="464">Et le succès passera vos désirs. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="465">À vos bontés plein d'espoir je me livre. </l>
+          </sp>
+          <sp who="tc0053-PRETRESSE">
+            <speaker>LA PRETRESSE. </speaker>
+            <l n="466">Venez, entrons ; votre ami peut vous suivre. </l>
+            <stage>À Phrosine.</stage>
+            <l n="467">Vous, demeurez : il suffit d'un témoin, </l>
+            <l n="468">Et de nos dons vous n'avez pas besoin. </l>
+          </sp>
+        </div>
+        <div type="scene" n="8">
+          <head>SCÈNE VIII.</head>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE, seule. </speaker>
+            <l n="469">Faut-il en croire un si flatteur oracle ? </l>
+            <l n="470">On nous promet un assez beau miracle : </l>
+            <l n="471">Ce philosophe austère, renfrogné, </l>
+            <l n="472">Va revenir de roses couronné, </l>
+            <l n="473">Leste, galant, et tout-à-fait de mise. </l>
+            <l n="474">Mais pour ma soeur quelle étrange surprise ! </l>
+            <l n="475">Son oeil trompé par un tel changement </l>
+            <l n="476">Méconnaîtra, je gage, son amant. </l>
+            <l n="477">C'est elle-même ici qui se présente : </l>
+            <l n="478">Je veux l'induire en une erreur plaisante, </l>
+            <l n="479">Et par un compte arrangé tout exprès, </l>
+            <l n="480">Savoir un peu ses sentiments secrets.</l>
+          </sp>
+        </div>
+        <div type="scene" n="9">
+          <head>SCÈNE IX. Aspasie, Phrosine.</head>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="481">Eh bien ! Est-il encor fort en colère ? </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="482">Que je t'apprenne ; écoute-moi, ma chère. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="483">Comme il grondait ! Vraiment ; il m'a fait peur ! </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="484" part="I">Il faut te dire.... </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="484" part="F">Aussi, c'est vous, ma soeur ; </l>
+            <l n="485" part="I">Auriez-vous dû ?.... </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="485" part="F">Bon, bagatelle pure ! </l>
+            <l n="486">Mais fais-tu bien une grande aventure ? </l>
+            <l n="487">Tout change ici : tu vas dans un moment, </l>
+            <l n="488">À tes genoux voir un nouvel amant. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="489">Un autre amant ! vous vous moquez encore ! </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="490">C'est un ami du galant Mélidore ; </l>
+            <l n="491">Un philosophe, et qui pourtant, dit-on, </l>
+            <l n="492">Joint l'art de plaire au don de la raison. </l>
+            <l n="493">Ce n'est plus là le brusque Anaximandre, </l>
+            <l n="494">Toujours grondant, toujours prompt à reprendre, </l>
+            <l n="495">Par son abord effarouchant les jeux, </l>
+            <l n="496">Se donnant l'air encor d'être amoureux, </l>
+            <l n="497">Sage masqué, prétendu philosophe, </l>
+            <l n="498">Au fonds, savant d'une très mince étoffe.... </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="499">Ah ! juste Ciel ! que dites-vous, ma soeur ? </l>
+            <l n="500">Vous le traitez avec trop de rigueur ; </l>
+            <l n="501">Vous l'insultez, ce sage qui nous aime, </l>
+            <l n="502">Vous qui souvent m'avez vanté vous-même </l>
+            <l n="503">Et ses vertus que l'on doit respecter, </l>
+            <l n="504">Et ses bienfaits qui nous font subsister. </l>
+            <l n="505">Combien de fois je vous ai rencontrée </l>
+            <l n="506">Toute attendrie et l'âme pénétrée </l>
+            <l n="507">De quelque trait de cet homme si grand ! </l>
+            <l n="508">Vous en parliez avec ravissement ; </l>
+            <l n="509">Vous le nommiez un véritable sage. </l>
+            <l n="510">C'était du coeur que partait ce langage. </l>
+            <l n="511">Pourquoi changer aujourd'hui de discours ? </l>
+            <l n="512">Ce qu'il était, ne l'est-il pas toujours ? </l>
+            <l n="513">Ah ! croyez-moi, quoi que vous puissiez dire, </l>
+            <l n="514">Notre bonheur est tout ce qu'il désire. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="515">Eh ! mais.... je crois qu'il ne te déplaît pas, </l>
+            <l n="516">Mais pour toi l'autre aura bien plus d'appas. </l>
+            <l n="517" part="I">Il faut le voir. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="517" part="F">Allons, vous êtes folle. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="518">Tu le verras ; car j'ai donné parole. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="519">Non, je ne puis.... Que dirait mon tuteur ? </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="520">Ce Tuteur-là te tient beaucoup au coeur. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="521">Eh ! mais.... je dois lui demeurer soumise. </l>
+            <l n="522">Je crois qu'il faut que son choix m'autorise. </l>
+            <l n="523">Si cet Amant n'était pas de son goût ! </l>
+            <l n="524">Tenez, ma soeur, moi je craindrais surtout </l>
+            <l n="525" part="I">De l'affliger. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="525" part="F">Va, tu n'as rien à craindre. </l>
+            <l n="526">Notre tuteur n'aura point à se plaindre. </l>
+            <l n="527">Tu le verras, loin d'en être jaloux, </l>
+            <l n="528">Te supplier d'accepter cet époux. </l>
+            <l n="529">À vous entendre, il ne m'aime donc guère. </l>
+          </sp>
+        </div>
+        <div type="scene" n="10">
+          <head>SCÈNE X. Les Précédents, Mélidore, Anaximandre.</head>
+          <stage>Le Temple des Grâces s'ouvre, Mélidore en sort avec Anaximandre qu'il tient par la main ; celui-ci est galamment paré. </stage>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE, à Aspasie. </speaker>
+            <l n="530">On vient ; c'est lui, c'est ton amant, ma chère ; </l>
+            <l n="531" part="I">Reçois-le bien. Je te laisse. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="531" part="F">Un moment. </l>
+            <l n="532" part="I">Je resterais moi seule ?... </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="532" part="F">Assurément. </l>
+            <l n="533">Vous jaserez tête à tête à votre aise.</l>
+            <l n="534">Il est charmant et n'a rien qui ne plaise. </l>
+            <l n="535" part="I">Adieu. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="535" part="M">Demeure. </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="535" part="M">Eh ! non. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="535" part="M">J'ai peur.... </l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="535" part="F">De quoi ? </l>
+            <l n="536">Tu fais l'enfant ; allons, aguerris-toi. </l>
+            <stage>Phrosine sort et emmène Mélidore.</stage>
+          </sp>
+        </div>
+        <div type="scene" n="11">
+          <head>SCÈNE XI. Anaximandre, Aspasie, Aspasie.</head>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE, un peu éloigné et respectueusement. </speaker>
+            <l n="537">En vous offrant l'hommage le plus tendre, </l>
+            <l n="538">Belle Aspasie, à quoi dois-je m'attendre ? </l>
+            <l n="539">D'un vain espoir ne m'a-t-on point flatté ? </l>
+            <l n="540">Serai-je au moins sans colère écouté ? </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE, avec embarras. </speaker>
+            <l n="541">Je ne sais pas quel espoir on vous donne.... </l>
+            <l n="542">Ni vos desseins.... Monsieur.... Mais je m'étonne </l>
+            <l n="543">Qu'un inconnu.... dès la première fois.... </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE, à part. </speaker>
+            <l n="544">Un inconnu ? Que dit-elle ? Je vois </l>
+            <l n="545">Que cet habit la trompe et me déguise. </l>
+            <l n="546">Laissons durer un moment sa méprise. </l>
+            <stage>À Aspasie.</stage>
+            <l n="547">Ah ! pour céder à des charmes si doux, </l>
+            <l n="548">Qu'est-il besoin d'être connu de vous ? </l>
+            <l n="549">Dès qu'on a pu vous voir ou vous entendre </l>
+            <l n="550">Il faut aimer même sans rien prétendre. </l>
+            <l n="551">De la Beauté tel est l'heureux pouvoir ; </l>
+            <l n="552">Elle séduit souvent sans le savoir. </l>
+            <l n="553">D'amants cachés une foule l'adore. </l>
+            <l n="554">Simple et modeste, elle seule l'ignore. </l>
+            <l n="555">À ce portrait vous vous reconnaissez,</l>
+            <l n="556">Oui, c'est ainsi que vous nous séduirez. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE, à part. </speaker>
+            <l n="557">Il est galant, et je le crois sincère. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="558">Voulez-vous donc vous contenter de plaire, </l>
+            <l n="559">Belle Aspasie, et le plus pur amour </l>
+            <l n="560">N'obtiendra-t-il de vous aucun retour ? </l>
+            <l n="561">Hélas ! je viens d'implorer la puissance </l>
+            <l n="562">Des déités qu'en ces lieux on encense. </l>
+            <l n="563">Tous leurs attraits admirés des Mortels </l>
+            <l n="564">N'eussent jamais obtenu des Autels ; </l>
+            <l n="565">On rend hommage à leurs douces faiblesses, </l>
+            <l n="566">Et l'amour seul en a fait des Déesses. </l>
+            <l n="567">Imitez-les. Vous avez leur beauté ; </l>
+            <l n="568">Ayez encor leur sensibilité. </l>
+            <l n="569">Au rang des Dieux vous monterez comme elles ; </l>
+            <l n="570">L'Olympe attend les héros et les belles. </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE, à part. </speaker>
+            <l n="571">Cet amant-là, sans mentir, est charmant. </l>
+            <stage>À Anaximandre.</stage>
+            <l n="572">Je l'avouerai, vous louez joliment. </l>
+            <l n="573">Vos discours ont des grâces que j'admire ; </l>
+            <l n="574">Mais cependant que puis-je ici vous dire ? </l>
+            <l n="575">Je ne suis point ma maîtresse, et ma foi, </l>
+            <l n="576">Pour la donner, ne dépend point de moi. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="577">Oui, je le sais, un tuteur vous enchaîne ; </l>
+            <l n="578">Il a pour vous un amour qui vous gêne, </l>
+            <l n="579">Qui vous déplaît, et même son dessein </l>
+            <l n="580">Est, m'a-t-on dit, d'obtenir votre main ; </l>
+            <l n="581">Il croit vous rendre à ses voeux favorable : </l>
+            <l n="582">Mais ce Tuteur enfin n'est point aimable ; </l>
+            <l n="583" part="I">Il est bourru, philosophe.... </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="583" part="F">Ah ! Monsieur ! </l>
+            <l n="584">Gardez-vous bien d'offenser mon tuteur ; </l>
+            <l n="585">Il est si bon, si généreux, si sage ! </l>
+            <l n="586">Je lui dois tout, et je suis son ouvrage ; </l>
+            <l n="587">Ses volontés décideront mon sort. </l>
+            <l n="588">Que ne peut-il sur lui faire un effort, </l>
+            <l n="589">À ses vertus joindre un air moins sauvage, </l>
+            <l n="590">Et que n'a-t-il enfin votre langage ! </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="591">Et jusques-là s'il savait se forcer,</l>
+            <l n="592">Entre nous deux vous pourriez balancer ? </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="593">Non, croyez-moi, je dis ce que je pense : </l>
+            <l n="594">Anaximandre aurait la préférence. </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE, à part. </speaker>
+            <l n="595">Elle m'enchante !... Ah ! c'est assez jouir </l>
+            <l n="596">De son erreur ; il faut me découvrir. </l>
+            <stage>À Aspasie.</stage>
+            <l n="597">Chère Aspasie, as-tu pu t'y méprendre ? </l>
+            <l n="598">Vois à tes pieds, vois ton Anaximandre </l>
+            <l n="599">Ivre d'amour, transporté de plaisir, </l>
+            <l n="600">Qui pour jamais jure de te chérir.... </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE.</speaker>
+            <l n="601" part="I">C'est vous.</l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="601" part="F">Tu vois ce que l'amour peut faire. </l>
+            <l n="602">Je t'adorais ; mais il fallait te plaire ; </l>
+            <l n="603">Le philosophe est devenu galant. </l>
+            <l n="604">Que dois-je attendre après ce changement ? </l>
+          </sp>
+          <sp who="tc0053-ASPASIE">
+            <speaker>ASPASIE, se jetant dans ses bras. </speaker>
+            <l n="605">Ah ! mon ami, mon tuteur et mon père, </l>
+            <l n="606">Qui voulez-vous que mon coeur vous préfère ? </l>
+            <l n="607">Formé par vous, ce coeur est votre bien : </l>
+            <l n="608">Je vous le dois, et ne vous donne rien. </l>
+            <stage>Il lui baise la main.</stage>
+          </sp>
+        </div>
+        <div type="scene" n="12">
+          <head>SCÈNE DERNIÈRE. Phrosine, Mélidore, Anaximandre, Aspasie.</head>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="609">Fort bien, vraiment ; enfin, notre Aspasie </l>
+            <l n="610">Prend donc du goût pour la philosophie ? </l>
+          </sp>
+          <sp who="tc0053-ANAXIMANDRE">
+            <speaker>ANAXIMANDRE.</speaker>
+            <l n="611">Vous me voyez au comble de mes voeux . </l>
+            <l n="612">Mais il me reste à vous unir tous deux ; </l>
+            <l n="613">Votre bonheur au mien est nécessaire.</l>
+          </sp>
+          <sp who="tc0053-PHROSINE">
+            <speaker>PHROSINE.</speaker>
+            <l n="614">J'avais bien dit que vous sauriez lui plaire </l>
+            <l n="615">Une autre fois, prendrez-vous mes avis ? </l>
+            <l n="616">Vous plaignez-vous de les avoir suivis ? </l>
+            <l n="617">Vous le voyez ; un savoir admirable </l>
+            <l n="618">Et des vertus ne rendent point aimable : </l>
+            <l n="619">L'esprit et les talents sont bien ; </l>
+            <l n="620">Mais sans les Grâces, ce n'est rien. </l>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

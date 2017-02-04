@@ -1,0 +1,308 @@
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Divertissement de sceaux</title>
+        <title type="sub">Comédie-ballet</title>
+        <title type="short">Divertissement de sceaux</title>
+        <title type="idno">
+          <idno type="viaf"/>
+        </title>
+        <author>
+          <name type="full">DANCOURT, Florent CARTON dit</name>
+          <name type="short">Dancourt</name>
+          <idno type="viaf"/>
+        </author>
+        <principal/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>CLiGS</publisher>
+        <idno type="cligs">tc0221</idno>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digital-source"><date>2014</date>, <idno/>, <ref target="http://theatre-classique-fr/"/>. Publié par Paul Fièvre.</bibl>
+        <bibl type="print-source"><date>1705</date>, <idno/>, <ref target="#"/>. .</bibl>
+        <bibl type="edition-first"><date/>, <idno/>, <ref target="#"/>.</bibl>
+        <bibl type="performance-first"><date>1705</date>, <idno/>, <ref target="#"/>. Représentée pour la première fois le 13 Août 1705 au Château de Sceaux. </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p/>
+      </abstract>
+      <textClass>
+        <keywords scheme="keywords.csv">
+          <term type="supergenre">drama</term>
+          <term type="genre">Comédie-ballet</term>
+          <term type="structure">un acte</term>
+          <term type="form">vers</term>
+          <term type="period">1701-1710</term>
+          <term type="taille">0-250</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2017-02-03" who="cf">Initial TEI version.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>ACTEURS</head>
+        <castItem>
+          <role xml:id="tc0221-MONSIEURPOISSON">MONSIEUR POISSON</role>
+        </castItem>
+        <castItem>
+          <role xml:id="tc0221-MONSIEURSALLE">MONSIEUR SALLÉ</role>
+        </castItem>
+        <castItem>
+          <role xml:id="tc0221-MONSIEURDUBOCAGE">MONSIEUR DU BOCAGE</role>
+        </castItem>
+        <castItem>
+          <role xml:id="tc0221-MONSIEURFOMPRE">MONSIEUR FOMPRÉ</role>
+        </castItem>
+        <castItem>
+          <role xml:id="tc0221-MADEMOISELLEGODEFROY">MADEMOISELLE GODEFROY</role>
+        </castItem>
+        <castItem>
+          <role xml:id="tc0221-MADEMOISELLESALLE">MADEMOISELLE SALLE</role>
+        </castItem>
+        <castItem>
+          <role xml:id="tc0221-MADEMOISELLEMIMYDANCOURT">MADEMOISELLE MIMY DANCOURT</role>
+        </castItem>
+      </castList>
+      <set>
+        <p>La Scène est à Sceaux. Le Théâtre représente un des beaux endroits des Jardins de Sceaux.</p>
+      </set>
+    </front>
+    <body>
+      <div type="act" n="1">
+        <head/>
+        <div type="scene" n="1">
+          <head/>
+          <stage>Après l’Ouverture, Mademoiselle SALLE, conduisant une Troupe d’Acteurs et d’Actrices, en habit de Théâtre à la Française, chante les paroles suivantes. </stage>
+          <sp who="tc0221-MADEMOISELLESALLE">
+            <speaker>MADEMOISELLE SALLE.</speaker>
+            <l n="1">Ne portons pas </l>
+            <l n="2">Plus loin nos pas, </l>
+            <l n="3">Arrêtons-nous dans ces belles retraites : </l>
+            <l n="4">Les arbres des routes secrètes, </l>
+            <l n="5">Sans art avec ordre plantés ; </l>
+            <l n="6">Le cristal des eaux, la fraîcheur des herbes, </l>
+            <l n="7">Font assez voir que ces bois enchantés, </l>
+            <l n="8">Conduisent aux Palais superbes </l>
+            <l n="9">De quelques Divinités. </l>
+          </sp>
+          <sp who="tc0221-MONSIEURSALLE">
+            <speaker>MONSIEUR SALLE, vêtu en Druide.</speaker>
+            <l n="10">Dans ce séjour chéri des Dieux, </l>
+            <l n="11">Troupe aimable, qui vous attire ? </l>
+            <l n="12">N’est-ce qu’un désir curieux </l>
+            <l n="13">D’y voir les beautés qu’on admire ? </l>
+          </sp>
+          <sp who="tc0221-MADEMOISELLESALLE">
+            <speaker>MADEMOISELLE SALLE.</speaker>
+            <l n="14">Sage druide, apprenez-nous </l>
+            <l n="15">Quels sont les beaux lieux où nous sommes, </l>
+            <l n="16">Quelle Divinité par vous </l>
+            <l n="17">Reçoit ici l’encens et l’hommage des hommes. </l>
+          </sp>
+          <sp who="tc0221-LEDRUIDE">
+            <speaker>LE DRUIDE.</speaker>
+            <note type="L">Vertu : Déesse du Paganisme. Les Romains bâtirent un temple de la Vertu, et un temple de l'Honneur ; mais il fallait passer par le temple de la Vertu pour parvenir à celui de l'Honneur. Ils entendaient par cet ordre, que le vrai chemin de l'honneur est d'être vertueux. On peignait la Vertu en femme grave et modeste, avec un port et un air qui inspirait de la vénération. Lucien la représente triste, affligée, maltraitée de la Fortune, en sorte même qu'il lui étoit défendu de se montrer à la Cour de Jupiter. [T]</note>
+            <l n="18">Bénissez le sort heureux </l>
+            <l n="19">Qui dans ce Palais vous amène ; </l>
+            <l n="20">Hâtez-vous d’offrir vos vœux </l>
+            <l n="21">À notre AUGUSTE SOUVERAINE. </l>
+            <stage>ENTRÉE. </stage>
+          </sp>
+          <sp who="tc0221-LEDRUIDE">
+            <speaker>LE DRUIDE, continue.</speaker>
+            <l n="22">C’est la Vertu qui tient ici sa Cour ; </l>
+            <l n="23">Mais ce n’est point cette Vertu sauvage </l>
+            <l n="24">Qui fuit l’innocent badinage </l>
+            <l n="25">Des jeux, des ris, et de l’amour : </l>
+            <l n="26">C’est la Vertu dans son bel âge, </l>
+            <l n="27">Qui dans cet aimable séjour, </l>
+            <note type="L">Minerve : Nom propre d'une Déesse de l'Antiquité païenne. On la nommait aussi Pallas, et en Grèce Athéné. Minerve était fille de Jupiter ; elle était sortie de son cerveau. Hésiode dit pourtant que Métis, première femme de Jupiter, l'avait conçue, mais Jupiter enferma Métis dans son sein lorsqu'elle était sur le point de mettre Minerve au monde, qui sortit ensuite de son cerveau. Minerve était la Déesse des beaux arts. [T]</note>
+            <l n="28">Des doux plaisirs permet l’usage, </l>
+            <l n="29">Et qui sait les prendre à son tour. </l>
+            <stage>ENTRÉE. </stage>
+          </sp>
+          <sp who="tc0221-LEDRUIDE">
+            <speaker>LE DRUIDE continue.</speaker>
+            <l n="30">Elle aime à sa suite </l>
+            <note type="L">Vénus : Fausse Divinité des Païens, les poètes ont feint qu'elle est la mère des Grâces et des Amours. C'était la Déesse de la beauté et de la volupté. On remarquait dans le visage, et dans la posture de Vénus une beauté molle, et une langueur passionnée.</note>
+            <l n="31">Que le vrai mérite </l>
+            <l n="32">Brille chaque jour. </l>
+            <l n="33">Minerve se plaint qu’on la quitte, </l>
+            <l n="34">Pour lui venir faire la cour ; </l>
+            <l n="35">Et de Vénus la Troupe favorite, </l>
+            <l n="36">Des Grâces l’élite, </l>
+            <note type="L">Comus : Dieu de la joie, des festins, des danses nocturnes. [T]</note>
+            <l n="37">Y retient la jeunesse et l’amour. </l>
+          </sp>
+          <sp who="tc0221-MONSIEURPOISSON">
+            <speaker>MONSIEUR POISSON, en Crispin.</speaker>
+            <note type="L">Grâce : Dans le langage des poètes et des païens, divinité fabuleuse. Il y en avait trois qu'on peignait toutes nues, et qu'on feignait être de la suite de Vénus ; on les nommait Aglaïa, Thalie et Euphrosyne ; elles étaient filles de Jupiter, compagnes de Mercure.[T]</note>
+            <note type="L">Apollon : Nom propre d'un Dieu, Fils de Jupiter et de Latone. Son nom est Grec, et vient selon Platon de ce qu'il darde ses rayons. [T]</note>
+            <p n="1">
+              <s n="1">Parbleu je suis ravi que cela soit comme vous le dites, et… </s>
+              <s n="2">Nous sommes aussi nous autres l’élite d’une Troupe favorite, non pas de Vénus, mais de Comus, et si peu que rien d’Apollon… </s>
+              <s n="3">Comédiens pour vous rendre service, Monsieur le Druide. </s>
+              <s n="4">Et puisque le hasard… nous conduit heureusement dans une Cour aussi charmante que celle-ci, auprès d’une Souveraine si agréablement vertueuse, nous vous prions de lui faire agréer que… nous ayons, s’il vous plaît, l’honneur de lui donner… un petit plat de notre métier. </s>
+              <s n="5">Je ne sais pas parler en musique comme vous… moi ; mais cela n’empêche pas que je me réjouisse quelquefois en parlant autrement, par exemple… je suis le Comique… et nous sommes tous camarades ; enfin c’est ce qui fait que comme nous n’avons point de maître, nous ne sommes pas toujours bien d’accord… </s>
+              <s n="6">Mais ce qu’il y a de constant… c’est que l’on s’accorde pour contribuer au plaisirs de l’AUGUSTE SOUVERAINE chez qui nous sommes, et dans l’objet que nous avons d’y réussir, nous sommes tous d’une docilité, d’une tranquillité d’esprit… enfin, expliquez-lui cela, s’il vous plaît, Monsieur le Druide, et n’oubliez pas de parler surtout du zèle et du respectueux attachement que nous avons tous, et de bien marquer… là… combien nous nous estimons heureux de trouver la moindre petite occasion de tâcher de nous rendre dignes de l’honneur de sa bienveillance et de sa protection. </s>
+              <s n="7">Allons, Messieurs, Mesdemoiselles, achevez, s’il vous plaît, votre façon de prologue, et nous commencerons notre Comédie.</s>
+            </p>
+          </sp>
+          <sp who="tc0221-MADEMOISELLESALLE">
+            <speaker>MADEMOISELLE SALLE.</speaker>
+            <l n="38">Que les Grecs soient glorieux, </l>
+            <note type="L">Parnasse : Mont de la Phocide consacré à Apollon et aux Muses, qui est la source des fontaines Castalide, Hippocrène et Aganippe, tant célébrées par les poètes. [T]</note>
+            <l n="39">D’avoir chez eux le Parnasse, </l>
+            <l n="40">Cet aimable coteau parmi nous tient sa place, </l>
+            <l n="41">Et nous élève au-dessus d’eux. </l>
+            <l n="42">Ici la moindre fontaine </l>
+            <l n="43">Vaut tout l’eau d’Hypocrène. </l>
+          </sp>
+          <sp who="tc0221-LEDRUIDE">
+            <speaker>LE DRUIDE.</speaker>
+            <l n="44">Depuis le jour qu’Apollon </l>
+            <note type="L">Sacré vallon : Poétiquement. Le sacré vallon, le vallon situé entre les deux croupes du Parnasse, et qui, selon la Fable, était le séjour des Muses. [L]</note>
+            <l n="45">Quitta le sacré vallon, </l>
+            <l n="46">Sur ces coteaux il réside ; </l>
+            <note type="L">Muse : Divinité fabuleuse des païens, qu'ils croyaient présider aux arts et aux sciences. [T]</note>
+            <l n="47">Et la Muse qui dans ses lieux </l>
+            <l n="48">Seule au lieu des neufs Sœurs préside, </l>
+            <note type="L">Piéride : Nom que l'on donnait aux Muses, parce que l'on croyait qu'elles habitaient le Mont Piérius en Thessalie.</note>
+            <l n="49">N’est point une Piéride, </l>
+            <l n="50">Elle est du sang de nos Dieux. </l>
+          </sp>
+          <sp who="tc0221-MADEMOISELLESALLE">
+            <speaker>MADEMOISELLE SALLE.</speaker>
+            <l n="51">Aux bords de la Seine </l>
+            <l n="52">Une Souveraine </l>
+            <l n="53">Gagne tous les cœurs, </l>
+            <l n="54">Ses charmes vainqueurs </l>
+            <l n="55">Triomphent sans peine. </l>
+            <l n="56">En portant son aimable chaîne, </l>
+            <l n="57">On ressent mille douceurs. </l>
+            <note type="L">Paphos : Autre nom de Vénus. On l'a appelée Déesse de Paphos, de Cythère et d'Amathonte, à cause qu'elle était adorée particulièrement en ces lieux-là, et dans les bois d'Idalie. [T]</note>
+            <l n="58">De Paphos la Reine </l>
+            <l n="59">À son char entraîne </l>
+            <l n="60">Moins d’Adorateurs. </l>
+          </sp>
+          <sp who="tc0221-MADEMOISELLESALLE">
+            <speaker>MADEMOISELLE SALLE, continue.</speaker>
+            <note type="L">Cythère : C'était autrefois le nom d'une île du Péloponèse, vis-à-vis de Crète. On la nomme aujourd'hui Cérigo, Sophiano. Hésiode dit que Vénus ayant été produite de l'écume de la mer fut portée d'abord à cette île sur une conque marine. [T]</note>
+            <l n="61">L’île de Cythère </l>
+            <l n="62">À Vénus si chère </l>
+            <l n="63">Cède à ses beaux lieux ; </l>
+            <l n="64">Tout charme les yeux, </l>
+            <l n="65">Tout est fait pour plaire. </l>
+            <l n="66">La Déesse qu’on y révère </l>
+            <l n="67">Est l’objet qui plaît le mieux. </l>
+            <l n="68">Hé ! Se peut-il faire </l>
+            <l n="69">Qu’on ne les préfère </l>
+            <l n="70">Au séjour des Dieux ? </l>
+            <stage>Ce Divertissement finit par l’Entrée précédente, que l’on répète, après laquelle on représente une Comédie ; ensuite de quoi Monsieur et Mademoiselle Sallé chantent les paroles suivantes, qui précèdent un Bal. </stage>
+          </sp>
+          <sp who="tc0221-MONSIEURSALLE">
+            <speaker>MONSIEUR SALLE.</speaker>
+            <l n="71">Si cette Cour charmante </l>
+            <l n="72">Est contente </l>
+            <l n="73">Des soins que nous avons pris, </l>
+            <l n="74">Le succès passe notre attente, </l>
+            <l n="75">Est-il un plus digne de prix ? </l>
+            <l n="76">Que la troupe diligente </l>
+            <l n="77">Des plaisirs, des Jeux, des Ris, </l>
+            <l n="78">Vienne dans ces lieux chéris, </l>
+            <l n="79">Finir cette fête galante. </l>
+            <l n="80">Si cette Cour charmante </l>
+            <l n="81">Est contente </l>
+            <l n="82">Des soins que nous avons pris, </l>
+            <l n="83">Le succès passe notre attente, </l>
+            <l n="84">Est-il un plus digne de prix ? </l>
+            <stage>ENTRÉE. </stage>
+          </sp>
+          <sp who="tc0221-MADEMOISELLESALLE">
+            <speaker>MADEMOISELLE SALLE.</speaker>
+            <l n="85">De ce séjour aimable </l>
+            <l n="86">Je crains de m’éloigner, </l>
+            <l n="87">On ne voit point ailleurs régner </l>
+            <l n="88">Des plaisirs la troupe agréable. </l>
+            <l n="89">Ici les jours </l>
+            <l n="90">Sembleraient trop courts, </l>
+            <l n="91">Si quand l’œil du monde </l>
+            <l n="92">Dans le sein de l’Onde </l>
+            <l n="93">Va finir son cours, </l>
+            <l n="94">Sa sœur qui le chasse, </l>
+            <l n="95">Et qui prend sa place, </l>
+            <l n="96">N’offrait à d’innocents désirs </l>
+            <l n="97">Les plus doux loisirs : </l>
+            <l n="98">Et souvent l’Aurore </l>
+            <l n="99">Nous surprend encore </l>
+            <l n="100">Parmi les plaisirs. </l>
+            <l n="101">De ce séjour aimable </l>
+            <l n="102">Je crains de m’éloigner, </l>
+            <l n="103">On ne voit point ailleurs régner </l>
+            <l n="104">Des plaisirs la troupe agréable. </l>
+            <stage>ENTRÉE. </stage>
+            <stage>Branle pour danser en rond, après lequel le Bal commence. </stage>
+            <l n="105">Qui s’ennuie</l>
+            <l n="106">Dans la vie, </l>
+            <l n="107">N’a ni bon sens, ni raison, </l>
+            <l n="108">Suivre en tout sa fantaisie, </l>
+            <l n="109">Vivre sans soins, sans envie, </l>
+            <l n="110">Ô, l’heureuse opinion ! </l>
+            <l n="111">Qui s’ennuie</l>
+            <l n="112">Dans la vie, </l>
+            <l n="113">N’a ni bon sens, ni raison. </l>
+            <l n="114">C’est là la Philosophie, </l>
+            <l n="115">Qui jadis fut si chérie </l>
+            <note type="L">Zénon : Nom de philosophes grecs : Zénon d'Elée de la secte des Eléates et Zénon le fondateur du stoïcisme.</note>
+            <l n="116">Des disciples de Zénon. </l>
+            <l n="117">Qui s’ennuie</l>
+            <l n="118">Dans la vie, </l>
+            <l n="119">N’a ni bon sens, ni raison. </l>
+            <l n="120">Elle est depuis moins suivie, </l>
+            <l n="121">Cela dépend du génie, </l>
+            <l n="122">Heureux, quiconque l’a bon ! </l>
+            <l n="123">Qui s’ennuie</l>
+            <l n="124">Dans la vie, </l>
+            <l n="125">N’a ni bon sens, ni raison. </l>
+            <l n="126">Dès qu’elle nous est ravie, </l>
+            <l n="127">Du retour je me défie. </l>
+            <note type="L">Achéron : Terme de mythologie. Fleuve des enfers. Les poètes le prennent pour l'enfer ou pour la mort. [L]</note>
+            <l n="128">Qui deux fois vit l’Achéron ? </l>
+            <l n="129">Qui s’ennuie</l>
+            <l n="130">Dans la vie, </l>
+            <l n="131">N’a ni bon sens, ni raison. </l>
+            <note type="L">Alcmène : Mère d'Hercule. [L]</note>
+            <l n="132">Quoi que la Mythologie </l>
+            <l n="133">Du fils d’Alcmène publie, </l>
+            <l n="134">Des sombres bords revient-on ? </l>
+            <l n="135">Qui s’ennuie </l>
+            <l n="136">Dans la vie, </l>
+            <l n="137">N’a ni bon sens, ni raison. </l>
+            <l n="138">Comme la rose fleurie, </l>
+            <l n="139">En peu de temps est flétrie, </l>
+            <l n="140">Ainsi nos beaux jours s’en vont. </l>
+            <l n="141">Qui s’ennuie </l>
+            <l n="142">Dans la vie, </l>
+            <l n="143">N’a ni bon sens, ni raison. </l>
+            <l n="144">Puisque sitôt elle est finie, </l>
+            <l n="145">Aux plaisirs tout nous convie, </l>
+            <l n="146">Sans craindre prenons-en donc. </l>
+            <l n="147">Qui s’ennuie </l>
+            <l n="148">Dans la vie, </l>
+            <l n="149">N’a ni bon sens, ni raison. </l>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

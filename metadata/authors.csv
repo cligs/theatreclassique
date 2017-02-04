@@ -1,824 +1,904 @@
 cligs_id,surname,forname,born,born_location,death,death_location,academie,author_string
-tc0797,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0028,Aude,Joseph,1755,Apt,1841,,,AUDE, Joseph 
-tc0270,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0106,Brécourt,Guillaume MARCOUREAU de,1638,Paris,1685,Paris,,BRÉCOURT, Guillaume MARCOUREAU de
-tc0147,Carrière-doisin a.,,17..,,17..,,,CARRIÈRE-DOISIN A.
-tc0277,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0556,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0337,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
-tc0080,Bouilly,Jean-Nicolas,1763,La Coudraye,1842,Paris,,BOUILLY, Jean-Nicolas
-tc0037,Barbier,Marie-Anne,1664,Orléans,1745,Paris,,BARBIER, Marie-Anne
-tc0527,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0467,La grange chancel,François-Joseph,1677,Razac-sur-l-Isle,1758,Razac-sur-l-Isle,1685,LA GRANGE CHANCEL, François-Joseph
-tc0474,La motte,Antoine-Houdard de,1672,Paris,1731,Paris,1710,LA MOTTE, Antoine-Houdard de
-tc0768,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0625,Poisson,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,POISSON, Jean-François
-tc0163,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0055,Dominique,BIANCOLELLI, RICCOBONI,1680,,1734,,,DOMINIQUE, BIANCOLELLI, RICCOBONI
-tc0395,Florian,Jean Pierre Claris de,1755,,1794,Paris,,FLORIAN, Jean Pierre Claris de
-tc0038,Barré,RADET.,,,,Gentilly,,BARRÉ, RADET.
-tc0341,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
-tc0465,La fosse,Antoine d'Aubigny,1653,Paris,1708,Paris,,LA FOSSE, Antoine d'Aubigny
-tc0107,Brosse,Abraham,1694,Vic-sur-Cère,1758,Paris,1754,BROSSE, Abraham
-tc0468,La harpe,Jean-François de,1739,Paris,1803,Paris,,LA HARPE, Jean-François de
-tc0597,Nivelle de la chaussée,Pierre,1692,Paris,1754,Paris,1736,NIVELLE de la CHAUSSÉE, Pierre
-tc0704,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
-tc0478,Lantier,Etienne François de,1734,,1826,,,LANTIER, Etienne François de
-tc0406,Gillet de la tessonerie,,1620,,166?,,,GILLET DE LA TESSONERIE
-tc0343,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
-tc0016,(anonyme),,,,,,,(anonyme)
-tc0007,Soulas d'allainval,Abbé Léonor Jean Christine,1700,Chartres,1753,Paris,,SOULAS d'ALLAINVAL, Abbé Léonor Jean Christine
-tc0611,Pellegrin,Simon-Joseph, Abbé,1663,Marseille,1745,Paris,,PELLEGRIN, Simon-Joseph, Abbé
-tc0144,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0676,Regnard,Jean-François,1655,Paris,1709,Château de grillon, Dourdan,,REGNARD, Jean-François
-tc0546,Mercier,Louis-Sébatsien,1740,Paris,1814,Paris,1673,MERCIER, Louis-Sébatsien
-tc0281,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0095,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
-tc0198,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0294,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0397,Fontenelle,Bernard le Bouvier ou le Bouyer de,1657,Rouen,1757,Paris,,FONTENELLE, Bernard le Bouvier ou le Bouyer de
-tc0800,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0616,Piron,Alexis,1689,Dijon,1773,Paris,,PIRON, Alexis
-tc0752,Tristan l_hermite,François,1601,Château de Soliers, Marche,1655,Paris,,TRISTAN L_HERMITE, François
-tc0418,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
-tc0165,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0794,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0119,Carbon de flins,Claude de,1757,Reims,1806,Vervins,,CARBON DE FLINS, Claude de
-tc0594,Nivelle de la chaussée,Pierre,1692,Paris,1754,Paris,1736,NIVELLE de la CHAUSSÉE, Pierre
-tc0723,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
-tc0624,Poisson,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,POISSON, Jean-François
-tc0713,Rousseau,Jean Baptiste,1670,Paris,1741,Bruxelles,1743,ROUSSEAU, Jean Baptiste
-tc0550,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0657,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
-tc0649,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
-tc0297,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0389,Fabre d'eglantine,Jean-François-Nazaire Fabre dit,1750,Carcassonne,1794,Paris,,FABRE D'EGLANTINE, Jean-François-Nazaire Fabre dit
-tc0229,Coupigny,André-François de,1766,,1833,,,COUPIGNY, André-François de
-tc0481,Pompignan,Jean-Jacques Lefranc, marquis de,1709,Montauban,1784,Pompignan,,POMPIGNAN, Jean-Jacques Lefranc, marquis de
-tc0762,Villiers,Claude Deschamps dit,1601,Bresse,1681,Paris,,VILLIERS, Claude Deschamps dit
-tc0522,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0696,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
-tc0383,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
-tc0288,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0134,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0314,Desportes,Claude-François,1693,,1774,,,DESPORTES, Claude-François
-tc0688,Riccoboni père,RICCOBONI fils, ROMAGNESI,,,,,,RICCOBONI père, RICCOBONI fils, ROMAGNESI
-tc0127,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0264,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0347,Dufresny,Charles Rivière,1657,Paris,1724,Paris,,DUFRESNY, Charles Rivière
-tc0373,Durant,Catherine,16??,,1736,,,DURANT, Catherine
-tc0354,Regnard,,1655,Paris,1709,château de grillon, Dourdan,,REGNARD et DUFRESNY
-tc0354,Dufresny,,1655,Paris,1709,château de grillon, Dourdan,,REGNARD et DUFRESNY
-tc0295,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0509,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0574,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0047,Bensérade,Isaac de,1613,Lyons-la-Forêt,1691,Gentilly,1674,BENSÉRADE, Isaac de
-tc0262,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
-tc0577,Molière,,1622,Paris,1673,Paris,,Molière
-tc0282,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0409,Gouges,Olympe de Gouges,1748,Montauban,1793,Paris,,GOUGES, Olympe de Gouges
-tc0040,Beaumarchais,Pierre Augustin Caron de,1732,Paris,1799,Paris,,BEAUMARCHAIS, Pierre Augustin Caron de
-tc0054,Biancolelli pierre-françois (1680-1734),ROMAGNESI Jean-Antoine (1690-1742),1680,Paris,1734,Paris,,BIANCOLELLI Pierre-François (1680-1734), ROMAGNESI Jean-Antoine (1690-1742)
-tc0728,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
-tc0764,Voisenon,Claude-Henri de Fusée de (1708-1775),1708,Paris,1775,Paris,,VOISENON, Claude-Henri de Fusée de (1708-1775)
-tc0415,Guerin de bouscal,Daniel,161 ?,,1675,,,GUERIN de BOUSCAL, Daniel
-tc0599,Ouville,Antoine le Métel,1589,Caen,1655,,,OUVILLE, Antoine le Métel
-tc0571,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0319,Donneau de visé,Jean,1638,Paris,1710,Paris,,DONNEAU DE VISÉ, Jean
-tc0244,Cubières-palmézeaux,Michel de,1752,Gard,1820,Paris,,CUBIÈRES-PALMÉZEAUX, Michel de
+tc0797,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0028,Hauteroche,Noël LEBRETON, sieur de,1616,,1707,,,HAUTEROCHE, Noël LEBRETON, sieur de
+tc0270,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
+tc0106,Pradon,Nicolas,1632,Rouen,1698,Paris,,PRADON, Nicolas
+tc0147,La calprenede,Gautier Costes de,1609,château de Toulgou à Salignac,1663,Les Andelys,1673,LA CALPRENEDE, Gautier Costes de
+tc0277,Pradon,Nicolas,1632,Rouen,1698,Paris,,PRADON, Nicolas
+tc0556,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
+tc0337,Euripide,,-496,,-406,,,EURIPIDE
+tc0080,Euripide,,-496,,-406,,,EURIPIDE
+tc0037,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
+tc0527,Chabanon,Michel Paul Guy de,1730,Saint-omingue,1792,Paris,1780,CHABANON, Michel Paul Guy de
+tc0467,Desfontaines,Nicolas-Marc,1610,,1652,,,DESFONTAINES, Nicolas-Marc
+tc0474,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
+tc0859,Piron,Alexis,1689,Dijon,1773,Paris,,PIRON, Alexis
+tc0768,François-augustin paradis de moncrif,,1687,Paris,1770,Paris,,François-Augustin Paradis de MONCRIF
+tc0625,Voisenon,Claude-Henri de Fusée de (1708-1775),1708,Paris,1775,Paris,,VOISENON, Claude-Henri de Fusée de (1708-1775)
+tc0163,Durant,Catherine,16??,,1736,,,DURANT, Catherine
+tc0055,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0395,Moline,Pierre-Louis,1740,Paris,1820,Paris,,MOLINE, Pierre-Louis
+tc0038,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0341,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0465,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
+tc0107,Piron,Alexis,1689,Dijon,1773,Paris,,PIRON, Alexis
+tc0468,Mercier,Louis-Sébastien,1740,Paris,1814,Paris,,MERCIER, Louis-Sébastien
+tc0597,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0704,Boissy,Louis de,1694,,1758,Paris,1754,BOISSY, Louis de
+tc0406,Lebeau de schosme,Abbé Auguste-Théodore-Vincent,17..,,17..,,,LEBEAU DE SCHOSME, Abbé Auguste-Théodore-Vincent 
+tc0343,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
+tc0016,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
+tc0007,Cailhava d'estendoux,Jean-François,1752,,1828,,,CAILHAVA D'ESTENDOUX, Jean-François
+tc0611,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0144,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0676,Legrand,Marc-Antoine,1673,Paris,1728,Paris,,LEGRAND, Marc-Antoine
+tc0546,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
+tc0281,Boisrobert,François Le Métel de,1589,Caen,1662,Paris,,BOISROBERT, François Le Métel de 
+tc0095,Beze,Théodore,1519,Vezelay,1699,,1605,BEZE, Théodore
+tc0198,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
+tc0294,(anonyme),,,,,,,(anonyme)
+tc0397,Sedaine,Michel-Jean,1719,Paris,1797,Paris,,SEDAINE, Michel-Jean
+tc0800,Nivelle de la chaussée,Pierre,1692,Paris,1754,Paris,1736,NIVELLE de la CHAUSSÉE, Pierre
+tc0616,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
+tc0752,Bideau de montigny,Jean Charles François,,,,,,BIDEAU DE MONTIGNY, Jean Charles François
+tc0418,Regnard,,1655,Paris,1709,château de grillon, Dourdan,,REGNARD et DUFRESNY
+tc0418,Dufresny,,1655,Paris,1709,château de grillon, Dourdan,,REGNARD et DUFRESNY
+tc0165,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0794,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0119,Desfontaines,Nicolas Marie dit,1610,,1652,,,DESFONTAINES, Nicolas Marie dit
+tc0594,Sophocle,,-496,,-406,,,SOPHOCLE
+tc0819,Champmeslé,Charles Chevillet dit,1642,Paris,1701,Paris,,CHAMPMESLÉ, Charles Chevillet dit
+tc0723,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0624,Dalibray,Charles Vion de,1600,1653,,,,DALIBRAY, Charles Vion de
+tc0713,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0550,Dorneval,LESAGE,,,,,,DORNEVAL, LESAGE
+tc0649,Diderot,Denis,1713,Langres,1784,Paris,,DIDEROT, Denis
+tc0297,Le boulanger de chalussay,,,,,,,LE BOULANGER DE CHALUSSAY
+tc0389,Guerin de bouscal,Daniel,161 ?,,1675,,,GUERIN de BOUSCAL, Daniel
+tc0229,Boucher,Pierre,1606,Rouen,1684,Paris,1647,BOUCHER, Pierre
+tc0481,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
+tc0762,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0522,Scudery,Georges de,1601,Le Havre,1667,Paris,1649,SCUDERY, Georges de
+tc0825,Artaud,Jean-Baptiste,1732,,1796,,,ARTAUD, Jean-Baptiste
+tc0696,Jodelle,Étienne,1532,Paris,1573,Paris,,JODELLE, Étienne
+tc0383,Baptiste,,,,,Paris,,BAPTISTE et DU MOUTIER
+tc0383,Du moutier,,,,,Paris,,BAPTISTE et DU MOUTIER
+tc0812,Puget de la serre,Jean,1594,Toulouse,1665,Paris,1825,PUGET DE LA SERRE, Jean
+tc0824,Diderot,Denis,1713,Langres,1784,Paris,,DIDEROT, Denis
+tc0842,Abeille,Gaspard,1648,Riez en provence,1718,Paris,1673,ABEILLE, Gaspard
+tc0288,Sophocle,,-496,,-406,,,SOPHOCLE
+tc0134,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0314,Sommerive,Comte de,1???,,1???,,,SOMMERIVE, Comte de
+tc0871,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0688,Pellegrin,Simon-Joseph, Abbé,1663,Marseille,1745,Paris,,PELLEGRIN, Simon-Joseph, Abbé
+tc0127,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
+tc0264,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0347,Deshoulières,Antoinette du Ligier de la Garde,1638,Paris,1694,Paris,,DESHOULIÈRES, Antoinette du Ligier de la Garde
+tc0373,Patrat,Joseph,1733,Arles,1801,Paris,,PATRAT, Joseph
+tc0354,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0295,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
+tc0858,Jaquelin,,,,,,,JAQUELIN et PHILIDOR
+tc0858,Philidor,,,,,,,JAQUELIN et PHILIDOR
+tc0509,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0574,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
+tc0262,Palissot de montenoy,Charles,1730,Nancy,1814,Paris,,PALISSOT de MONTENOY, Charles
+tc0577,Guerin de bouscal,Daniel,161?,,1675,,,GUERIN de BOUSCAL, Daniel
+tc0282,Beaumarchais,Pierre Augustin Caron de,1732,Paris,1799,Paris,,BEAUMARCHAIS, Pierre Augustin Caron de
+tc0409,Dorat,Claude-Joseph,1734,Paris,1780,Paris,,DORAT, Claude-Joseph
+tc0040,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0054,Barré,RADET, DESFONTAINES.,,,,Gentilly,,BARRÉ, RADET, DESFONTAINES.
+tc0728,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0764,Nadal,Augustin,1659,Poitiers,1741,,Poitiers,NADAL, Augustin
+tc0415,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
+tc0599,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0571,L'affichard,Thomas,1698,,1753,,,L'AFFICHARD, Thomas
+tc0244,Rousseau,Jean-Jacques,1712,Génève,1778,Ermenonville,,ROUSSEAU, Jean-Jacques
+tc0815,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
 tc0174,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0324,Dorimond,Nicolas Drouin dit,1628,,1673,,,DORIMOND, Nicolas Drouin dit
-tc0554,Moliere,,1622,Paris,1673,Paris,,MOLIERE
-tc0507,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0082,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
-tc0583,Moline,Pierre-Louis,1740,Paris,1820,Paris,,MOLINE, Pierre-Louis
-tc0129,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0586,Nadal,Augustin,1659,Poitiers,1741,,Poitiers,NADAL, Augustin
-tc0426,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
-tc0247,Cubières-palmézeaux,Michel de,1752,Gard,1820,Paris,,CUBIÈRES-PALMÉZEAUX, Michel de
-tc0475,La motte,Antoine-Houdard de,1672,Paris,1731,Paris,1710,LA MOTTE, Antoine-Houdard de
-tc0480,Le boulanger de chalussay,,,,,,,LE BOULANGER DE CHALUSSAY
-tc0204,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0734,Scudery,Geroges de,1601,Le Havre,1667,Paris,1650,SCUDERY, Geroges de
-tc0654,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
-tc0697,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
-tc0206,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0738,Scudery,Georges de,1601,Le Havre,1667,Paris,1649,SCUDERY, Georges de
-tc0765,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0874,Nericault-destouches,Philippe,1680,,1754,,,NERICAULT-DESTOUCHES, Philippe
+tc0324,Sedaine,Michel-Jean,1719,Paris,1797,Paris,,SEDAINE, Michel-Jean
+tc0554,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0507,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
+tc0840,Gillet de la tessonerie,,1620,,166?,,,GILLET DE LA TESSONERIE
+tc0082,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0583,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0129,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
+tc0586,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
+tc0426,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
+tc0247,Laujon,Pierre,1727,,1811,,,LAUJON, Pierre
+tc0475,Colle,Charles,1709,Paris,1783,Paris,,COLLE, Charles
+tc0480,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0204,Griffet de labaume,Antoine Gilbert,1756,,1805,,,GRIFFET DE LABAUME, Antoine Gilbert
+tc0734,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0654,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
+tc0697,Alain,Robert,1680,Paris,1720,Paris,,ALAIN, Robert
+tc0206,Piron,Alexis,1689,Dijon,1773,Paris,,PIRON, Alexis
+tc0738,Gazon-doruxigné,Sébastien-Marie-Mathurin,1720,,1784,Paris,,GAZON-DORUXIGNÉ, Sébastien-Marie-Mathurin
+tc0765,Rousseau,Jean-Jacques,1712,Génève,1778,Ermenonville,,ROUSSEAU, Jean-Jacques
 tc0510,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0431,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
-tc0008,Andrieux,François Guilaume Jean Stanislas,1759,Paris,1833,Paris,1802,ANDRIEUX, François Guilaume Jean Stanislas
-tc0428,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
-tc0001,Aigueberre,Jean Dumas d',1692,,1655,,,AIGUEBERRE, Jean Dumas d'
-tc0517,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0421,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
-tc0512,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0249,Cyrano,Hercule Savinien, dit CYRANO de BERGERAC,1619,Paris,1655,Sannois,,CYRANO, Hercule Savinien, dit CYRANO de BERGERAC
-tc0300,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0721,Saurin,Jean de,1706,Paris,1781,Paris,1761,SAURIN, Jean de
-tc0369,Durant,Catherine,16??,,1736,,,DURANT, Catherine
-tc0226,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0245,Cubières-palmézeaux,Michel de,1752,Gard,1820,Paris,,CUBIÈRES-PALMÉZEAUX, Michel de
-tc0506,Maréchal,Pierre-Sylvain,1750,Paris,1803,Montrouge,,MARÉCHAL, Pierre-Sylvain
-tc0137,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0283,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0366,Durant,Catherine,16??,,1736,,,DURANT, Catherine
-tc0175,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0225,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0700,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
-tc0471,La harpe,Jean-François de,1739,Paris,1803,Paris,,LA HARPE, Jean-François de
-tc0116,Campistron,Jean G. de,1656,Toulouse,1713,Toulouse,1701,CAMPISTRON, Jean G. de
-tc0158,Chevalier,Jean Simonin dit,16..,Dreux,1674,,,CHEVALIER, Jean Simonin dit
-tc0242,Cubières-palmézeaux,Michel de,1752,Gard,1820,Paris,,CUBIÈRES-PALMÉZEAUX, Michel de
-tc0136,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0342,Du fresny,Charles Rivière,1657,Paris,1724,Paris,,DU FRESNY, Charles Rivière
-tc0230,Coupigny,BARRÉ, PIIS, RADET, DESFONTAINES,,,,,,COUPIGNY, BARRÉ, PIIS, RADET, DESFONTAINES
-tc0049,Bergasse,Nicolas,,,,,1647,BERGASSE, Nicolas ; CHASTENET de PUYSÉGUR, Armand-Marie-Jacques.
-tc0049,Chastenet de puységur,Armand-Marie-Jacques.,,,,,1647,BERGASSE, Nicolas ; CHASTENET de PUYSÉGUR, Armand-Marie-Jacques.
-tc0528,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0240,Cubières-palmézeaux,Michel de,1752,Gard,1820,Paris,,CUBIÈRES-PALMÉZEAUX, Michel de
-tc0565,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0052,Biancolelli,Pierre François,1680,,1734,,,BIANCOLELLI, Pierre François
-tc0622,Poinsinet,Antoine-Alexandre-Henri,1735,Fontainebleau,1769,cordoue,,POINSINET, Antoine-Alexandre-Henri
-tc0393,Florian,Jean Pierre Claris de,1755,,1794,Paris,,FLORIAN, Jean Pierre Claris de
-tc0771,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0208,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0416,Guerin de bouscal,Daniel,161?,,1675,,,GUERIN de BOUSCAL, Daniel
-tc0711,Rousseau,Jean Baptiste,1670,Paris,1741,Bruxelles,1743,ROUSSEAU, Jean Baptiste
-tc0005,Alain,Robert,1680,Paris,1720,Paris,,ALAIN, Robert
-tc0126,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0168,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0321,Donneau de visé,Jean,1638,Paris,1710,Paris,,DONNEAU DE VISÉ, Jean
-tc0131,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0563,Moliere,,1622,Paris,1673,Paris,,MOLIERE
-tc0250,Cyrano,Hercule Savinien, dit CYRANO de BERGERAC,1619,Paris,1655,Sannois,,CYRANO, Hercule Savinien, dit CYRANO de BERGERAC
-tc0252,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0780,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0494,Lesage,,,,,,,LESAGE et DORNEVAL
-tc0494,Dorneval,,,,,,,LESAGE et DORNEVAL
-tc0568,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0292,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0012,Anonyme,,,,,,,Anonyme
-tc0274,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0748,Taconet,Toussaint-Gaspard,1730,Paris,1774,Paris,,TACONET, Toussaint-Gaspard
-tc0566,Molière,,1622,Paris,1673,Paris,,Molière
-tc0634,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
-tc0618,Guilbert-pixerécourt,René Charles,1773,Nancy,1844,Nancy,,GUILBERT-PIXERÉCOURT, René Charles
-tc0693,Rosimond,DUMESNIL Jean-Baptiste dit,1640,,1686,,,ROSIMOND, DUMESNIL Jean-Baptiste dit
-tc0601,Ouzicourt,M. d',1???,,17??,,,OUZICOURT, M. d'
-tc0701,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
-tc0442,La calprenede,Gautier Costes de,1609,château de Toulgou à Salignac,1663,Les Andelys,1673,LA CALPRENEDE, Gautier Costes de
-tc0660,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
-tc0148,Chabanon,Michel Paul Guy de,1730,Saint-omingue,1792,Paris,1780,CHABANON, Michel Paul Guy de
-tc0124,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0534,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0392,Florian,Jean Pierre Claris de,1755,,1794,Paris,,FLORIAN, Jean Pierre Claris de
-tc0315,Diderot,Denis,1713,Langres,1784,Paris,,DIDEROT, Denis
-tc0645,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
-tc0325,Dorimond,Nicolas Drouin dit,1628,,1673,,,DORIMOND, Nicolas Drouin dit
-tc0092,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
-tc0251,Dalibray,Charles Vion de,1600,1653,,,,DALIBRAY, Charles Vion de
-tc0388,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
-tc0228,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0603,Pain,Joseph-Marie,1773,,1830,,,PAIN, Joseph-Marie
-tc0237,Crébillon,Prosper J. de,1674,Dijon,1762,Paris,1731,CRÉBILLON, Prosper J. de
-tc0233,Crébillon,Prosper J. de,1674,Dijon,1762,Paris,1731,CRÉBILLON, Prosper J. de
-tc0110,Cailleau,André-Charles (1731-1798),1731,Touraine,1798,Paris,1746,CAILLEAU, André-Charles (1731-1798)
-tc0036,Barante,,,,,,,BARANTE et DUFESNY
-tc0036,Dufesny,,,,,,,BARANTE et DUFESNY
-tc0303,Delavigne,Casimir,1793,,1843,,,DELAVIGNE, Casimir
-tc0271,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0436,Henault d'armorezan,Charles-Jean-François,1685,Paris,1770,Paris,1723,HENAULT d'ARMOREZAN, Charles-Jean-François
-tc0596,Nivelle de la chaussée,Pierre,1692,Paris,1754,Paris,1736,NIVELLE de la CHAUSSÉE, Pierre
-tc0718,Sallebray,Monsieur de,16??,,16??,,,SALLEBRAY, Monsieur de
-tc0423,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
-tc0727,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
-tc0602,Pain,,1773,,1830,,,PAIN et RIOU
-tc0602,Riou,,1773,,1830,,,PAIN et RIOU
-tc0117,Campistron,Jean G. de,1656,Toulouse,1713,Toulouse,1701,CAMPISTRON, Jean G. de
-tc0658,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
-tc0340,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
-tc0460,La fontaine,Jean de,1621,Château-Thierry,1695,Paris,,LA FONTAINE, Jean de
-tc0379,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
-tc0445,La calprenede,Gautier Costes de,1609,château de Toulgou à Salignac,1663,Les Andelys,1673,LA CALPRENEDE, Gautier Costes de
-tc0684,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0605,Palissot de montenoy,Charles,1730,Nancy,1814,Paris,,PALISSOT de MONTENOY, Charles
-tc0183,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0430,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
-tc0621,Poinsinet de sivry,Antoine-Alexandre-Henri,1735,Fontainebleau,1769,Guadalquivir,,POINSINET de SIVRY, Antoine-Alexandre-Henri
-tc0595,Nivelle de la chaussée,Pierre,1692,Paris,1754,Paris,1736,NIVELLE de la CHAUSSÉE, Pierre
-tc0591,Nadal,Augustin,1659,Poitiers,1741,,Poitiers,NADAL, Augustin
-tc0447,La calprenede,Gautier Costes de,1609,château de Toulgou à Salignac,1663,Les Andelys,1673,LA CALPRENEDE, Gautier Costes de
-tc0670,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0736,Scudery,Georges de,1601,Le Havre,1667,Paris,1649,SCUDERY, Georges de
-tc0561,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0458,La fontaine,Jean de,1621,Château-Thierry,1695,Paris,,LA FONTAINE, Jean de
-tc0459,La fontaine,Jean de,1621,Château-Thierry,1695,Paris,,LA FONTAINE, Jean de
-tc0381,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
-tc0414,Gudin de la brenellerie,Paul-Philippe,1738,Paris,1820,Paris,,GUDIN de la BRENELLERIE, Paul-Philippe
-tc0231,Crébillon,Prosper J. de,1674,Dijon,1762,Paris,1731,CRÉBILLON, Prosper J. de
-tc0196,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0500,Magnon,Jean,1601,Bresse,1655,Paris,,MAGNON, Jean
-tc0258,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0537,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0740,Sedaine,Michel-Jean,1719,Paris,1797,Paris,,SEDAINE, Michel-Jean
-tc0125,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0799,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0302,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0417,Guerin de bouscal,Daniel,161?,,1675,,,GUERIN de BOUSCAL, Daniel
-tc0205,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0232,Crébillon,Prosper J. de,1674,Dijon,1762,Paris,1731,CRÉBILLON, Prosper J. de
-tc0652,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
-tc0088,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
-tc0371,Durant,Catherine,16??,,1736,,,DURANT, Catherine
-tc0772,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0268,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0193,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0026,Armand,Huguet Armand dit,1699,Richelieu,1765,Paris,,ARMAND, Huguet Armand dit
-tc0272,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0502,Magnon,Jean,1601,Bresse,1655,Paris,,MAGNON, Jean
-tc0102,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
-tc0411,Goulard,Jean-François-Thomas,1755,Montpellier,1817,(inconnu),,GOULARD, Jean-François-Thomas
-tc0497,Linant,Michel,1708,Louviers,1749,Paris,,LINANT, Michel
-tc0687,Restif de le bretonne,Edme,1734,Sacy,1805,Paris,,RESTIF DE LE BRETONNE, Edme
-tc0385,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
-tc0790,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0640,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
-tc0620,Poinsinet de sivry,Louis,1733,Versailles,1804,Guadalquivir,,POINSINET de SIVRY, Louis
-tc0254,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
-tc0083,Boursault,Edme,1638,Mussy-l'Evêque,1701,Paris,,BOURSAULT, Edme
-tc0714,Saint-aignan,Etienne,1773,,1824,,,SAINT-AIGNAN, Etienne
-tc0046,Beaunoir,Alexandre-Louis-Bertrand Robineau dit de,17460,Paris,1823,Paris,,BEAUNOIR, Alexandre-Louis-Bertrand Robineau dit de
-tc0161,Colle,Charles,1709,Paris,1783,Paris,,COLLE, Charles
-tc0516,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0045,Beaunoir,Alexandre-Louis-Bertrand Robineau dit de,1746,Paris,1823,Paris,,BEAUNOIR, Alexandre-Louis-Bertrand Robineau dit de
-tc0154,Champmeslé,Charles Chevillet dit,1642,Paris,1701,Paris,,CHAMPMESLÉ, Charles Chevillet dit
-tc0712,Rousseau,Jean Baptiste,1670,Paris,1741,Bruxelles,1743,ROUSSEAU, Jean Baptiste
-tc0717,Saint-priest,Commandant,,,,,,SAINT-PRIEST, Commandant
-tc0362,Dupaty,Emmanuel,1775,Blanquefort,1851,Paris,1647,DUPATY, Emmanuel
-tc0677,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0356,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0623,Poinsinet de sivry,Louis,1733,Versailles,1804,,,POINSINET de SIVRY, Louis
-tc0659,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
+tc0431,Florian,Jean Pierre Claris de,1755,,1794,Paris,,FLORIAN, Jean Pierre Claris de
+tc0008,Mareschal,André,1601,,1648,,,MARESCHAL, André
+tc0001,Maréchal,André,1601,,1648,,,MARÉCHAL, André
+tc0517,Puget de la serre,Jean,1622,Paris,1673,Paris,,PUGET DE LA SERRE, Jean
+tc0421,Rousseau,Jean-Jacques,1712,Génève,1778,Ermenonville,,ROUSSEAU, Jean-Jacques
+tc0512,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0249,(anonyme),,,,,,,(anonyme)
+tc0300,Magnon,Jean,1601,Bresse,1655,Paris,,MAGNON, Jean
+tc0721,Baculard,François Thomas-Marie,1718,Avignon,1805,Paris,,BACULARD, François Thomas-Marie
+tc0369,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
+tc0226,Rotrou,JeAn,1609,Dreux,1650,Dreux,,ROTROU, JeAn
+tc0245,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
+tc0506,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
+tc0137,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0283,Donneau de visé,Jean,1638,Paris,1710,Paris,,DONNEAU DE VISÉ, Jean
+tc0366,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0175,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0700,Scudery,Georges de,1601,Le Havre,1667,Paris,1649,SCUDERY, Georges de
+tc0471,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0116,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0158,La calprenede,Gautier Costes de,1609,château de Toulgou à Salignac,1663,Les Andelys,1673,LA CALPRENEDE, Gautier Costes de
+tc0242,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0136,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0342,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
+tc0230,Chabanon,Michel Paul Guy de,1730,Saint-Domingue,1792,Paris,,CHABANON, Michel Paul Guy de
+tc0049,Barante,,,,,,,BARANTE et DUFESNY
+tc0049,Dufesny,,,,,,,BARANTE et DUFESNY
+tc0528,Barbier,Marie-Anne,1664,Orléans,1745,Paris,,BARBIER, Marie-Anne
+tc0240,Eschyle,,-526,Géla (Sicile),-456,Géla (Sicile),,ESCHYLE
+tc0565,Durant,Catherine,16??,,1736,,,DURANT, Catherine
+tc0052,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0841,Fontenelle,Bernard le Bouvier ou le Bouyer de,1657,Rouen,1757,Paris,,FONTENELLE, Bernard le Bouvier ou le Bouyer de
+tc0835,Mercier,Louis-Sébastien,1740,Paris,1814,Paris,,MERCIER, Louis-Sébastien
+tc0622,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0393,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0771,Regnard,,1655,Paris,1709,château de grillon, Dourdan,,REGNARD et DUFRESNY
+tc0771,Dufresny,,1655,Paris,1709,château de grillon, Dourdan,,REGNARD et DUFRESNY
+tc0208,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0416,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0711,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
+tc0907,Boisrobert,François Le Métel de,1589,Caen,1662,Paris,,BOISROBERT, François Le Métel de 
+tc0005,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
+tc0804,Sénèque,,,Rome,,,,SÉNÈQUE
+tc0126,Chazet,DUPATY,1775,Blanquefort,1851,Paris,1647,CHAZET, DUPATY
+tc0168,Legrand,Marc-Antoine,1673,Paris,1728,Paris,,LEGRAND, Marc-Antoine
+tc0805,Voltaire,François-Marie AROUET de,1694,Paris,1778,Paris,,VOLTAIRE, François-Marie AROUET de
+tc0321,La harpe,Jean-François de,1739,Paris,1803,Paris,,LA HARPE, Jean-François de
+tc0131,Anonyme,,,,,,,Anonyme
+tc0563,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0250,Sallebray,Monsieur de,16??,,16??,,,SALLEBRAY, Monsieur de
+tc0888,Chazet,,,,v,,,CHAZET et GASSICOURT
+tc0888,Gassicourt,,,,v,,,CHAZET et GASSICOURT
+tc0252,Pradon,Nicolas,1632,Rouen,1698,Paris,,PRADON, Nicolas
+tc0780,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0494,Ouzicourt,M. d',1???,,17??,,,OUZICOURT, M. d'
+tc0568,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
+tc0292,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0012,Pompigny,Maurin de,,Paris,,Paris,,POMPIGNY, Maurin de
+tc0274,Gudin de la brenellerie,Paul-Philippe,1738,Paris,1820,Paris,,GUDIN de la BRENELLERIE, Paul-Philippe
+tc0864,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0748,Pure,Michel Abbé de,1620,,1680,,,PURE, Michel Abbé de
+tc0566,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
+tc0848,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0634,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0618,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0693,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0601,Le tellier,Jean-François,,Château-Thierry,1732,Paris,,LE TELLIER, Jean-François
+tc0701,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0442,Plaute,,,Rome,,,1673,PLAUTE
+tc0660,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
+tc0148,Sedaine,Michel-Jean,1719,Paris,1797,Paris,,SEDAINE, Michel-Jean
+tc0124,Saurin,Jean de,1706,Paris,1781,Paris,1761,SAURIN, Jean de
+tc0534,Sophocle,,-496,,-406,,,SOPHOCLE
+tc0392,Mathieu,Pierre,1563,Salins,1621,Toulouse,,MATHIEU, Pierre
+tc0315,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
+tc0645,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0325,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0092,Campistron,Jean Galbert de,1656,Toulouse,1713,Toulouse,1701,CAMPISTRON, Jean Galbert de
+tc0251,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0388,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0228,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0603,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
+tc0237,Campistron,Jean G. de,1656,Toulouse,1713,Toulouse,1701,CAMPISTRON, Jean G. de
+tc0233,Boyer,CLaude,1618,Albi,1698,Paris,1,BOYER, CLaude
+tc0846,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0110,Biancolelli,Pierre François,1680,Paris,1734,Paris,,BIANCOLELLI, Pierre François
+tc0036,La motte,Antoine-Houdard de,1672,Paris,1731,Paris,1710,LA MOTTE, Antoine-Houdard de
+tc0303,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0271,Anonyme,,,,,,,Anonyme
+tc0436,Durant,Catherine,16??,,1736,,,DURANT, Catherine
+tc0596,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0718,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0423,Hervilly,Ernest d',1838,Champigny-sur-Marne,1911,Paris,,HERVILLY, Ernest d'
+tc0727,Dorvigny,Louis François Archambault dit,1742,Paris,1812,Paris,,DORVIGNY, Louis François Archambault dit
+tc0900,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0602,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
+tc0117,Folard,Melchior de,1683,Avignon,1739,Lyon,1688,FOLARD, Melchior de
+tc0658,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0340,Piron,Alexis,1689,Dijon,1773,Paris,,PIRON, Alexis
+tc0460,Palissot de montenoy,Charles,1730,Nancy,1814,Paris,,PALISSOT de MONTENOY, Charles
+tc0379,Euripide,,-496,,-406,,,EURIPIDE
+tc0445,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
+tc0684,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0605,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
+tc0183,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0430,Crébillon,Prosper J. de,1674,Dijon,1762,Paris,1731,CRÉBILLON, Prosper J. de
+tc0621,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
+tc0595,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0591,Dufresny,Charles Rivière,1657,Paris,1724,Paris,,DUFRESNY, Charles Rivière
+tc0447,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
+tc0670,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0736,Audinot,Nicolas-Médard,1732,,1801,,,AUDINOT, Nicolas-Médard
+tc0561,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
+tc0458,Barré,RADET.,,,,,,BARRÉ, RADET.
+tc0831,Beys,Charles de,1610,,1659,Paris,,BEYS, Charles de
+tc0381,La fontaine,Jean de,1621,Château-Thierry,1695,Paris,,LA FONTAINE, Jean de
+tc0414,Archambault,Louis-François,1742,Paris,1812,Paris,,ARCHAMBAULT, Louis-François
+tc0231,Poisson,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,POISSON, Jean-François
+tc0196,Moliere,,1622,Paris,1673,Paris,,MOLIERE
+tc0500,Scudery,Georges de,1601,Le Havre,1667,Paris,1649,SCUDERY, Georges de
+tc0833,Bernard,CaTherine,1694,Vic-sur-Cère,1758,Paris,1754,BERNARD, CaTherine
+tc0258,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
+tc0537,Taconet,Toussaint-Gaspard,1730,Paris,1774,Paris,,TACONET, Toussaint-Gaspard
+tc0823,Ouville,Antoine le Métel,1589,Caen,1655,,,OUVILLE, Antoine le Métel
+tc0740,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0125,La forge,Jean de,1606,Rouen,1684,Paris,1647,LA FORGE, Jean de
+tc0799,Dufresny,Charles Rivière,1657,Paris,1724,Paris,,DUFRESNY, Charles Rivière
+tc0302,Bensérade,Isaac de,1613,Lyons-la-Forêt,1691,Gentilly,1674,BENSÉRADE, Isaac de
+tc0417,Sacy,Claude-Louis-Michel de,1746,Fécamp,1794,Paris,,SACY, Claude-Louis-Michel de
+tc0205,Musset,Alfred de,1810,Paris,1857,Paris,1852,MUSSET, Alfred de
+tc0827,Biancolelli,Pierre François,1680,,1734,,,BIANCOLELLI, Pierre François
+tc0232,Dominique,BIANCOLELLI, RICCOBONI,1680,,1734,,,DOMINIQUE, BIANCOLELLI, RICCOBONI
+tc0652,Sophocle,,-496,,-406,,,SOPHOCLE
+tc0822,La fontaine,Jean de,1621,Château-Thierry,1695,Paris,,LA FONTAINE, Jean de
+tc0088,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0892,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
+tc0371,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
+tc0772,Fuzelier,,1668,Sarzeau,1747,Boulogne-sur-mer,1746,FUZELIER et LESAGE, Louis et Alain-René
+tc0772,Lesage,Louis,1668,Sarzeau,1747,Boulogne-sur-mer,1746,FUZELIER et LESAGE, Louis et Alain-René
+tc0772,Alain-rené,,1668,Sarzeau,1747,Boulogne-sur-mer,1746,FUZELIER et LESAGE, Louis et Alain-René
+tc0268,Lesage,Alain-René,1668,Sarzeau,1747,Boulogne-sur-mer,1746,LESAGE, Alain-René
+tc0026,Magnon,Jean,1601,Bresse,1655,Paris,,MAGNON, Jean
+tc0272,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0867,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0502,Anonyme,,,,,,,Anonyme
+tc0102,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0863,Guyot de merville,Michel,1696,Versailles,1755,Évian,,GUYOT DE MERVILLE, Michel
+tc0862,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0411,Anonyme,,,,,,,Anonyme
+tc0497,Archambault,Louis-François,1742,Paris,1812,Paris,,ARCHAMBAULT, Louis-François
+tc0687,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0385,Fénelon,Francois-Louis de Salignac de La Mothe de,1722,,1764,,,FÉNELON, Francois-Louis de Salignac de La Mothe de
+tc0790,Poinsinet de sivry,Louis,1733,Versailles,1804,,,POINSINET de SIVRY, Louis
+tc0640,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0620,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0254,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0083,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0714,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0046,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0516,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
+tc0045,Pompignan,Jean-Jacques Lefranc, marquis de,1709,Montauban,1784,Pompignan,,POMPIGNAN, Jean-Jacques Lefranc, marquis de
+tc0890,Gillet de la tessonerie,,1620,,166?,,,GILLET DE LA TESSONERIE
+tc0154,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0712,Poinsinet de sivry,Antoine-Alexandre-Henri,1735,Fontainebleau,1769,Guadalquivir,,POINSINET de SIVRY, Antoine-Alexandre-Henri
+tc0717,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0677,Bouilly,Jean-Nicolas,1763,La Coudraye,1842,Paris,,BOUILLY, Jean-Nicolas
+tc0356,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
+tc0623,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0659,Beaumarchais,Pierre Augustin Caron de,1732,Paris,1799,Paris,,BEAUMARCHAIS, Pierre Augustin Caron de
+tc0897,Le mierre,Antoine-Marin,1723,Paris,1793,Saint-Germain-en-Laye,1781,LE MIERRE, Antoine-Marin
+tc0882,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
 tc0656,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
-tc0575,Molière,,1622,Paris,1673,Paris,,Molière
-tc0606,Palissot de montenoy,Charles,1730,Nancy,1814,Paris,,PALISSOT de MONTENOY, Charles
-tc0089,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
-tc0151,Chamfort,Sébatien-Roch-Nicolas de,1741,Clermont,1794,Paris,1781,CHAMFORT, Sébatien-Roch-Nicolas de 
-tc0234,Crébillon,Prosper J. de,1674,Dijon,1762,Paris,1731,CRÉBILLON, Prosper J. de
-tc0732,Scudery,Georges de,1601,Le Havre,1667,Paris,1649,SCUDERY, Georges de
-tc0118,Campistron,Jean G. de,1656,Toulouse,1713,Toulouse,1701,CAMPISTRON, Jean G. de
-tc0600,Ouzicourt,M. d',1???,,17??,,,OUZICOURT, M. d'
-tc0207,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0307,Desfontaines,Nicolas-Marc,1610,,1652,,,DESFONTAINES, Nicolas-Marc
-tc0472,La harpe,Jean-François de,1739,Paris,1803,Paris,,LA HARPE, Jean-François de
-tc0742,Segur,Alexandre-Joseph-Pierre, vicomte de,1756,,1805,Bagnères-de-Bigorre,,SEGUR, Alexandre-Joseph-Pierre, vicomte de
-tc0285,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0218,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0212,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0305,Desfontaines,Nicolas-Marie dit,1610,,1652,,,DESFONTAINES, Nicolas-Marie dit
-tc0059,Bideau de montigny,Jean Charles François,,,,,,BIDEAU DE MONTIGNY, Jean Charles François
-tc0173,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0524,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0010,(anonyme),,,,,,,(anonyme)
-tc0171,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0588,Nadal,Augustin,1659,Poitiers,1741,,Poitiers,NADAL, Augustin
-tc0108,Brueys,,,,,,,BRUEYS et PALAPRAT
-tc0108,Palaprat,,,,,,,BRUEYS et PALAPRAT
-tc0378,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
-tc0239,Crébillon,Claude-Prosper Jolyot de, fils,1707,Dijon,1777,Paris,1731,CRÉBILLON, Claude-Prosper Jolyot de, fils
-tc0334,Du bosc de montandre,Claude,1605,Paris,1658,Paris,,DU BOSC de MONTANDRE, Claude
-tc0523,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0674,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0567,Moliere,,1622,Paris,1673,Paris,,MOLIERE
-tc0552,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0699,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
-tc0456,La fontaine,Jean de,1621,Château-Thierry,1695,Paris,,LA FONTAINE, Jean de
-tc0469,La harpe,Jean-François de,1739,Paris,1803,Paris,,LA HARPE, Jean-François de
-tc0260,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0263,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0747,Taconet,Toussaint-Gaspard,1730,Paris,1774,Paris,,TACONET, Toussaint-Gaspard
-tc0328,Dorneval,Jacques-Philippe d'ORNEVAL dit,1686,Paris,1724,Passy,,DORNEVAL, Jacques-Philippe d'ORNEVAL dit
-tc0774,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0333,Gazon-doruxigné,Sébastien-Marie-Mathurin,1720,,1784,Paris,,GAZON-DORUXIGNÉ, Sébastien-Marie-Mathurin
-tc0072,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
-tc0221,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0172,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0619,Plancher de valcour,Philippe,1751,,1815,,,PLANCHER de VALCOUR, Philippe
-tc0694,Rosimond,Jean-Baptiste du Mesnil dit Claude La Rose,1640,,1686,Paris,,ROSIMOND, Jean-Baptiste du Mesnil dit Claude La Rose
-tc0188,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0464,La forge,Jean de,1606,Rouen,1684,Paris,1647,LA FORGE, Jean de
-tc0339,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
-tc0461,La fontaine,Jean de,1621,Château-Thierry,1695,Paris,,LA FONTAINE, Jean de
-tc0730,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
-tc0675,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0754,Tristan l_hermite,François,1601,Château de Soliers, Marche,1655,Paris,,TRISTAN L_HERMITE, François
-tc0293,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0280,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0775,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0749,Taconet,Toussaint-Gaspard,1730,Paris,1774,Paris,,TACONET, Toussaint-Gaspard
-tc0170,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0020,Archambault,Louis-François,1742,Paris,1812,Paris,,ARCHAMBAULT, Louis-François
-tc0457,La fontaine,Jean de,1621,Château-Thierry,1695,Paris,,LA FONTAINE, Jean de
-tc0079,Boucher,Pierre,1606,Rouen,1684,Paris,1647,BOUCHER, Pierre
-tc0543,Mathieu,Pierre,1563,Salins,1621,Toulouse,,MATHIEU, Pierre
-tc0098,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
-tc0090,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
-tc0435,Hauteroche,Noël LEBRETON, sieur de,1616,,1707,,,HAUTEROCHE, Noël LEBRETON, sieur de
-tc0025,Dorvigny,Louis François Archambault dit,1742,Paris,1812,Paris,,DORVIGNY, Louis François Archambault dit
-tc0789,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0195,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0627,Prade,Jean Le Royer de,1624,,1685,,,PRADE, Jean Le Royer de
-tc0650,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
-tc0063,Bohaire-dutheil,Nicolas de,1750,La Ferté-sous-Jouarre,1825,La Ferté-sous-Jouarre,1701,BOHAIRE-DUTHEIL, Nicolas de
-tc0327,Dorimond,Nicolas Drouin dit,1628,,1673,,,DORIMOND, Nicolas Drouin dit
-tc0529,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0592,Nericault-destouches,Philippe,1680,,1754,,,NERICAULT-DESTOUCHES, Philippe
-tc0150,Chabanon,Michel-Paul-Guy de,1730,Saint-Domingue,1792,Paris,,CHABANON, Michel-Paul-Guy de
-tc0162,Colleville,Anne Hyacinthe Geille de Saint-Léger,1761,,1824,Dreux,,COLLEVILLE, Anne Hyacinthe Geille de Saint-Léger
-tc0192,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0120,Carbon de flins,Claude de,1757,Reims,1806,Vervins,,CARBON DE FLINS, Claude de
-tc0521,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0382,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
-tc0278,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0488,Legrand,Marc-Antoine,1673,Paris,1728,Paris,,LEGRAND, Marc-Antoine
-tc0350,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
-tc0744,Somaize,Antoine BAUDEAU DE,1630,,16??,,,SOMAIZE, Antoine BAUDEAU DE
-tc0651,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
-tc0801,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0002,Aigueberre,Jean Dumas d',1692,,1655,,,AIGUEBERRE, Jean Dumas d'
-tc0422,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
-tc0544,Mercier,Louis-Sébatsien,1740,Paris,1814,Paris,,MERCIER, Louis-Sébatsien
-tc0166,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0486,Legrand,Marc-Antoine,1673,Paris,1728,Paris,,LEGRAND, Marc-Antoine
-tc0785,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0363,Feriol de pont-de-veyle,Antoine de,1697,Pont-de-Veyle,1774,Paris,1673,FERIOL DE PONT-DE-VEYLE, Antoine de
-tc0060,Bièvre,François George Maréchal, marquis de,1747,Paris,1789,Bavière,,BIÈVRE, François George Maréchal, marquis de
-tc0013,Anonyme,,,,,,,Anonyme
-tc0782,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0367,Durant,Catherine,16??,,1736,,,DURANT, Catherine
+tc0575,Dumaniant,Antoine-Jean Bourlin,1752,Clermont-Ferrand,1828,Paris,,DUMANIANT, Antoine-Jean Bourlin
+tc0606,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0089,Vadé,Jean-Joseph,1720,Ham,1757,Paris,,VADÉ, Jean-Joseph
+tc0151,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0234,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
+tc0732,Palissot de montenoy,Charles,1730,Nancy,1814,Paris,,PALISSOT de MONTENOY, Charles
+tc0118,Mareschal,André,1601,,1648,,,MARESCHAL, André
+tc0600,Rousseau,Jean Baptiste,1670,Paris,1741,Bruxelles,1743,ROUSSEAU, Jean Baptiste
+tc0207,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0307,Dorneval,LESAGE,,,,,,DORNEVAL, LESAGE
+tc0472,La calprenede,Gautier Costes de,1609,château de Toulgou à Salignac,1663,Les Andelys,1673,LA CALPRENEDE, Gautier Costes de
+tc0742,Hoffmann,François-Benoît,1760,Nancy,1828,Paris,,HOFFMANN, François-Benoît
+tc0285,Nadal,Augustin,1659,Poitiers,1741,,Poitiers,NADAL, Augustin
+tc0218,Eschyle,,-526,Géla (Sicile),-456,Géla (Sicile),,ESCHYLE
+tc0212,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
+tc0305,La fosse,Antoine d'Aubigny,1653,Paris,1708,Paris,,LA FOSSE, Antoine d'Aubigny
+tc0817,La calprenede,Gautier Costes de,1609,château de Toulgou à Salignac,1663,Les Andelys,1673,LA CALPRENEDE, Gautier Costes de
+tc0059,Pradon,Nicolas,1632,Rouen,1698,Paris,,PRADON, Nicolas
+tc0173,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
+tc0524,Henault d'armorezan,Charles-Jean-François,1685,Paris,1770,Paris,1723,HENAULT d'ARMOREZAN, Charles-Jean-François
+tc0010,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
+tc0171,Sophocle,,-496,,-406,,,SOPHOCLE
+tc0857,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0108,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0378,Donneau de visé,Jean,1638,Paris,1710,Paris,,DONNEAU DE VISÉ, Jean
+tc0239,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0856,Moliere,,1622,Paris,1673,Paris,,MOLIERE
+tc0334,Arisotphane,,1639,La Ferté Millon,1699,Paris,1673,ARISOTPHANE
+tc0523,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
+tc0674,Crébillon,Prosper J. de,1674,Dijon,1762,Paris,1731,CRÉBILLON, Prosper J. de
+tc0567,Somaize,Antoine BAUDEAU DE,1630,,16??,,,SOMAIZE, Antoine BAUDEAU DE
+tc0552,La fontaine,Jean de,1621,Château-Thierry,1695,Paris,,LA FONTAINE, Jean de
+tc0699,Sophocle,,-496,,-406,,,SOPHOCLE
+tc0456,Dorneval,Jacques-Philippe d'ORNEVAL dit,1686,Paris,1724,Passy,,DORNEVAL, Jacques-Philippe d'ORNEVAL dit
+tc0469,Prade,Jean Le Royer de,1624,,1685,,,PRADE, Jean Le Royer de
+tc0260,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
+tc0886,Gouges,Olympe de Gouges,1748,Montauban,1793,Paris,,GOUGES, Olympe de Gouges
+tc0263,Saint-evremond,Charles de,1613,Saint-Denis-le-Gast,1703,Londres,,SAINT-EVREMOND, Charles de
+tc0747,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0328,Deshoulières,Antoinette du Ligier de la Garde,1638,Paris,1694,Paris,,DESHOULIÈRES, Antoinette du Ligier de la Garde
+tc0774,Le mierre,Antoine-Marin,1723,Paris,1793,Saint-Germain-en-Laye,1781,LE MIERRE, Antoine-Marin
+tc0820,Sacy,Claude-Louis-Michel de,1746,Fécamp,1794,Paris,,SACY, Claude-Louis-Michel de
+tc0072,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0221,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0172,Voltaire,François-Marie AROUET de,1694,Paris,1778,Paris,,VOLTAIRE, François-Marie AROUET de
+tc0619,Du fresny,Charles Rivière,1657,Paris,1724,Paris,,DU FRESNY, Charles Rivière
+tc0694,Harny de guerville,,17??,,17??,,,HARNY DE GUERVILLE
+tc0188,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0464,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0830,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0339,Musset,Alfred de,1810,Paris,1857,Paris,1852,MUSSET, Alfred de
+tc0461,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
+tc0730,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
+tc0675,La chapelle,Jean de,1651,Paris,1723,Paris,1688,LA CHAPELLE, Jean de
+tc0899,Boyer,Abel,1664,Castres,1729,Angleterre,1,BOYER, Abel
+tc0754,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
+tc0293,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0828,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0280,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0775,Saurin,Bernard-Joseph,1706,Paris,1781,Paris,1761,SAURIN, Bernard-Joseph
+tc0749,Mercier,Louis-Sébastien,1740,Paris,1814,Paris,1673,MERCIER, Louis-Sébastien
+tc0020,Dumas,Alexandre,1802,Villers-Cotterets,1870,PUYS,,DUMAS, Alexandre
+tc0457,Nivelle de la chaussée,Pierre,1692,Paris,1754,Paris,1736,NIVELLE de la CHAUSSÉE, Pierre
+tc0079,Durant,Catherine,16??,,1736,,,DURANT, Catherine
+tc0543,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0098,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0090,Puget de la serre,Jean,1594,Toulouse,1665,Paris,1825,PUGET DE LA SERRE, Jean
+tc0435,La fontaine,Jean de,1621,Château-Thierry,1695,Paris,,LA FONTAINE, Jean de
+tc0025,Brécourt,Guillaume MARCOUREAU de,1638,Paris,1685,Paris,,BRÉCOURT, Guillaume MARCOUREAU de
+tc0789,Fuzelier,Louis,1672,Paris,1752,Paris,,FUZELIER, Louis
+tc0195,Fuzelier,Louis,1672,Paris,1752,Paris,,FUZELIER, Louis
+tc0627,Crébillon,Prosper J. de,1674,Dijon,1762,Paris,1731,CRÉBILLON, Prosper J. de
+tc0650,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
+tc0327,Tristan l'hermite,François,1601,Château de Soliers, Marche,1655,Paris,,TRISTAN L'HERMITE, François
+tc0893,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0891,Goulard,Jean-François-Thomas,1755,Montpellier,1817,(inconnu),,GOULARD, Jean-François-Thomas
+tc0529,Scudery,Georges de,1601,Le Havre,1667,Paris,1649,SCUDERY, Georges de
+tc0592,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
+tc0150,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0162,Harny de guerville,,17??,,17??,,,HARNY DE GUERVILLE
+tc0192,Caux de montlebert,Gilles de,1682,Ligneries,1733,Bayeux,,CAUX de MONTLEBERT, Gilles de
+tc0120,Bruleboeuf-letournan,,,,,,,BRULEBOEUF-LETOURNAN
+tc0521,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0382,Chevreau,Urbain,1613,,1721,,,CHEVREAU, Urbain
+tc0278,Crébillon,Prosper J. de,1674,Dijon,1762,Paris,1731,CRÉBILLON, Prosper J. de
+tc0488,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
+tc0350,Colardeau,Charles-Pierre,1732,Janville,1776,Paris,1776,COLARDEAU, Charles-Pierre
+tc0744,Beaunoir,Alexandre-Louis-Bertrand Robineau dit de,17460,Paris,1823,Paris,,BEAUNOIR, Alexandre-Louis-Bertrand Robineau dit de
+tc0651,Gouges,Olympe de Gouges,1748,Montauban,1793,Paris,,GOUGES, Olympe de Gouges
+tc0801,Bièvre,François George Maréchal, marquis de,1747,Paris,1789,Bavière,,BIÈVRE, François George Maréchal, marquis de
+tc0002,Du fresny,Charles Rivière,1657,Paris,1724,Paris,,DU FRESNY, Charles Rivière
+tc0422,Desfontaines,Nicolas Marie dit,1610,,1652,,,DESFONTAINES, Nicolas Marie dit
+tc0544,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
+tc0166,Jodelle,Étienne,1532,Paris,1573,Paris,,JODELLE, Étienne
+tc0486,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
+tc0785,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0363,Moliere,,1622,Paris,1673,Paris,,MOLIERE
+tc0060,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0013,Audinot,Nicolas-Médard,1732,Bourmont,1801,Paris,,AUDINOT, Nicolas-Médard
+tc0782,Delavigne,Casimir,1793,,1843,,,DELAVIGNE, Casimir
+tc0873,Mareschal,André,1601,,1648,,,MARESCHAL, André
+tc0367,Bensérade,Isaac de,1613,Lyons-la-Forêt,1691,Gentilly,1674,BENSÉRADE, Isaac de
 tc0255,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0538,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0014,Anonyme,,,,,,,Anonyme
-tc0633,Puget de la serre,Jean,1594,Toulouse,1665,Paris,1825,PUGET DE LA SERRE, Jean
-tc0041,Beaumarchais,Pierre Augustin Caron de,1732,Paris,1799,Paris,,BEAUMARCHAIS, Pierre Augustin Caron de
-tc0070,Boissy,Louis de,1694,,1758,Paris,1754,BOISSY, Louis de
-tc0235,Crébillon,Prosper J. de,1674,Dijon,1762,Paris,1731,CRÉBILLON, Prosper J. de
-tc0716,Saint-evremond,Charles de,1613,Saint-Denis-le-Gast,1703,Londres,,SAINT-EVREMOND, Charles de
-tc0330,Dorneval,LESAGE,,,,,,DORNEVAL, LESAGE
-tc0006,Soulas d'allainval,Abbé Léonor Jean Christine,1700,Chartres,1753,Paris,,SOULAS d'ALLAINVAL, Abbé Léonor Jean Christine
-tc0380,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
-tc0053,Biancolelli,Pierre François,1680,Paris,1734,Paris,,BIANCOLELLI, Pierre François
-tc0531,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0425,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
-tc0751,(anonyme),,,,,,,(Anonyme)
-tc0539,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0407,Gillet de la tessonerie,,1620,,166?,,,GILLET DE LA TESSONERIE
-tc0498,Longepierre,Hilaire de,1659,Dijon,1731,Paris,1666,LONGEPIERRE, Hilaire de
-tc0519,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0219,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0031,Aure,François d',,,,,,AURE, François d'
-tc0182,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0039,Barré,RADET, DESFONTAINES.,,,,Gentilly,,BARRÉ, RADET, DESFONTAINES.
-tc0387,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
-tc0275,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0759,Vadé,Jean-Joseph,1720,Ham,1757,Paris,,VADÉ, Jean-Joseph
-tc0489,Le mierre,Antoine-Marin,1723,Paris,1793,Saint-Germain-en-Laye,1781,LE MIERRE, Antoine-Marin
-tc0673,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0549,Molière,,1622,Paris,1673,Paris,,Molière
-tc0702,Rotrou,JeAn,1609,Dreux,1650,Dreux,,ROTROU, JeAn
-tc0312,Desjardins,Marie-Catherine-Hortense de, Mademoisele de Villedieu,1640,Alençon,1683,Saint-Rémy du Val,,DESJARDINS, Marie-Catherine-Hortense de, Mademoisele de Villedieu
-tc0715,Saint-aignan,Etienne,1773,,1824,,,SAINT-AIGNAN, Etienne
-tc0695,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
-tc0644,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
-tc0093,Boyer,Claude,1618,Albi,1698,Paris,1,BOYER, Claude
-tc0099,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
-tc0564,Moliere,,1622,Paris,1673,Paris,,MOLIERE
-tc0142,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0614,Piron,Alexis,1689,Dijon,1773,Paris,,PIRON, Alexis
-tc0000,Abeille,Gaspard,1648,Riez en provence,1718,Paris,1673,ABEILLE, Gaspard
-tc0213,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0463,Lafont,Joseph de,1686,Paris,1724,Passy,,LAFONT, Joseph de ; LESAGE, Alain-René
-tc0463,Lesage,Alain-René,1686,Paris,1724,Passy,,LAFONT, Joseph de ; LESAGE, Alain-René
-tc0355,Regnard,,1655,Paris,1709,château de grillon, Dourdan,,REGNARD et DUFRESNY
-tc0355,Dufresny,,1655,Paris,1709,château de grillon, Dourdan,,REGNARD et DUFRESNY
-tc0191,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0184,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0286,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0066,Boisrobert,François Le Métel de,1589,Caen,1662,Paris,,BOISROBERT, François Le Métel de 
-tc0499,Magnon,Jean,1601,Bresse,1655,Paris,,MAGNON, Jean
-tc0647,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
-tc0115,Campistron,Jean G. de,1656,Toulouse,1713,Toulouse,1701,CAMPISTRON, Jean G. de
-tc0113,Campistron,Jean Galbert de,1656,Toulouse,1713,Toulouse,1701,CAMPISTRON, Jean Galbert de
-tc0360,Dumaniant,Antoine-Jean Bourlin dit,1752,,1828,,,DUMANIANT, Antoine-Jean Bourlin dit
-tc0351,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
-tc0326,Dorimond,Nicolas Drouin dit,1628,,1673,,,DORIMOND, Nicolas Drouin dit
-tc0365,Durant,Catherine,16??,,1736,,,DURANT, Catherine
-tc0778,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0155,Chazet,,,,,,,CHAZET et DUBOIS
-tc0155,Dubois,,,,,,,CHAZET et DUBOIS
-tc0438,Hoffmann,François-Benoît,1760,Nancy,1828,Paris,,HOFFMANN, François-Benoît
-tc0156,Chazet,DUPATY,1775,Blanquefort,1851,Paris,1647,CHAZET, DUPATY
-tc0029,Aure,François d',,,,,,AURE, François d'
-tc0703,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
-tc0336,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
-tc0257,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
-tc0755,Tristan l_hermite,François,1601,Château de Soliers, Marche,1655,Paris,,TRISTAN L_HERMITE, François
-tc0630,Pradon,Nicolas,1632,Rouen,1698,Paris,,PRADON, Nicolas
-tc0019,Dorvigny,Louis François Archambault dit,1742,Paris,1812,Paris,,DORVIGNY, Louis François Archambault dit
-tc0750,Tanevot,Alexandre,1691,,1773,,,TANEVOT, Alexandre
-tc0402,Fuzelier,Louis,1672,Paris,1752,Paris,,FUZELIER, Louis et LESAGE Alain-René 1668 Sarzeau 1747 Boulogne-sur-mer
-tc0402,Lesage alain-rené 1668 sarzeau 1747 boulogne-sur-mer,,1672,Paris,1752,Paris,,FUZELIER, Louis et LESAGE Alain-René 1668 Sarzeau 1747 Boulogne-sur-mer
-tc0405,Gilbert,Gabriel,1620,Paris,1675,,,GILBERT, Gabriel
-tc0323,Dorat,Claude-Joseph,1734,Paris,1780,Paris,,DORAT, Claude-Joseph
-tc0585,François-augustin paradis de moncrif,,1687,Paris,1770,Paris,,François-Augustin Paradis de MONCRIF
-tc0141,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0224,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0653,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
-tc0769,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0511,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0399,Fuzelier,Louis,1672,Paris,1752,Paris,,FUZELIER, Louis
-tc0503,Magnon,Jean,1601,Bresse,1655,Paris,,MAGNON, Jean
-tc0420,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
-tc0766,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0299,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
-tc0598,Ouville,Antoine le Métel,1589,Caen,1655,,,OUVILLE, Antoine le Métel
-tc0792,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0648,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
-tc0441,Jaquelin,,,,,,,JAQUELIN et PHILIDOR
-tc0441,Philidor,,,,,,,JAQUELIN et PHILIDOR
-tc0338,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
-tc0793,Voltaire,François-Marie AROUET de,1694,Paris,1778,Paris,,VOLTAIRE, François-Marie AROUET de
-tc0746,Sommerive,Comte de,1???,,1???,,,SOMMERIVE, Comte de
-tc0370,Durant,Catherine,16??,,1736,,,DURANT, Catherine
-tc0547,Merle,,,,,,,MERLE et DESESSARTS
-tc0547,Desessarts,,,,,,,MERLE et DESESSARTS
-tc0227,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0737,Scudery,Georges de,1601,Le Havre,1667,Paris,1649,SCUDERY, Georges de
-tc0639,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
-tc0269,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0185,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0202,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0177,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0157,Chazet,,,,v,,,CHAZET et GASSICOURT
-tc0157,Gassicourt,,,,v,,,CHAZET et GASSICOURT
-tc0044,Beaunoir,Alexandre-Louis-Bertrand Robineau dit de,17460,Paris,1823,Paris,,BEAUNOIR, Alexandre-Louis-Bertrand Robineau dit de
-tc0301,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0015,(anonyme),,,,,,,(anonyme)
-tc0473,Laignelot,Joseph-François,1752,,1829,,,LAIGNELOT, Joseph-François
-tc0236,Crébillon,Prosper J. de,1674,Dijon,1762,Paris,1731,CRÉBILLON, Prosper J. de
-tc0708,Rousseau,Jean-Jacques,1712,Génève,1778,Ermenonville,,ROUSSEAU, Jean-Jacques
-tc0048,Bensérade,Isaac de,1613,Lyons-la-Forêt,1691,Gentilly,1674,BENSÉRADE, Isaac de
-tc0578,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0584,Moline,Pierre-Louis,1740,Paris,1820,Paris,,MOLINE, Pierre-Louis
-tc0209,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0629,Pradon,Nicolas,1632,Rouen,1698,Paris,,PRADON, Nicolas
-tc0637,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
-tc0253,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
-tc0111,Campistron,Jean Galbert de,1656,Toulouse,1713,Toulouse,1701,CAMPISTRON, Jean Galbert de
-tc0562,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0346,Dufresny,Charles Rivière,1657,Paris,1724,Paris,,DUFRESNY, Charles Rivière
-tc0194,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0731,Scudery,Georges de,1601,Le Havre,1667,Paris,1649,SCUDERY, Georges de
-tc0210,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0238,Crébillon,Prosper J. de,1674,Dijon,1762,Paris,1731,CRÉBILLON, Prosper J. de
-tc0689,Riccoboni,,,,,,,RICCOBONI et ROMAGNESI
-tc0689,Romagnesi,,,,,,,RICCOBONI et ROMAGNESI
-tc0798,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0035,Barante,,,,,,,BARANTE et DUFESNY
-tc0035,Dufesny,,,,,,,BARANTE et DUFESNY
-tc0290,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
-tc0186,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0398,Fuzelier,Louis,1672,Paris,1752,Paris,,FUZELIER, Louis
-tc0720,Saurin,Bernard-Joseph,1706,Paris,1781,Paris,1761,SAURIN, Bernard-Joseph
-tc0501,Magnon,Jean,1601,Bresse,1655,Paris,,MAGNON, Jean
-tc0138,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0349,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
-tc0419,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
-tc0352,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
-tc0121,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0024,Archambault,Louis-François,1742,Paris,1812,Paris,,ARCHAMBAULT, Louis-François
-tc0197,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0573,Moliere,,1622,Paris,1673,Paris,,MOLIERE
-tc0796,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0710,Rousseau,Jean-Jacques,1712,Génève,1778,Ermenonville,,ROUSSEAU, Jean-Jacques
-tc0671,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0533,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0298,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0075,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
-tc0722,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
-tc0401,Fuzelier,Louis,,,,,,FUZELIER, Louis et LEGRAND Marc-Antoine
-tc0401,Legrand marc-antoine,,,,,,,FUZELIER, Louis et LEGRAND Marc-Antoine
-tc0455,La fontaine,Jean de,1621,Château-Thierry,1695,Paris,,LA FONTAINE, Jean de
-tc0318,Discret,L.C.,1606,Rouen,1684,Paris,1647,DISCRET, L.C.
-tc0241,Cubières-palmézeaux,Michel de,1752,Gard,1820,Paris,,CUBIÈRES-PALMÉZEAUX, Michel de
-tc0410,Gouges,Olympe de Gouges,1748,Montauban,1793,Paris,,GOUGES, Olympe de Gouges
-tc0287,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
-tc0545,Mercier,Louis-Sébatsien,1740,Paris,1814,Paris,,MERCIER, Louis-Sébatsien
-tc0403,Genest,Claude-Charles,1637,Paris,1719,Paris,1698,GENEST, Claude-Charles
-tc0139,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0530,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0091,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
-tc0057,Biancolelli,Pierre François,1680,,1734,,,BIANCOLELLI, Pierre François
-tc0320,Donneau de visé,Jean,1638,Paris,1710,Paris,,DONNEAU DE VISÉ, Jean
-tc0763,Villiers,Claude DESCHAMPS de,1601,,,,,VILLIERS, Claude DESCHAMPS de
-tc0199,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0496,Le vayer de boutigny,Roland,1627,Paris,1685,Paris,,LE VAYER DE BOUTIGNY, Roland
-tc0358,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0114,Campistron,Jean Galbert de,1656,Toulouse,1713,Toulouse,1701,CAMPISTRON, Jean Galbert de
-tc0490,Le mierre,Antoine-Marin,1723,Paris,1793,Saint-Germain-en-Laye,1781,LE MIERRE, Antoine-Marin
-tc0683,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0065,Boisrobert,François Le Métel de,1589,Caen,1662,Paris,,BOISROBERT, François Le Métel de 
-tc0557,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0661,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
-tc0068,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
-tc0375,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
-tc0589,Nadal,Augustin,1659,Poitiers,1741,Poitiers,,NADAL, Augustin
-tc0259,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0628,Pradon,Nicolas,1632,Rouen,1698,Paris,,PRADON, Nicolas
-tc0361,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0440,Imbert,Barthélémy,1647,,1790,,,IMBERT, Barthélémy
-tc0190,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0484,Legouvé,Gabriel,1730,Paris,1782,Paris,1803,LEGOUVÉ, Gabriel
-tc0429,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
-tc0770,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0587,Nadal,Augustin,1659,Poitiers,1741,,Poitiers,NADAL, Augustin
-tc0317,Diderot,Denis,1713,Langres,1784,Paris,,DIDEROT, Denis
-tc0408,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0791,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0078,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
-tc0122,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0536,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0104,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
-tc0085,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
-tc0391,Florian,Jean Pierre Claris de,1755,,1794,Paris,,FLORIAN, Jean Pierre Claris de
-tc0396,Folard,Melchior de,1683,Avignon,1739,Lyon,1688,FOLARD, Melchior de
-tc0322,Dorat,Claude-Joseph,1601,Bresse,1655,Paris,,DORAT, Claude-Joseph
-tc0266,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0023,Archambault,Louis-François,1742,Paris,1812,Paris,,ARCHAMBAULT, Louis-François
-tc0443,La calprenede,Gautier Costes de,1609,château de Toulgou à Salignac,1663,Les Andelys,1673,LA CALPRENEDE, Gautier Costes de
-tc0783,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0069,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
-tc0329,Dorneval,Jacques-Philippe d'ORNEVAL dit,1686,Paris,1724,Passy,,DORNEVAL, Jacques-Philippe d'ORNEVAL dit
-tc0559,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0690,Rochon  de chabannes,Marc-Antoine-Jacques,1730,Paris,1800,Paris,,ROCHON  DE CHABANNES, Marc-Antoine-Jacques
-tc0033,Baptiste,,,,,Paris,,BAPTISTE et DU MOUTIER
-tc0033,Du moutier,,,,,Paris,,BAPTISTE et DU MOUTIER
-tc0679,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0705,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
-tc0593,Nivelle de la chaussée,Pierre,1692,Paris,1754,Paris,1736,NIVELLE de la CHAUSSÉE, Pierre
-tc0608,Palissot de montenoy,Charles,1730,Nancy,1814,Paris,,PALISSOT de MONTENOY, Charles
-tc0289,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0112,Campistron,Jean G. de,1656,Toulouse,1713,Toulouse,1701,CAMPISTRON, Jean G. de
-tc0686,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0572,Moliere,,1622,Paris,1673,Paris,,MOLIERE
-tc0570,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0607,Palissot de montenoy,Charles,1730,Nancy,1814,Paris,,PALISSOT de MONTENOY, Charles
-tc0520,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0180,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0149,Chabanon,Michel Paul Guy de,1730,Saint-omingue,1792,Paris,1780,CHABANON, Michel Paul Guy de
-tc0178,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0187,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0802,Vondrebeck,Maurice,,,,,,VONDREBECK, Maurice et ALARD, Charles
-tc0802,Alard,Charles,,,,,,VONDREBECK, Maurice et ALARD, Charles
-tc0725,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
-tc0451,La chapelle,Jean de,1651,Paris,1723,Paris,1688,LA CHAPELLE, Jean de
-tc0064,Bohaire-dutheil,Nicolas de,1750,La Ferté-sous-Jouarre,1825,La Ferté-sous-Jouarre,1701,BOHAIRE-DUTHEIL, Nicolas de
-tc0493,Lesage,Alain-René,1668,Sarzeau,1747,Boulogne-sur-mer,1746,LESAGE, Alain-René
-tc0638,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
-tc0466,La fosse,Antoine d'Aubigny,1653,Paris,1708,Paris,,LA FOSSE, Antoine d'Aubigny
-tc0505,Mairet,Jean,1604,Besançon,1686,Besançon,,MAIRET, Jean
-tc0761,Viau,Théophile de,1586,Clairac,1626,Paris,,VIAU, Théophile de
-tc0316,Diderot,Denis,1713,Paris,1784,Paris,,DIDEROT, Denis
-tc0655,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
-tc0201,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0291,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
-tc0243,Cubières-palmézeaux,Michel de,1752,Paris,1820,Saint-Germain-en-Laye,,CUBIÈRES-PALMÉZEAUX, Michel de
-tc0159,Chevreau,Urbain,1613,,1721,,,CHEVREAU, Urbain
-tc0133,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0062,Blanc,Marc Antoine,1730,,1799,,,BLANC, Marc Antoine
-tc0579,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0217,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0130,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0377,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
+tc0538,La harpe,Jean-François de,1739,Paris,1803,Paris,,LA HARPE, Jean-François de
+tc0014,Magnon,Jean,1601,Bresse,1655,Paris,,MAGNON, Jean
+tc0633,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0041,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0070,La fontaine,Jean de,1621,Château-Thierry,1695,Paris,,LA FONTAINE, Jean de
+tc0235,Poinsinet,Antoine-Alexandre-Henri,1735,Fontainebleau,1769,cordoue,,POINSINET, Antoine-Alexandre-Henri
+tc0716,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0330,Euripide,,-496,,-406,,,EURIPIDE
+tc0006,Bievre,François George Maréchal, marquis de,1747,Paris,1789,Bavière,,BIEVRE, François George Maréchal, marquis de
+tc0380,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
+tc0053,Andrieux,François Guilaume Jean Stanislas,1759,Paris,1833,Paris,1802,ANDRIEUX, François Guilaume Jean Stanislas
+tc0531,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0425,Archambault,Louis-François,1742,Paris,1812,Paris,,ARCHAMBAULT, Louis-François
+tc0751,Mairet,Jean,1604,Besançon,1686,Besançon,,MAIRET, Jean
+tc0539,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0407,Marmontel,Jean-François,1723,Bort-les-Orgues,1799,Maint-Aubin-sur-Gaillon,1763,MARMONTEL, Jean-François
+tc0498,Aigueberre,Jean Dumas d',1692,,1655,,,AIGUEBERRE, Jean Dumas d'
+tc0818,Nadal,Augustin,1659,Poitiers,1741,,Poitiers,NADAL, Augustin
+tc0519,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0219,Bergasse,Nicolas,,,,,1647,BERGASSE, Nicolas ; CHASTENET de PUYSÉGUR, Armand-Marie-Jacques.
+tc0219,Chastenet de puységur,Armand-Marie-Jacques.,,,,,1647,BERGASSE, Nicolas ; CHASTENET de PUYSÉGUR, Armand-Marie-Jacques.
+tc0031,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0182,Le noble,Eustache,1643,Troyes,1711,Paris,,LE NOBLE, Eustache
+tc0039,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
+tc0387,Legouvé,Gabriel,1730,Paris,1782,Paris,1803,LEGOUVÉ, Gabriel
+tc0868,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
+tc0275,Taconet,Toussaint-Gaspard,1730,Paris,1774,Paris,,TACONET, Toussaint-Gaspard
+tc0759,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0489,Aigueberre,Jean Dumas d',1692,,1655,,,AIGUEBERRE, Jean Dumas d'
+tc0673,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
+tc0844,Poisson,Philippe,1682,,1743,Paris,,POISSON, Philippe
+tc0821,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
+tc0549,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0702,Molière,,1622,Paris,1673,Paris,,Molière
+tc0312,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0715,Imbert,Barthélémy,1647,,1790,,,IMBERT, Barthélémy
+tc0695,La calprenede,Gautier Costes de,1609,château de Toulgou à Salignac,1663,Les Andelys,1673,LA CALPRENEDE, Gautier Costes de
+tc0644,Dumaniant,Antoine-Jean Bourlin dit,1752,,1828,,,DUMANIANT, Antoine-Jean Bourlin dit
+tc0093,Molière,,1622,Paris,1673,Paris,,Molière
+tc0813,Nivelle de la chaussée,Pierre,1692,Paris,1754,Paris,1736,NIVELLE de la CHAUSSÉE, Pierre
+tc0099,Hervilly,Ernest d',1838,Champigny-sur-Marne,1911,Paris,,HERVILLY, Ernest d'
+tc0564,Dorimond,Nicolas Drouin dit,1628,,1673,,,DORIMOND, Nicolas Drouin dit
+tc0142,(anonyme),,,,,Paris,,(anonyme)
+tc0614,Moliere,,1622,Paris,1673,Paris,,MOLIERE
+tc0213,Bohaire-dutheil,Nicolas de,1750,La Ferté-sous-Jouarre,1825,La Ferté-sous-Jouarre,1701,BOHAIRE-DUTHEIL, Nicolas de
+tc0463,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0355,Eschyle,,-526,Géla (Sicile),-456,Géla (Sicile),,ESCHYLE
+tc0191,Boursault,Edme,1638,Mussy-l'Evêque,1701,Paris,,BOURSAULT, Edme
+tc0184,Legouvé,Gabriel,1730,Paris,1782,Paris,1803,LEGOUVÉ, Gabriel
+tc0286,Sacy,Claude-Louis-Michel de,1746,Fécamp,1794,Paris,,SACY, Claude-Louis-Michel de
+tc0066,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
+tc0499,La harpe,Jean-François de,1739,Paris,1803,Paris,,LA HARPE, Jean-François de
+tc0647,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
+tc0115,Taconet,Toussaint-Gaspard,1730,Paris,1774,Paris,,TACONET, Toussaint-Gaspard
+tc0113,Barante,Claude Ignace Brugière de,1670,Riom,1745,Riom,,BARANTE, Claude Ignace Brugière de
+tc0902,Guilbert-pixerécourt,René Charles,1773,Nancy,1844,Nancy,,GUILBERT-PIXERÉCOURT, René Charles
+tc0360,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
+tc0351,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0816,Anonyme,,,,,,,Anonyme
+tc0326,Riccoboni,,,,,,,RICCOBONI et ROMAGNESI
+tc0326,Romagnesi,,,,,,,RICCOBONI et ROMAGNESI
+tc0365,Saint-aignan,Etienne,1773,,1824,,,SAINT-AIGNAN, Etienne
+tc0778,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0155,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0438,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0850,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0029,Pure,Michel Abbé de,1620,,1680,,,PURE, Michel Abbé de
+tc0703,Hoffmann,François-Benoît,1760,Nancy,1828,Paris,,HOFFMANN, François-Benoît
+tc0336,Du bosc de montandre,Claude,1605,Paris,1658,Paris,,DU BOSC de MONTANDRE, Claude
+tc0257,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0755,La fontaine,Jean de,1621,Château-Thierry,1695,Paris,,LA FONTAINE, Jean de
+tc0630,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0019,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0750,Sacy,Claude-Louis-Michel de,1746,Fécamp,1794,Paris,,SACY, Claude-Louis-Michel de
+tc0402,Dorat,Claude-Joseph,1601,Bresse,1655,Paris,,DORAT, Claude-Joseph
+tc0405,Musset,Alfred de,1810,Paris,1857,Paris,1852,MUSSET, Alfred de
+tc0323,Rousseau,Jean-Jacques,1712,Génève,1778,Ermenonville,,ROUSSEAU, Jean-Jacques
+tc0875,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0585,Desjardins,Marie-Catherine-Hortense,1632,Alençon,1683,Clinchemaure,,DESJARDINS, Marie-Catherine-Hortense
+tc0141,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0224,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0653,Legouvé,Gabriel,1730,Paris,1782,Paris,1803,LEGOUVÉ, Gabriel
+tc0769,Rousseau,Pierre,1716,Toulouse,1785,Paris,,ROUSSEAU, Pierre
+tc0511,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0399,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0503,Pradon,Nicolas,1632,Rouen,1698,Paris,,PRADON, Nicolas
+tc0420,Campistron,Jean Galbert de,1656,Toulouse,1713,Toulouse,1701,CAMPISTRON, Jean Galbert de
+tc0766,Desmarets de saint-sorlin,Jean dit De Boisval,1595,Paris,1676,Paris,1635,DESMARETS de SAINT-SORLIN, Jean dit De Boisval
+tc0299,Archambault,Louis-François,1742,Paris,1812,Paris,,ARCHAMBAULT, Louis-François
+tc0598,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
+tc0839,Scudery,Georges de,1601,Le Havre,1667,Paris,1649,SCUDERY, Georges de
+tc0792,Villiers,Claude Deschamps dit,1601,Bresse,1681,Paris,,VILLIERS, Claude Deschamps dit
+tc0648,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0441,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
+tc0338,Durant,Catherine,16??,,1736,,,DURANT, Catherine
+tc0793,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0746,Rousseau,Jean-Jacques,1712,Génève,1778,Ermenonville,,ROUSSEAU, Jean-Jacques
+tc0370,Jodelle,Étienne,1532,Paris,1573,Paris,,JODELLE, Étienne
+tc0895,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0547,Desportes,Claude-François,1693,,1774,,,DESPORTES, Claude-François
+tc0227,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
+tc0737,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
+tc0639,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
+tc0881,Riccoboni,,,,,,,RICCOBONI et ROMAGNESI
+tc0881,Romagnesi,,,,,,,RICCOBONI et ROMAGNESI
+tc0269,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0185,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
+tc0202,Scudery,Geroges de,1601,Le Havre,1667,Paris,1650,SCUDERY, Geroges de
+tc0177,Vadé,Jean-Joseph,1720,Ham,1757,Paris,,VADÉ, Jean-Joseph
+tc0157,Mareschal,André,1601,,1648,,,MARESCHAL, André
+tc0044,Nadal,Augustin,1659,Poitiers,1741,,Poitiers,NADAL, Augustin
+tc0301,Moliere,,1622,Paris,1673,Paris,,MOLIERE
+tc0903,Sacy,Claude-Louis-Michel de,1746,Fécamp,1794,Paris,,SACY, Claude-Louis-Michel de
+tc0015,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
+tc0473,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
+tc0236,Durant,Catherine,16??,,1736,,,DURANT, Catherine
+tc0708,Lesage,,,,,,,LESAGE et DORNEVAL
+tc0708,Dorneval,,,,,,,LESAGE et DORNEVAL
+tc0048,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0578,Sacy,Claude-Louis-Michel de,1746,Fécamp,1794,Paris,,SACY, Claude-Louis-Michel de
+tc0829,Euripide,,-496,,-406,,,EURIPIDE
+tc0584,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
+tc0209,Plancher de valcour,Philippe,1751,,1815,,,PLANCHER de VALCOUR, Philippe
+tc0629,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
+tc0637,Mercier,Louis-Sébastien,1740,Paris,1814,Paris,1673,MERCIER, Louis-Sébastien
+tc0253,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0111,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0562,Rosimond,Jean-Baptiste du Mesnil dit Claude La Rose,1640,,1686,Paris,,ROSIMOND, Jean-Baptiste du Mesnil dit Claude La Rose
+tc0346,Bohaire-dutheil,Nicolas de,1750,La Ferté-sous-Jouarre,1825,La Ferté-sous-Jouarre,1701,BOHAIRE-DUTHEIL, Nicolas de
+tc0194,Diderot,Denis,1713,Langres,1784,Paris,,DIDEROT, Denis
+tc0843,Musset,Alfred de,1810,Paris,1857,Paris,1852,MUSSET, Alfred de
+tc0731,Beaunoir,Alexandre-Louis-Bertrand Robineau dit de,1746,Paris,1823,Paris,,BEAUNOIR, Alexandre-Louis-Bertrand Robineau dit de
+tc0210,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0238,Carbon de flins,Claude de,1757,Reims,1806,Vervins,,CARBON DE FLINS, Claude de
+tc0689,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0798,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0035,Viau,Théophile de,1586,Clairac,1626,Paris,,VIAU, Théophile de
+tc0290,Delavigne,Casimir,1793,Le Havre,1843,Lyon,1825,DELAVIGNE, Casimir
+tc0186,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0398,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
+tc0720,Gresset,Jean-Baptiste-Louis,1709,Amiens,1777,Amiens,1748,GRESSET, Jean-Baptiste-Louis
+tc0501,Legrand,Marc-Antoine,1673,Paris,1728,Paris,,LEGRAND, Marc-Antoine
+tc0138,Biancolelli,Pierre François,1680,,1734,,,BIANCOLELLI, Pierre François
+tc0349,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
+tc0419,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0352,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0121,Gilbert,Gabriel,1620,Paris,1675,,,GILBERT, Gabriel
+tc0024,Linant,Michel,1708,Louviers,1749,Paris,,LINANT, Michel
+tc0197,Scudery,Georges de,1601,Le Havre,1667,Paris,1649,SCUDERY, Georges de
+tc0573,Nadal,Augustin,1659,Poitiers,1741,,Poitiers,NADAL, Augustin
+tc0837,Crébillon,Prosper J. de,1674,Dijon,1762,Paris,1731,CRÉBILLON, Prosper J. de
+tc0796,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
+tc0710,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0906,Dorvigny,Louis François Archambault dit,1742,Paris,1812,Paris,,DORVIGNY, Louis François Archambault dit
+tc0876,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0671,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0533,Dorneval,Jacques-Philippe d'ORNEVAL dit,1686,Paris,1724,Passy,,DORNEVAL, Jacques-Philippe d'ORNEVAL dit
+tc0298,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0075,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0722,Fabre d'eglantine,Jean-François-Nazaire Fabre dit,1750,Carcassonne,1794,Paris,,FABRE D'EGLANTINE, Jean-François-Nazaire Fabre dit
+tc0870,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0401,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0455,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0318,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0241,Aude,Joseph,1755,Apt,1841,,,AUDE, Joseph 
+tc0410,Villiers,Claude DESCHAMPS de,1601,,,,,VILLIERS, Claude DESCHAMPS de
+tc0849,Poisson,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,POISSON, Jean-François
+tc0287,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0545,Longepierre,Hilaire de,1659,Dijon,1731,Paris,1666,LONGEPIERRE, Hilaire de
+tc0403,La motte,Antoine-Houdard de,1672,Paris,1731,Paris,1710,LA MOTTE, Antoine-Houdard de
+tc0139,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0530,Lantier,Etienne François de,1734,,1826,,,LANTIER, Etienne François de
+tc0091,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0057,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0807,Favart,Charles-Simon,1710,Paris,1792,Paris,1736,FAVART, Charles-Simon
+tc0320,Hervilly,Ernest d',1838,Champigny-sur-Marne,1911,Paris,,HERVILLY, Ernest d'
+tc0763,Feriol de pont-de-veyle,Antoine de,1697,Pont-de-Veyle,1774,Paris,1673,FERIOL DE PONT-DE-VEYLE, Antoine de
+tc0199,Puget de la serre,Jean,1594,Toulouse,1665,Paris,,PUGET DE LA SERRE, Jean
+tc0496,Campistron,Jean Galbert de,1656,Toulouse,1713,Toulouse,1701,CAMPISTRON, Jean Galbert de
+tc0358,Boisrobert,François Le Métel de,1589,Caen,1662,Paris,,BOISROBERT, François Le Métel de 
+tc0114,Brueys,,,,,,,BRUEYS et PALAPRAT
+tc0114,Palaprat,,,,,,,BRUEYS et PALAPRAT
+tc0683,Blanc,Marc Antoine,1730,,1799,,,BLANC, Marc Antoine
+tc0065,(anonyme),,,,,,,(anonyme)
+tc0557,Regnard,Jean-François,1655,Paris,1709,Château de Grillon, Dourdan,,REGNARD, Jean-François
+tc0661,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
+tc0068,Campistron,Jean G. de,1656,Toulouse,1713,Toulouse,1701,CAMPISTRON, Jean G. de
+tc0904,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0375,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
+tc0589,Biancolelli,Pierre François,1680,Paris,1734,Paris,,BIANCOLELLI, Pierre François
+tc0259,Maréchal,André,1601,,1648,,,MARÉCHAL, André
+tc0628,Cyrano,Hercule Savinien, dit CYRANO de BERGERAC,1619,Paris,1655,Sannois,,CYRANO, Hercule Savinien, dit CYRANO de BERGERAC
+tc0361,Puget de la serre,Jean,1594,Toulouse,1665,Paris,,PUGET DE LA SERRE, Jean
+tc0440,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0190,Patrat,Joseph,1633,Arles,1801,Paris,,PATRAT, Joseph
+tc0484,Armand,Huguet Armand dit,1699,Richelieu,1765,Paris,,ARMAND, Huguet Armand dit
+tc0429,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
+tc0770,Cyrano,Hercule Savinien, dit CYRANO de BERGERAC,1619,Paris,1655,Sannois,,CYRANO, Hercule Savinien, dit CYRANO de BERGERAC
+tc0587,Molière,,1622,Paris,1673,Paris,,Molière
+tc0855,La grange chancel,François-Joseph,1677,Razac-sur-l-Isle,1758,Razac-sur-l-Isle,1685,LA GRANGE CHANCEL, François-Joseph
+tc0834,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0317,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0408,Crébillon,Prosper J. de,1674,Dijon,1762,Paris,1731,CRÉBILLON, Prosper J. de
+tc0791,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
+tc0851,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
+tc0078,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0122,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0536,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0104,Scudery,Georges de,1601,Le Havre,1667,Paris,1649,SCUDERY, Georges de
+tc0085,Dorimond,Nicolas Drouin dit,1628,,1673,,,DORIMOND, Nicolas Drouin dit
+tc0391,Barante,,,,,,,BARANTE et DUFESNY
+tc0391,Dufesny,,,,,,,BARANTE et DUFESNY
+tc0396,Colle,Charles,1709,Paris,1783,Paris,,COLLE, Charles
+tc0322,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0266,Saint-priest,Commandant,,,,,,SAINT-PRIEST, Commandant
+tc0023,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0443,Soulas d'allainval,Abbé Léonor Jean Christine,1700,Chartres,1753,Paris,,SOULAS d'ALLAINVAL, Abbé Léonor Jean Christine
+tc0783,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
+tc0069,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0329,Colle,Charles,1709,Paris,1783,Paris,,COLLE, Charles
+tc0559,Merle,,,,,,,MERLE et DESESSARTS
+tc0559,Desessarts,,,,,,,MERLE et DESESSARTS
+tc0690,La harpe,Jean-François de,1739,Paris,1803,Paris,,LA HARPE, Jean-François de
+tc0033,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0679,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0705,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
+tc0593,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0608,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0289,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0879,Sénèque,,,Rome,,,,SÉNÈQUE
+tc0112,Pesselier,Charles-Étienne,1712,Paris,1763,Paris,,PESSELIER, Charles-Étienne
+tc0686,Durant,Catherine,16??,,1736,,,DURANT, Catherine
+tc0572,Nadal,Augustin,1659,Poitiers,1741,Poitiers,,NADAL, Augustin
+tc0570,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0607,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0877,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0520,Molière,,1622,Paris,1673,Paris,,Molière
+tc0180,Leclerc,Michel,,,,,,LECLERC, Michel
+tc0149,Biancolelli pierre-françois (1680-1734),RICCOBONI Antoine-François (1707-1772), RICCOBONI Luigi (1676-1753), ROMAGNESI Jean-Antoine (1690-1742),1680,Paris,1734,Paris,,BIANCOLELLI Pierre-François (1680-1734), RICCOBONI Antoine-François (1707-1772), RICCOBONI Luigi (1676-1753), ROMAGNESI Jean-Antoine (1690-1742)
+tc0178,Sophocle,,-496,,-406,,,SOPHOCLE
+tc0187,Chamfort,Sébatien-Roch-Nicolas de,1741,Clermont,1794,Paris,1781,CHAMFORT, Sébatien-Roch-Nicolas de 
+tc0802,Florian,Jean Pierre Claris de,1755,,1794,Paris,,FLORIAN, Jean Pierre Claris de
+tc0725,Chamfort,Sébatien-Roch-Nicolas de,1741,Clermont,1794,Paris,1781,CHAMFORT, Sébatien-Roch-Nicolas de 
+tc0451,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0064,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0493,Rousseau,Jean Baptiste,1670,Paris,1741,Bruxelles,1743,ROUSSEAU, Jean Baptiste
+tc0638,Nadal,Augustin,1659,Poitiers,1741,,Poitiers,NADAL, Augustin
+tc0466,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0505,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
+tc0761,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0803,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
+tc0316,Mareschal,André,1601,,1648,,,MARESCHAL, André
+tc0655,Poinsinet de sivry,Louis,1733,Versailles,1804,Guadalquivir,,POINSINET de SIVRY, Louis
+tc0201,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0884,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0291,Coupigny,André-François de,1766,,1833,,,COUPIGNY, André-François de
+tc0243,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0159,Rochon de chabannes,Marc-Antoine-Jacques,1730,Paris,1800,Paris,,ROCHON DE CHABANNES, Marc-Antoine-Jacques
+tc0133,La motte,Antoine-Houdard de,1672,Paris,1731,Paris,1710,LA MOTTE, Antoine-Houdard de
+tc0062,Restif de le bretonne,Edme,1734,Sacy,1805,Paris,,RESTIF DE LE BRETONNE, Edme
+tc0878,Nivelle de la chaussée,Pierre,1692,Paris,1754,Paris,1736,NIVELLE de la CHAUSSÉE, Pierre
+tc0579,Plaute,,,Rome,,,1673,PLAUTE
+tc0217,Aigueberre,Jean Dumas d',1692,,1655,,,AIGUEBERRE, Jean Dumas d'
+tc0130,Poisson,Philippe,1682,,1743,Paris,,POISSON, Philippe
+tc0826,Colleville,Anne Hyacinthe Geille de Saint-Léger,1761,,1824,Dreux,,COLLEVILLE, Anne Hyacinthe Geille de Saint-Léger
+tc0377,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
 tc0030,Aure,François d',,,,,,AURE, François d'
-tc0609,Patrat,Joseph,1733,Arles,1801,Paris,,PATRAT, Joseph
-tc0087,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
-tc0181,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0581,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0781,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0074,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
-tc0760,Vadé,Jean-Joseph,1720,Ham,1757,Paris,,VADÉ, Jean-Joseph
-tc0017,Anseaume,Louis,1721,Paris,1784,Paris,,ANSEAUME, Louis
-tc0081,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
-tc0086,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
-tc0051,Beys,Charles de,1610,,1659,Paris,,BEYS, Charles de
-tc0404,Gilbert,Gabriel,1620,Paris,1675,,,GILBERT, Gabriel
-tc0691,Romagnesi,Jean Antoine,1690,,1742,,,ROMAGNESI, Jean Antoine
-tc0668,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0558,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0470,La harpe,Jean-François de,1739,Paris,1803,Paris,,LA HARPE, Jean-François de
-tc0735,Scudery,Georges de,1601,Le Havre,1667,Paris,1649,SCUDERY, Georges de
-tc0433,Harny de guerville,,17??,,17??,,,HARNY DE GUERVILLE
-tc0741,Sedaine,Michel-Jean,1719,Paris,1797,Paris,,SEDAINE, Michel-Jean
-tc0692,Riccoboni,,,,,,,RICCOBONI et ROMAGNESI
-tc0692,Romagnesi,,,,,,,RICCOBONI et ROMAGNESI
-tc0050,Bernard,CaTherine,1694,Vic-sur-Cère,1758,Paris,1754,BERNARD, CaTherine
-tc0672,Regnard,Jean-François,1655,Paris,1709,Château de Grillon, Dourdan,,REGNARD, Jean-François
-tc0022,Archambault,Louis-François,1742,Paris,1812,Paris,,ARCHAMBAULT, Louis-François
-tc0384,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
-tc0368,Durant,Catherine,16??,,1736,,,DURANT, Catherine
-tc0626,Pompigny,Maurin de,,Paris,,Paris,,POMPIGNY, Maurin de
-tc0709,Rousseau,Jean-Jacques,1712,Génève,1778,Ermenonville,,ROUSSEAU, Jean-Jacques
-tc0394,Florian,Jean Pierre Claris de,1755,,1794,Paris,,FLORIAN, Jean Pierre Claris de
-tc0776,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0331,Dorneval,LESAGE,,,,,,DORNEVAL, LESAGE
-tc0103,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
-tc0560,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0508,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0444,La calprenede,Gautier Costes de,1609,château de Toulgou à Salignac,1663,Les Andelys,1673,LA CALPRENEDE, Gautier Costes de
-tc0450,La calprenede,Gautier Costes de,1609,château de Toulgou à Salignac,1663,Les Andelys,1673,LA CALPRENEDE, Gautier Costes de
-tc0265,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0491,Le mierre,Antoine-Marin,1723,Paris,1793,Saint-Germain-en-Laye,1781,LE MIERRE, Antoine-Marin
-tc0569,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0663,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
+tc0609,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0087,La calprenede,Gautier Costes de,1609,château de Toulgou à Salignac,1663,Les Andelys,1673,LA CALPRENEDE, Gautier Costes de
+tc0838,Regnard,Jean-François,1655,Paris,1709,Château de Grillon, Dourdan,,REGNARD, Jean-François
+tc0181,Dorimond,Nicolas Drouin dit,1628,,1673,,,DORIMOND, Nicolas Drouin dit
+tc0581,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
+tc0853,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
+tc0781,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
+tc0074,Colle,Charles,1709,Paris,1783,Paris,,COLLE, Charles
+tc0760,Tristan l'hermite,François,1601,Château de Soliers, Marche,1655,Paris,,TRISTAN L'HERMITE, François
+tc0017,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0081,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0086,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
+tc0051,Magnon,Jean,1601,Bresse,1655,Paris,,MAGNON, Jean
+tc0404,Maréchal,Pierre-Sylvain,1750,Paris,1803,Montrouge,,MARÉCHAL, Pierre-Sylvain
+tc0691,Aigueberre,Jean Dumas d',1692,,1655,,,AIGUEBERRE, Jean Dumas d'
+tc0668,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0558,Crébillon,Prosper J. de,1674,Dijon,1762,Paris,1731,CRÉBILLON, Prosper J. de
+tc0470,Sacy,Claude-Louis-Michel de,1746,Fécamp,1794,Paris,,SACY, Claude-Louis-Michel de
+tc0735,Mairet,Jean,1604,Besançon,1686,Besançon,,MAIRET, Jean
+tc0433,Laignelot,Joseph-François,1752,,1829,,,LAIGNELOT, Joseph-François
+tc0741,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
+tc0692,Anonyme,,,,,,,Anonyme
+tc0050,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0672,Discret,L.C.,1606,Rouen,1684,Paris,1647,DISCRET, L.C.
+tc0022,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
+tc0384,Durant,Catherine,16??,,1736,,,DURANT, Catherine
+tc0368,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
+tc0626,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0709,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
+tc0776,Florian,Jean Pierre Claris de,1755,,1794,Paris,,FLORIAN, Jean Pierre Claris de
+tc0331,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
+tc0103,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
+tc0560,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0508,Guibert,Elisabeth,1725,,1787,,,GUIBERT, Elisabeth
+tc0444,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0450,Crébillon,Prosper J. de,1674,Dijon,1762,Paris,1731,CRÉBILLON, Prosper J. de
+tc0265,Goullinet,M.,,,,,,GOULLINET, M.
+tc0491,Florian,Jean Pierre Claris de,1755,,1794,Paris,,FLORIAN, Jean Pierre Claris de
+tc0569,Saint-aignan,Etienne,1773,,1824,,,SAINT-AIGNAN, Etienne
+tc0663,Desjardins,Marie-Catherine-Hortense de, Mademoisele de Villedieu,1640,Alençon,1683,Saint-Rémy du Val,,DESJARDINS, Marie-Catherine-Hortense de, Mademoisele de Villedieu
 tc0145,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0866,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
 tc0476,La motte,Antoine-Houdard de,1672,Paris,1731,Paris,1710,LA MOTTE, Antoine-Houdard de
-tc0729,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
-tc0667,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0613,Piron,Alexis,1689,Dijon,1773,Paris,,PIRON, Alexis
-tc0669,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0310,Deshoulières,Antoinette du Ligier de la Garde,1638,Paris,1694,Paris,,DESHOULIÈRES, Antoinette du Ligier de la Garde
-tc0612,Pellet desbarreaux,Hiacinthe,1756,,1828,,,PELLET DESBARREAUX, Hiacinthe
-tc0273,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0027,Artaud,Jean-Baptiste,1732,,1796,,,ARTAUD, Jean-Baptiste
-tc0279,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
-tc0152,Chamfort,Sébatien-Roch-Nicolas de,1741,Clermont,1794,Paris,1781,CHAMFORT, Sébatien-Roch-Nicolas de 
-tc0311,Desjardins,Marie-Catherine-Hortense,1632,Alençon,1683,Clinchemaure,,DESJARDINS, Marie-Catherine-Hortense
-tc0215,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0449,La calprenede,Gautier Costes de,1609,château de Toulgou à Salignac,1663,Les Andelys,1673,LA CALPRENEDE, Gautier Costes de
-tc0284,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0004,Aigueberre,Jean Dumas d',1692,,1655,,,AIGUEBERRE, Jean Dumas d'
-tc0682,Regnard,Jean-François,1655,Paris,1709,Château de Grillon, Dourdan,,REGNARD, Jean-François
-tc0308,Desfontaines,Nicolas Marie dit,1610,,1652,,,DESFONTAINES, Nicolas Marie dit
-tc0042,Beaunoir,Alexandre-Louis-Bertrand Robineau dit de,17460,Paris,1823,Paris,,BEAUNOIR, Alexandre-Louis-Bertrand Robineau dit de
-tc0214,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0636,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
-tc0335,Duche de vancy,Jospeh-François,1668,Paris,1709,Paris,,DUCHE de VANCY, Jospeh-François
-tc0003,Aigueberre,Jean Dumas d',1692,,1655,,,AIGUEBERRE, Jean Dumas d'
-tc0400,Fuzelier,Louis,1672,Paris,1752,Paris,,FUZELIER, Louis
-tc0680,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0726,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
-tc0739,Sedaine,Michel-Jean,1719,Paris,1797,Paris,,SEDAINE, Michel-Jean
-tc0477,La motte,Antoine-Houdard de,1672,Paris,1731,Paris,1710,LA MOTTE, Antoine-Houdard de
-tc0344,Du fresny,Charles Rivière,1657,Paris,1724,Paris,,DU FRESNY, Charles Rivière
-tc0248,Cubières-palmézeaux,Michel de,1752,Gard,1820,Paris,,CUBIÈRES-PALMÉZEAUX, Michel de
-tc0220,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0386,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
-tc0132,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0011,(anonyme),,,,,,,(anonyme)
-tc0105,Boyer,Abel,1664,Castres,1729,Angleterre,1,BOYER, Abel
-tc0756,Tristan l_hermite,François,1601,Château de Soliers, Marche,1655,Paris,,TRISTAN L_HERMITE, François
-tc0582,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0492,Lesage,Alain-René,1668,Sarzeau,1747,Boulogne-sur-mer,1746,LESAGE, Alain-René
-tc0034,Barante,Claude Ignace Brugière de,1670,Riom,1745,Riom,,BARANTE, Claude Ignace Brugière de
-tc0160,Colardeau,Charles-Pierre,1732,Janville,1776,Paris,1776,COLARDEAU, Charles-Pierre
-tc0542,Marmontel,Jean-François,1723,Bort-les-Orgues,1799,Maint-Aubin-sur-Gaillon,1763,MARMONTEL, Jean-François
-tc0179,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0617,Piron,Alexis,1689,Dijon,1773,Paris,,PIRON, Alexis
-tc0548,Molière,,1622,Paris,1673,Paris,,Molière
-tc0664,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
-tc0446,La calprenede,Gautier Costes de,1609,château de Toulgou à Salignac,1663,Les Andelys,1673,LA CALPRENEDE, Gautier Costes de
-tc0452,La croix,Jean de,1606,Rouen,1684,Paris,1647,LA CROIX, Jean de
-tc0100,Boyer,CLaude,1618,Albi,1698,Paris,1,BOYER, CLaude
-tc0437,Hoffmann,François-Benoît,1760,Nancy,1828,Paris,,HOFFMANN, François-Benoît
-tc0376,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
-tc0353,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
-tc0413,Gresset,Jean-Baptiste-Louis,1709,Amiens,1777,Amiens,1748,GRESSET, Jean-Baptiste-Louis
-tc0357,Regnard,,1655,Paris,1709,château de grillon, Dourdan,,REGNARD et DUFRESNY
-tc0357,Dufresny,,1655,Paris,1709,château de grillon, Dourdan,,REGNARD et DUFRESNY
-tc0662,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
-tc0681,Regnard,Jean-François,1655,Paris,1709,Château de Grillon, Dourdan,,REGNARD, Jean-François
-tc0306,Desfontaines,Nicolas Marie dit,1610,,1652,,,DESFONTAINES, Nicolas Marie dit
-tc0200,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0097,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
-tc0203,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0518,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0164,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0707,Rousseau,Jean-Jacques,1712,Génève,1778,Ermenonville,,ROUSSEAU, Jean-Jacques
-tc0787,Voltaire,François-Marie AROUET de,1694,Paris,1778,Paris,,VOLTAIRE, François-Marie AROUET de
-tc0698,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
-tc0788,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0643,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
-tc0216,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0223,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0222,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0189,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0009,(anonyme),,,,,Paris,,(Anonyme)
-tc0123,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0374,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
-tc0261,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0101,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
-tc0169,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0532,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0167,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0779,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0646,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
-tc0067,Boisrobert,François Le Métel de,1589,Caen,1662,Paris,,BOISROBERT, François Le Métel de 
-tc0773,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0795,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0412,Goullinet,M.,,,,,,GOULLINET, M.
-tc0678,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0706,Rousseau,Jean-Jacques,1712,Génève,1778,Ermenonville,,ROUSSEAU, Jean-Jacques
-tc0176,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
-tc0540,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0724,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
-tc0018,Archambault,Louis-François,1742,Paris,1812,Paris,,ARCHAMBAULT, Louis-François
-tc0256,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0439,Hugo,Victor,1802,Besançon,1885,Paris,1841,HUGO, Victor
-tc0526,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0485,Legouvé,Gabriel,1730,Paris,1782,Paris,1803,LEGOUVÉ, Gabriel
-tc0784,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0424,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
-tc0482,Legouvé,Jean-Baptiste,1730,,1782,,,LEGOUVÉ, Jean-Baptiste
-tc0128,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0058,Biancolelli pierre-françois,RICCOBONI A.-F., RICCOBONI L., ROMAGNESI J.-A.,1680,Paris,1734,Paris,,BIANCOLELLI Pierre-François, RICCOBONI A.-F., RICCOBONI L., ROMAGNESI J.-A.
-tc0513,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0096,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
-tc0032,Baculard,François Thomas-Marie,1718,Avignon,1805,Paris,,BACULARD, François Thomas-Marie
-tc0525,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0753,Tristan l_hermite,François,1601,Château de Soliers, Marche,1655,Paris,,TRISTAN L_HERMITE, François
-tc0109,Cailhava d'estendoux,Jean-François,1752,,1828,,,CAILHAVA D'ESTENDOUX, Jean-François
-tc0211,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
-tc0642,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
-tc0733,Scudery,Georges de,1601,Le Havre,1667,Paris,1649,SCUDERY, Georges de
-tc0313,Desmarets de saint-sorlin,Jean dit De Boisval,1595,Paris,1676,Paris,1635,DESMARETS de SAINT-SORLIN, Jean dit De Boisval
-tc0077,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
-tc0635,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
-tc0590,Nadal,Augustin,1659,Poitiers,1741,Poitiers,,NADAL, Augustin
+tc0896,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0729,Tristan l'hermite,François,1601,Château de Soliers, Marche,1655,Paris,,TRISTAN L'HERMITE, François
+tc0667,Rosimond,DUMESNIL Jean-Baptiste dit,1640,,1686,,,ROSIMOND, DUMESNIL Jean-Baptiste dit
+tc0613,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0832,Chabanon,Michel Paul Guy de,1730,Saint-omingue,1792,Paris,1780,CHABANON, Michel Paul Guy de
+tc0669,Soulas d'allainval,Abbé Léonor Jean Christine,1700,Chartres,1753,Paris,,SOULAS d'ALLAINVAL, Abbé Léonor Jean Christine
+tc0845,Brosse,Abraham,1694,Vic-sur-Cère,1758,Paris,1754,BROSSE, Abraham
+tc0310,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0612,Moliere,,1622,Paris,1673,Paris,,MOLIERE
+tc0273,Beaunoir,Alexandre-Louis-Bertrand Robineau dit de,17460,Paris,1823,Paris,,BEAUNOIR, Alexandre-Louis-Bertrand Robineau dit de
+tc0027,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0279,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0152,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0311,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
+tc0215,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0449,Somaize,Antoine BAUDEAU DE,1630,,16??,,,SOMAIZE, Antoine BAUDEAU DE
+tc0284,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0004,Piron,Alexis,1689,Dijon,1773,Paris,,PIRON, Alexis
+tc0682,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
+tc0308,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0042,Dorneval,Jacques-Philippe d'ORNEVAL dit,1686,Paris,1724,Passy,,DORNEVAL, Jacques-Philippe d'ORNEVAL dit
+tc0214,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
+tc0636,Palissot de montenoy,Charles,1730,Nancy,1814,Paris,,PALISSOT de MONTENOY, Charles
+tc0335,Cailleau,André-Charles (1731-1798),1731,Touraine,1798,Paris,1746,CAILLEAU, André-Charles (1731-1798)
+tc0860,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
+tc0003,Carbon de flins,Claude de,1757,Reims,1806,Vervins,,CARBON DE FLINS, Claude de
+tc0400,Anseaume,Louis,1721,Paris,1784,Paris,,ANSEAUME, Louis
+tc0680,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
+tc0726,Nadal,Augustin,1659,Poitiers,1741,Poitiers,,NADAL, Augustin
+tc0869,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0739,Mareschal,André,1601,,1648,,,MARESCHAL, André
+tc0809,Regnard,,1655,Paris,1709,château de grillon, Dourdan,,REGNARD et DUFRESNY
+tc0809,Dufresny,,1655,Paris,1709,château de grillon, Dourdan,,REGNARD et DUFRESNY
+tc0477,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
+tc0889,Diderot,Denis,1713,Paris,1784,Paris,,DIDEROT, Denis
+tc0344,Anonyme,,,,,,,Anonyme
+tc0248,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
+tc0220,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
+tc0386,Palissot de montenoy,Charles,1730,Nancy,1814,Paris,,PALISSOT de MONTENOY, Charles
+tc0880,La fosse,Antoine d'Aubigny,1653,Paris,1708,Paris,,LA FOSSE, Antoine d'Aubigny
+tc0132,Saurin,Jean de,1706,Paris,1781,Paris,1761,SAURIN, Jean de
+tc0011,Genest,Claude-Charles,1637,Paris,1719,Paris,1698,GENEST, Claude-Charles
+tc0105,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0898,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
+tc0756,Eschyle,,-526,Géla (Sicile),-456,Géla (Sicile),,ESCHYLE
+tc0582,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
+tc0492,Sacy,Claude-Louis-Michel de,1746,Fécamp,1794,Paris,,SACY, Claude-Louis-Michel de
+tc0908,Tristan l'hermite,François,1601,Château de Soliers, Marche,1655,Paris,,TRISTAN L'HERMITE, François
+tc0034,Sacy,Claude-Louis-Michel de,1746,Fécamp,1794,Paris,,SACY, Claude-Louis-Michel de
+tc0894,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
+tc0160,Van haren,Onno Zvier,1713,Sint Annaparochie,1779,Wolvega,,VAN HAREN, Onno Zvier
+tc0542,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
+tc0179,Beaunoir,Alexandre-Louis-Bertrand Robineau dit de,17460,Paris,1823,Paris,,BEAUNOIR, Alexandre-Louis-Bertrand Robineau dit de
+tc0617,Molière,,1622,Paris,1673,Paris,,Molière
+tc0548,Dorimond,Nicolas Drouin dit,1628,,1673,,,DORIMOND, Nicolas Drouin dit
+tc0664,Campistron,Jean G. de,1656,Toulouse,1713,Toulouse,1701,CAMPISTRON, Jean G. de
+tc0446,Donneau de visé,Jean,1638,Paris,1710,Paris,,DONNEAU DE VISÉ, Jean
+tc0452,Sacy,Claude-Louis-Michel de,1746,Fécamp,1794,Paris,,SACY, Claude-Louis-Michel de
+tc0100,Magnon,Jean,1601,Bresse,1655,Paris,,MAGNON, Jean
+tc0437,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0806,Hugo,Victor,1802,Besançon,1885,Paris,1841,HUGO, Victor
+tc0376,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
+tc0353,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0413,Ouzicourt,M. d',1???,,17??,,,OUZICOURT, M. d'
+tc0357,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
+tc0808,La croix,Jean de,1606,Rouen,1684,Paris,1647,LA CROIX, Jean de
+tc0662,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0681,La calprenede,Gautier Costes de,1609,château de Toulgou à Salignac,1663,Les Andelys,1673,LA CALPRENEDE, Gautier Costes de
+tc0306,Nivelle de la chaussée,Pierre,1692,Paris,1754,Paris,1736,NIVELLE de la CHAUSSÉE, Pierre
+tc0200,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
+tc0097,Durant,Catherine,16??,,1736,,,DURANT, Catherine
+tc0203,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
+tc0518,Desfontaines,Nicolas-Marie dit,1610,,1652,,,DESFONTAINES, Nicolas-Marie dit
+tc0164,Scudery,Georges de,1601,Le Havre,1667,Paris,1649,SCUDERY, Georges de
+tc0707,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0698,Regnard,Jean-François,1655,Paris,1709,Château de grillon, Dourdan,,REGNARD, Jean-François
+tc0788,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0643,Mercier,Louis-Sébastien,1740,Paris,1814,Paris,1673,MERCIER, Louis-Sébastien
+tc0216,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
+tc0223,Du ryer,Pierre,1605,Paris,1658,Paris,,DU RYER, Pierre
+tc0222,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
+tc0189,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0883,Ouville,Antoine le Métel,1589,Caen,1655,,,OUVILLE, Antoine le Métel
+tc0009,Fuzelier,Louis,1672,Paris,1752,Paris,,FUZELIER, Louis
+tc0123,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0374,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
+tc0261,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0101,Moline,Pierre-Louis,1740,Paris,1820,Paris,,MOLINE, Pierre-Louis
+tc0169,Chevalier,Jean Simonin dit,16..,Dreux,1674,,,CHEVALIER, Jean Simonin dit
+tc0852,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0532,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0167,La grange chancel,François-Joseph,1677,Razac-sur-l-Isle,1758,Razac-sur-l-Isle,1685,LA GRANGE CHANCEL, François-Joseph
+tc0779,Fabié françois,,1618,Albi,1698,Paris,1,FABIÉ François
+tc0646,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0067,Sacy,Claude-Louis-Michel de,1746,Fécamp,1794,Paris,,SACY, Claude-Louis-Michel de
+tc0773,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0795,Le vayer de boutigny,Roland,1627,Paris,1685,Paris,,LE VAYER DE BOUTIGNY, Roland
+tc0885,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0412,Donneau de visé,Jean,1638,Paris,1710,Paris,,DONNEAU DE VISÉ, Jean
+tc0678,Euripide,,-496,,-406,,,EURIPIDE
+tc0706,Mareschal,André,1601,,1648,,,MARESCHAL, André
+tc0176,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0540,(anonyme),,,,,,,(Anonyme)
+tc0724,La harpe,Jean-François de,1739,Paris,1803,Paris,,LA HARPE, Jean-François de
+tc0018,Duche de vancy,Jospeh-François,1668,Paris,1709,Paris,,DUCHE de VANCY, Jospeh-François
+tc0256,Cérou,Le Chevalier Pierre,1709,,1797,Paris,1673,CÉROU, Le Chevalier Pierre
+tc0439,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
+tc0526,Gilbert,Gabriel,1620,Paris,1675,,,GILBERT, Gabriel
+tc0485,Lafont,Joseph de,1686,,17..,Paris,,LAFONT, Joseph de
+tc0784,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0424,Florian,Jean Pierre Claris de,1755,,1794,Paris,,FLORIAN, Jean Pierre Claris de
+tc0482,Campistron,Jean G. de,1656,Toulouse,1713,Toulouse,1701,CAMPISTRON, Jean G. de
+tc0128,Somaize,Antoine BAUDEAU DE,1630,,16??,,,SOMAIZE, Antoine BAUDEAU DE
+tc0058,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0513,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0096,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
+tc0901,Pain,Joseph-Marie,1773,,1830,,,PAIN, Joseph-Marie
+tc0032,Sacy,Claude-Louis-Michel de,1746,Fécamp,1794,Paris,,SACY, Claude-Louis-Michel de
+tc0525,Coupigny,BARRÉ, PIIS, RADET, DESFONTAINES,,,,,,COUPIGNY, BARRÉ, PIIS, RADET, DESFONTAINES
+tc0753,Plaute,,,Rome,,,1673,PLAUTE
+tc0109,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
+tc0211,Regnard,Jean-François,1655,Paris,1709,Château de Grillon, Dourdan,,REGNARD, Jean-François
+tc0642,Lesage,Alain-René,1668,Sarzeau,1747,Boulogne-sur-mer,1746,LESAGE, Alain-René
+tc0733,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0077,Chevalier,Jean Simonin dit,16..,Dreux,1674,,,CHEVALIER, Jean Simonin dit
+tc0872,La calprenede,Gautier Costes de,1609,château de Toulgou à Salignac,1663,Les Andelys,1673,LA CALPRENEDE, Gautier Costes de
+tc0635,Tanevot,Alexandre,1691,,1773,,,TANEVOT, Alexandre
+tc0590,Gillet de la tessonerie,,1620,,166?,,,GILLET DE LA TESSONERIE
+tc0909,Beaunoir,Alexandre-Louis-Bertrand Robineau dit de,17460,Paris,1823,Paris,,BEAUNOIR, Alexandre-Louis-Bertrand Robineau dit de
 tc0043,Beaunoir,Alexandre-Louis-Bertrand Robineau dit de,17460,Paris,1823,Paris,,BEAUNOIR, Alexandre-Louis-Bertrand Robineau dit de
-tc0267,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
-tc0146,Carrière-doisin a.,,17..,,17..,,,CARRIÈRE-DOISIN A.
-tc0140,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0483,Legouvé,Gabriel,1730,Paris,1782,Paris,1803,LEGOUVÉ, Gabriel
-tc0309,Deshoulières,Antoinette du Ligier de la Garde,1638,Paris,1694,Paris,,DESHOULIÈRES, Antoinette du Ligier de la Garde
-tc0615,Piron,Alexis,1689,Dijon,1773,Paris,,PIRON, Alexis
-tc0757,Urfé,Honoré d',1558,Marseille,1625,Villefranche-sur-Mer,,URFÉ, Honoré d'
-tc0665,Racine,Jean,1639,La Ferté Millon,1699,Paris,1673,RACINE, Jean
-tc0304,Delavigne,Casimir,1793,Le Havre,1843,Lyon,1825,DELAVIGNE, Casimir
-tc0296,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0135,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0767,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0056,Biancolelli,Pierre François,1680,Paris,1734,Paris,,BIANCOLELLI, Pierre François
-tc0743,Somaize,Antoine BAUDEAU DE,1630,,16??,,,SOMAIZE, Antoine BAUDEAU DE
-tc0094,Boyer,Claude,1618,Albi,1698,Paris,1666,BOYER, Claude
-tc0071,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
-tc0576,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0143,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
-tc0348,Du fresny,Charles Rivière,1657,Paris,1724,Paris,,DU FRESNY, Charles Rivière
-tc0462,La fontaine,Jean de,1621,Château-Thierry,1695,Paris,,LA FONTAINE, Jean de
-tc0454,Lafont,Joesph de,1686,Paris,1724,Passy,,LAFONT, Joesph de
-tc0246,Cubières-palmézeaux,Michel de,1752,Gard,1820,Paris,,CUBIÈRES-PALMÉZEAUX, Michel de
-tc0390,Favart,Charles-Simon,1710,Paris,1792,Paris,1736,FAVART, Charles-Simon
-tc0777,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0551,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0515,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0267,Archambault,Louis-François,1742,Paris,1812,Paris,,ARCHAMBAULT, Louis-François
+tc0146,Boyer,Claude,1618,Albi,1698,Paris,1,BOYER, Claude
+tc0140,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0905,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0483,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
+tc0309,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0615,Lafont,Joseph de,1686,Paris,1724,Passy,,LAFONT, Joseph de ; LESAGE, Alain-René
+tc0615,Lesage,Alain-René,1686,Paris,1724,Passy,,LAFONT, Joseph de ; LESAGE, Alain-René
+tc0757,Rotrou,Jean,1609,Dreux,1650,Dreux,,ROTROU, Jean
+tc0665,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0304,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0296,La fontaine,Jean de,1621,Château-Thierry,1695,Paris,,LA FONTAINE, Jean de
+tc0847,Urfé,Honoré d',1558,Marseille,1625,Villefranche-sur-Mer,,URFÉ, Honoré d'
+tc0135,Dupaty,Emmanuel,1775,Blanquefort,1851,Paris,1647,DUPATY, Emmanuel
+tc0767,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0056,Du fresny,Charles Rivière,1657,Paris,1724,Paris,,DU FRESNY, Charles Rivière
+tc0743,Champméslé,Charles Chevillet dit,1642,Paris,1701,Paris,,CHAMPMÉSLÉ, Charles Chevillet dit
+tc0094,Corneille,Thomas,1625,Rouen,1709,Les Andelys,1685,CORNEILLE, Thomas
+tc0861,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0071,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
+tc0576,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0143,Biancolelli pierre-françois (1680-1734),ROMAGNESI Jean-Antoine (1690-1742),1680,Paris,1734,Paris,,BIANCOLELLI Pierre-François (1680-1734), ROMAGNESI Jean-Antoine (1690-1742)
+tc0348,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0462,Vadé,Jean-Joseph,1720,Ham,1757,Paris,,VADÉ, Jean-Joseph
+tc0454,Durant,Catherine,16??,,1736,,,DURANT, Catherine
+tc0246,Tristan l'hermite,François,1601,Château de Soliers, Marche,1655,Paris,,TRISTAN L'HERMITE, François
+tc0390,La fontaine,Jean de,1621,Château-Thierry,1695,Paris,,LA FONTAINE, Jean de
+tc0810,Ouville,Antoine le Métel,1589,Caen,1655,,,OUVILLE, Antoine le Métel
+tc0777,Rousseau,Jean Baptiste,1670,Paris,1741,Bruxelles,1743,ROUSSEAU, Jean Baptiste
+tc0551,Euripide,,-496,,-406,,,EURIPIDE
+tc0515,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
 tc0541,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0479,Lebeau de schosme,Abbé Auguste-Théodore-Vincent,17..,,17..,,,LEBEAU DE SCHOSME, Abbé Auguste-Théodore-Vincent  
-tc0719,Saurin,Jean de,1706,Paris,1781,Paris,1761,SAURIN, Jean de
-tc0372,Durant,Catherine,16??,,1736,,,DURANT, Catherine
-tc0604,Palissot de montenoy,Charles,1730,Nancy,1814,Paris,,PALISSOT de MONTENOY, Charles
-tc0514,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0153,Champméslé,Charles Chevillet dit,1642,Paris,1701,Paris,,CHAMPMÉSLÉ, Charles Chevillet dit
-tc0641,Quinault,Philippe,1635,Paris,1688,Paris,1670,QUINAULT, Philippe
-tc0553,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0359,Dugazon,Henri Jean-Henri Gourgaud dit,1746,Marseille,1809,Sandillon,,DUGAZON,  Henri Jean-Henri Gourgaud dit
-tc0632,Pradon,Nicolas,1632,Rouen,1698,Paris,,PRADON, Nicolas
-tc0495,Le tellier,Jean-François,,Château-Thierry,1732,Paris,,LE TELLIER, Jean-François
-tc0610,Patrat,Joseph,1633,Arles,1801,Paris,,PATRAT, Joseph
-tc0555,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0487,Legrand,Marc-Antoine,1673,Paris,1728,Paris,,LEGRAND, Marc-Antoine
-tc0535,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
-tc0631,Pradon,Nicolas,1632,Rouen,1698,Paris,,PRADON, Nicolas
-tc0685,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0453,L'affichard,Thomas,1698,,1753,,,L'AFFICHARD, Thomas
-tc0666,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
-tc0580,Molière,,1622,Paris,1673,Paris,,MOLIÈRE
-tc0448,La calprenede,Gautier Costes de,1609,château de Toulgou à Salignac,1663,Les Andelys,1673,LA CALPRENEDE, Gautier Costes de
-tc0345,Dufresny,Charles,1657,Paris,1724,Paris,,DUFRESNY, Charles
-tc0504,Mairet,Jean,1604,Besançon,1686,Besançon,,MAIRET, Jean
-tc0745,Somaize,Antoine BAUDEAU DE,1630,,16??,,,SOMAIZE, Antoine BAUDEAU DE
-tc0073,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
-tc0276,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
-tc0021,Archambault,Louis-François,1742,Paris,1812,Paris,,ARCHAMBAULT, Louis-François
-tc0061,Bievre,François George Maréchal, marquis de,1747,Paris,1789,Bavière,,BIEVRE, François George Maréchal, marquis de
-tc0084,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
-tc0076,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
-tc0786,Voltaire,,1694,Paris,1778,Paris,1746,VOLTAIRE
-tc0364,Durant,Catherine,16??,,1736,,,DURANT, Catherine
-tc0758,Vadé,Jean-Joseph,1720,Ham,1757,Paris,,VADÉ, Jean-Joseph
-tc0434,Harny de guerville,,17??,,17??,,,HARNY DE GUERVILLE
-tc0427,Gueullette,Thomas-Simon,1683,Paris,1766,Charenton,,GUEULLETTE, Thomas-Simon
-tc0432,Guibert,Elisabeth,1725,,1787,,,GUIBERT, Elisabeth
-tc0332,Dorneval,Jacques-Philippe d'ORNEVAL dit,1686,Paris,1724,Passy,,DORNEVAL, Jacques-Philippe d'ORNEVAL dit
+tc0479,Sacy,Claude-Louis-Michel de,1746,Fécamp,1794,Paris,,SACY, Claude-Louis-Michel de
+tc0865,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0719,Regnard,Jean-François,1655,Paris,1709,château de grillon, Dourdan,,REGNARD, Jean-François
+tc0372,Moliere,,1622,Paris,1673,Paris,,MOLIERE
+tc0604,Boursault,Edme,1638,Mussy-l Evêque,1701,Paris,,BOURSAULT, Edme
+tc0514,Chazet,,,,,,,CHAZET et DUBOIS
+tc0514,Dubois,,,,,,,CHAZET et DUBOIS
+tc0153,Segur,Alexandre-Joseph-Pierre, vicomte de,1756,,1805,Bagnères-de-Bigorre,,SEGUR, Alexandre-Joseph-Pierre, vicomte de
+tc0641,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
+tc0553,Poisson,Philippe,1682,,1743,Paris,,POISSON, Philippe
+tc0359,Fuzelier,,,,,,,FUZELIER et LEGRAND, Louis et Marc-Antoine
+tc0359,Legrand,Louis,,,,,,FUZELIER et LEGRAND, Louis et Marc-Antoine
+tc0359,Marc-antoine,,,,,,,FUZELIER et LEGRAND, Louis et Marc-Antoine
+tc0632,Le mierre,Antoine-Marin,1723,Paris,1793,Saint-Germain-en-Laye,1781,LE MIERRE, Antoine-Marin
+tc0495,Biancolelli,Pierre François,1680,,1734,,,BIANCOLELLI, Pierre François
+tc0610,Crébillon,Prosper J. de,1674,Dijon,1762,Paris,1731,CRÉBILLON, Prosper J. de
+tc0555,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
+tc0487,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
+tc0535,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
+tc0631,Legouvé,Jean-Baptiste,1730,,1782,,,LEGOUVÉ, Jean-Baptiste
+tc0685,Lafont,Joesph de,1686,Paris,1724,Passy,,LAFONT, Joesph de
+tc0453,Boissy,Louis de,1694,Vic-sur-Cère,1758,Paris,1754,BOISSY, Louis de
+tc0666,Carmontelle,Louis Carrogis, dit Louis de Carmontelle,1717,Paris,1806,Paris,Poitiers,CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle
+tc0580,Crébillon,Claude-Prosper Jolyot de, fils,1707,Dijon,1777,Paris,1731,CRÉBILLON, Claude-Prosper Jolyot de, fils
+tc0448,Sacy,Claude-Louis-Michel de,1746,Fécamp,1794,Paris,,SACY, Claude-Louis-Michel de
+tc0814,Corneille,Pierre,1606,Rouen,1684,Paris,1647,CORNEILLE, Pierre
+tc0345,Marivaux,,1688,Auvergne,1763,Paris,1743,MARIVAUX
+tc0504,Scarron,Paul,1610,Paris,1660,Paris,,SCARRON, Paul
+tc0745,La calprenede,Gautier Costes de,1609,château de Toulgou à Salignac,1663,Les Andelys,1673,LA CALPRENEDE, Gautier Costes de
+tc0073,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
+tc0276,Marchadier,l'Abbé,1709,Amiens,1777,Amiens,1748,MARCHADIER, l'Abbé
+tc0021,Scudery,Georges de,1601,Le Havre,1667,Paris,1649,SCUDERY, Georges de
+tc0061,Sacy,Claude-Louis-Michel de,1746,Fécamp,1794,Paris,,SACY, Claude-Louis-Michel de
+tc0084,Campistron,Jean G. de,1656,Toulouse,1713,Toulouse,1701,CAMPISTRON, Jean G. de
+tc0786,(anonyme),,,,,,,(anonyme)
+tc0758,Archambault,Louis-François,1742,Paris,1812,Paris,,ARCHAMBAULT, Louis-François
+tc0427,Dancourt,Florent Carton dit,1661,Paris,1725,Paris,,DANCOURT, Florent Carton dit
+tc0432,Dumaniant,Antoine-Jean Bourlin dit,1752,,1828,,,DUMANIANT, Antoine-Jean Bourlin dit
+tc0332,Dancourt,Florent CARTON dit,1661,Fontainebleau,1725,Courcelles-le-Roi,,DANCOURT, Florent CARTON dit
