@@ -85,8 +85,14 @@
           <role xml:id="tc0623-ELVIRE">ELVIRE</role>
         </castItem>
         <castItem>
-          <role xml:id="tc0623-UnPage">Un Page</role>
+          <role xml:id="tc0623-PAGE">Un Page</role>
         </castItem>
+		<castItem>
+			<role xml:id="tc0623-LECOMTE">LE COMTE</role>
+		</castItem>
+		<castItem>
+			<role xml:id="tc0623-LINFANTE">L'INFANTE</role>
+		</castItem>
       </castList>
       <set>
         <p>La scène est à Séville.</p>
